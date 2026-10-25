@@ -5,9 +5,65 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 25 Oct 2026 02:42:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 06:38:45 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Ledge</title>
+      <link>https://ledgeapp.dev</link>
+      <guid isPermaLink="false">9bc51364b90bbab5a9dd4b9f804cb483ba5000b8:Ledge</guid>
+      <pubDate>Sun, 25 Oct 2026 06:38:45 GMT</pubDate>
+      <category>其它实用工具 / 菜单栏工具</category>
+      <description>Category: 其它实用工具 / 菜单栏工具
+App: Ledge
+Description: 将刘海区域变成灵动岛风格的状态区，显示正在播放、计时器、下一场会议、天气、备忘录和保持唤醒（需 macOS 26+）。[![Open-Source Software][OSS Icon]](https://github.com/egemertbalcik/Ledge)
+Website: https://ledgeapp.dev
+Commit: Add Ledge to Menu Bar Tools (#3838)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9bc51364b90bbab5a9dd4b9f804cb483ba5000b8</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Ledge<br/>Description: 将刘海区域变成灵动岛风格的状态区，显示正在播放、计时器、下一场会议、天气、备忘录和保持唤醒（需 macOS 26+）。[![Open-Source Software][OSS Icon]](https://github.com/egemertbalcik/Ledge)<br/>Website: https://ledgeapp.dev<br/>Commit: Add Ledge to Menu Bar Tools (#3838)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9bc51364b90bbab5a9dd4b9f804cb483ba5000b8]]></content:encoded>
+    </item>
+    <item>
+      <title>Kurenai</title>
+      <link>https://lorder19.github.io/kurenai/</link>
+      <guid isPermaLink="false">46d6a080599b124400b7f2b7a37e8d94dab9d33d:Kurenai</guid>
+      <pubDate>Sun, 25 Oct 2026 04:11:56 GMT</pubDate>
+      <category>其它实用工具 / 剪贴板工具</category>
+      <description>Category: 其它实用工具 / 剪贴板工具
+App: Kurenai
+Description: 可搜索的剪贴板历史、常用短语列表，以及按 ⌘V 依次粘贴已复制内容的粘贴队列。不保存密码，历史记录加密存储。
+Website: https://lorder19.github.io/kurenai/
+Commit: Rename Clippo to Kurenai (#3839)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/46d6a080599b124400b7f2b7a37e8d94dab9d33d</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: Kurenai<br/>Description: 可搜索的剪贴板历史、常用短语列表，以及按 ⌘V 依次粘贴已复制内容的粘贴队列。不保存密码，历史记录加密存储。<br/>Website: https://lorder19.github.io/kurenai/<br/>Commit: Rename Clippo to Kurenai (#3839)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/46d6a080599b124400b7f2b7a37e8d94dab9d33d]]></content:encoded>
+    </item>
+    <item>
+      <title>MacClean</title>
+      <link>https://thulem.com/</link>
+      <guid isPermaLink="false">6d43c76ab68a27bb2d74f7829fee3e3711f4906d:MacClean</guid>
+      <pubDate>Sun, 25 Oct 2026 04:08:58 GMT</pubDate>
+      <category>其它实用工具 / 清理卸载</category>
+      <description>Category: 其它实用工具 / 清理卸载
+App: MacClean
+Description: 免费本地 Mac 清理工具，可先查看微信媒体、系统数据与 Xcode/AI 缓存再清理。
+Website: https://thulem.com/
+Commit: Add MacClean to cleanup and uninstall listings (#3224)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6d43c76ab68a27bb2d74f7829fee3e3711f4906d</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: MacClean<br/>Description: 免费本地 Mac 清理工具，可先查看微信媒体、系统数据与 Xcode/AI 缓存再清理。<br/>Website: https://thulem.com/<br/>Commit: Add MacClean to cleanup and uninstall listings (#3224)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6d43c76ab68a27bb2d74f7829fee3e3711f4906d]]></content:encoded>
+    </item>
+    <item>
+      <title>MDViewer</title>
+      <link>https://mmmikael.github.io/mdviewer/</link>
+      <guid isPermaLink="false">1b4a5e29b83225f5000c5177751df1197d46353d:MDViewer</guid>
+      <pubDate>Sun, 25 Oct 2026 03:19:02 GMT</pubDate>
+      <category>阅读与写作工具 / Markdown</category>
+      <description>Category: 阅读与写作工具 / Markdown
+App: MDViewer
+Description: 快速的 Markdown 查看器，支持实时刷新、Quick Look 预览、Mermaid 图表、数学公式，以及使用自己的密钥或本地模型的可选 AI 摘要。
+Website: https://mmmikael.github.io/mdviewer/
+Commit: Add MDViewer to Markdown Tools (#3835)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1b4a5e29b83225f5000c5177751df1197d46353d</description>
+      <content:encoded><![CDATA[Category: 阅读与写作工具 / Markdown<br/>App: MDViewer<br/>Description: 快速的 Markdown 查看器，支持实时刷新、Quick Look 预览、Mermaid 图表、数学公式，以及使用自己的密钥或本地模型的可选 AI 摘要。<br/>Website: https://mmmikael.github.io/mdviewer/<br/>Commit: Add MDViewer to Markdown Tools (#3835)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1b4a5e29b83225f5000c5177751df1197d46353d]]></content:encoded>
+    </item>
     <item>
       <title>Clipstack</title>
       <link>https://chiranjeebhub.github.io/clipstack-site/</link>
@@ -651,62 +707,6 @@ Website: https://peel.tuguidragos.com/
 Commit: Add Peel to Cleanup and Uninstall (#3588)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/445e46a271120577ad208f84d8ea3f662070fd92</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: Peel<br/>Description: 免费开源的卸载与清理工具：连同应用留下的所有文件一起移除，告诉你每个文件为什么属于它，并把一切移到废纸篓，需要时还能放回。<br/>Website: https://peel.tuguidragos.com/<br/>Commit: Add Peel to Cleanup and Uninstall (#3588)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/445e46a271120577ad208f84d8ea3f662070fd92]]></content:encoded>
-    </item>
-    <item>
-      <title>MagicWall</title>
-      <link>https://github.com/davidullo/magicwall</link>
-      <guid isPermaLink="false">1cf92871c02f468f08f2205256dbc6f2533a5d7a:MagicWall</guid>
-      <pubDate>Sun, 18 Oct 2026 00:25:05 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: MagicWall
-Description: 将本地视频设为桌面壁纸。
-Open Source: https://github.com/davidullo/magicwall
-Commit: Add MagicWall
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1cf92871c02f468f08f2205256dbc6f2533a5d7a</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: MagicWall<br/>Description: 将本地视频设为桌面壁纸。<br/>Open Source: https://github.com/davidullo/magicwall<br/>Commit: Add MagicWall<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1cf92871c02f468f08f2205256dbc6f2533a5d7a]]></content:encoded>
-    </item>
-    <item>
-      <title>Textus</title>
-      <link>https://textus.catvinci.com</link>
-      <guid isPermaLink="false">4283a6a65848e8164e4369378a6a420c4e3fea81:Textus</guid>
-      <pubDate>Sat, 17 Oct 2026 23:23:37 GMT</pubDate>
-      <category>阅读与写作工具 / Markdown</category>
-      <description>Category: 阅读与写作工具 / Markdown
-App: Textus
-Description: 所见即所得的 Markdown 编辑器，支持公式、表格和 Mermaid，可选 AI 写作助手，支持云端与本地模型。
-Website: https://textus.catvinci.com
-Commit: Add Textus to Markdown Tools (EN/ZH/JA/KO) (#3574)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4283a6a65848e8164e4369378a6a420c4e3fea81</description>
-      <content:encoded><![CDATA[Category: 阅读与写作工具 / Markdown<br/>App: Textus<br/>Description: 所见即所得的 Markdown 编辑器，支持公式、表格和 Mermaid，可选 AI 写作助手，支持云端与本地模型。<br/>Website: https://textus.catvinci.com<br/>Commit: Add Textus to Markdown Tools (EN/ZH/JA/KO) (#3574)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4283a6a65848e8164e4369378a6a420c4e3fea81]]></content:encoded>
-    </item>
-    <item>
-      <title>Dynamic Menu Bar</title>
-      <link>https://dynamicmenubar.com</link>
-      <guid isPermaLink="false">f45cf3ffa2d7d826f917d56f23e48105529c747d:Dynamic Menu Bar</guid>
-      <pubDate>Sat, 17 Oct 2026 23:15:52 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: Dynamic Menu Bar
-Description: 改变 macOS 菜单栏的颜色和形状：实时取色、渐变、音乐可视化和按应用配置。
-Website: https://dynamicmenubar.com
-Commit: Add Dynamic Menu Bar to Menu Bar Tools (#2775)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f45cf3ffa2d7d826f917d56f23e48105529c747d</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Dynamic Menu Bar<br/>Description: 改变 macOS 菜单栏的颜色和形状：实时取色、渐变、音乐可视化和按应用配置。<br/>Website: https://dynamicmenubar.com<br/>Commit: Add Dynamic Menu Bar to Menu Bar Tools (#2775)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f45cf3ffa2d7d826f917d56f23e48105529c747d]]></content:encoded>
-    </item>
-    <item>
-      <title>mFix</title>
-      <link>https://github.com/Zingzy/mFix</link>
-      <guid isPermaLink="false">606a68513b14a6dc71777bcac963468b86a874fe:mFix</guid>
-      <pubDate>Sat, 17 Oct 2026 22:16:07 GMT</pubDate>
-      <category>其它实用工具 / 窗口管理</category>
-      <description>Category: 其它实用工具 / 窗口管理
-App: mFix
-Description: 开源窗口管理器，支持快捷键与拖拽贴靠、贴靠布局、带实时预览的 Cmd+Tab 窗口切换器，以及 Dock 窗口预览。
-Open Source: https://github.com/Zingzy/mFix
-Commit: Add mFix to Window Management (EN/ZH/JA/KO) (#3565)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/606a68513b14a6dc71777bcac963468b86a874fe</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: mFix<br/>Description: 开源窗口管理器，支持快捷键与拖拽贴靠、贴靠布局、带实时预览的 Cmd+Tab 窗口切换器，以及 Dock 窗口预览。<br/>Open Source: https://github.com/Zingzy/mFix<br/>Commit: Add mFix to Window Management (EN/ZH/JA/KO) (#3565)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/606a68513b14a6dc71777bcac963468b86a874fe]]></content:encoded>
     </item>
   </channel>
 </rss>

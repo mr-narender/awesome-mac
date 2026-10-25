@@ -121,7 +121,6 @@ Awesome Mac
   - [正则编辑器](#正则编辑器)
   - [API开发和分析](#api开发和分析)
   - [网络分析](#网络分析)
-  - [命令行工具](#命令行工具)
   - [版本控制](#版本控制)
   - [版本控制 GUI](#版本控制-gui)
   - [版本控制系统](#版本控制系统)
@@ -937,6 +936,7 @@ Awesome Mac
 * [Marp](https://marp.app) - Markdown 制作幻灯片编辑器。[![Open-Source Software][OSS Icon]](https://github.com/marp-team/marp) ![Freeware][Freeware Icon]
 * [Marxico马克飞象](https://maxiang.io/) - 专为印象笔记打造的Markdown编辑器，结合强大的存储和同步功能，带来极致的书写体验。
 * [妙言](https://miaoyan.app/) - 轻灵的 Markdown 笔记本伴你写出妙言。
+* [MDViewer](https://mmmikael.github.io/mdviewer/) - 快速的 Markdown 查看器，支持实时刷新、Quick Look 预览、Mermaid 图表、数学公式，以及使用自己的密钥或本地模型的可选 AI 摘要。 [![Open-Source Software][OSS Icon]](https://github.com/mmmikael/mdviewer) ![Freeware][Freeware Icon]
 * [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。
 * [Obsidian](https://obsidian.md) - 你的第二大脑 ![Freeware][Freeware Icon]
 * [Pixley Reader](https://github.com/Applacat/PixleyReader) - 用于浏览 AI 工具生成的 Markdown 规范、文档和更新日志的阅读器。 [![Open-Source Software][OSS Icon]](https://github.com/Applacat/PixleyReader) [![App Store][app-store Icon]](https://apps.apple.com/cn/app/id6758722045?platform=mac)
@@ -1342,7 +1342,6 @@ Awesome Mac
 * [Buffer](https://samirpatil2000.github.io/products/buffer/) - 轻量的原生剪贴板管理工具，支持图片 OCR 和书签。 [![Open-Source Software][OSS Icon]](https://github.com/samirpatil2000/Buffer) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CleanClip](https://cleanclip.cc) - 最简洁的剪贴板管理器。 ![Freeware][Freeware Icon]
 * [ClipMenu](http://www.clipmenu.com) - 一个剪贴板操作的管理器。[![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
-* [Clippo](https://lorder19.github.io/clippo/) - 可搜索的剪贴板历史、常用短语列表，以及按 ⌘V 依次粘贴已复制内容的粘贴队列。不保存密码，历史记录加密存储。 [![Open-Source Software][OSS Icon]](https://github.com/Lorder19/clippo) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Clippy](https://github.com/yarasaa/Clippy) - 智能剪贴板管理器，支持内容感知预览、AI 转换、内置截图编辑器和文件格式转换器。 [![Open-Source Software][OSS Icon]](https://github.com/yarasaa/Clippy) ![Freeware][Freeware Icon]
 * [ClipHistory](https://github.com/weiykong/ClipHistory) - 轻量的原生剪贴板管理器，支持热键弹窗、搜索、置顶和文本/图片历史。 [![Open-Source Software][OSS Icon]](https://github.com/weiykong/ClipHistory) ![Freeware][Freeware Icon]
 * [ClipRecallBar](https://turhe123.github.io/clip-recall-bar/) - 键盘优先的剪贴板历史弹窗，边输入边筛选，一键粘贴。 [![Open-Source Software][OSS Icon]](https://github.com/turhe123/clip-recall-bar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1355,6 +1354,7 @@ Awesome Mac
 * [iPaste](https://en.toolinbox.net/iPaste) - 轻巧高效的剪贴板工具。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1056935452?ls=1&at=1000lv4R&ct=iPaste_me&platform=mac)
 * [Clipstack](https://chiranjeebhub.github.io/clipstack-site/) - 原生剪贴板历史工具，支持搜索、按类型筛选、置顶和可选的 iCloud 同步。 [![Open-Source Software][OSS Icon]](https://github.com/chiranjeebhub/ClipStack) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [ClipTools](https://macmost.com/cliptools) - 方便快速复制、粘贴和整理文本的剪贴板工具集。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/cliptools/id1619348240?platform=mac)
+* [Kurenai](https://lorder19.github.io/kurenai/) - 可搜索的剪贴板历史、常用短语列表，以及按 ⌘V 依次粘贴已复制内容的粘贴队列。不保存密码，历史记录加密存储。 [![Open-Source Software][OSS Icon]](https://github.com/Lorder19/kurenai) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Maccy](https://github.com/p0deje/Maccy) - 轻量级 macOS 剪贴板管理器。 [![Open-Source Software][OSS Icon]](https://github.com/p0deje/Maccy)
 * [Mask This](https://apps.apple.com/us/app/mask-this/id6759096128) - 在剪贴板中自动遮蔽敏感信息的菜单栏工具。 [![Open-Source Software][OSS Icon]](https://github.com/tseylerd/MaskThis) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/mask-this/id6759096128)
 * [Nimclip](https://hukdoesn.github.io/Nimclip/) - 本地优先的剪贴板历史管理工具，支持搜索、标签和图片记录。 [![Open-Source Software][OSS Icon]](https://github.com/hukdoesn/Nimclip) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1410,6 +1410,7 @@ Awesome Mac
 * [Itsytv](https://itsytv.app/) - 从菜单栏控制 Apple TV。[![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsytv-macos) ![Freeware][Freeware Icon]
 * [Keelhaven](https://keelhaven.app) - 按计划把文件夹加密备份到本地磁盘、S3、SFTP 或 REST 服务器的菜单栏工具。 [![Open-Source Software][OSS Icon]](https://github.com/shenxianpeng/keelhaven) ![Freeware][Freeware Icon]
 * [KeyStats](https://keystats.vercel.app) - 统计每日按键、点击、移动和滚动数据的菜单栏工具。 [![Open-Source Software][OSS Icon]](https://github.com/debugtheworldbot/keyStats) ![Freeware][Freeware Icon]
+* [Ledge](https://ledgeapp.dev) - 将刘海区域变成灵动岛风格的状态区，显示正在播放、计时器、下一场会议、天气、备忘录和保持唤醒（需 macOS 26+）。[![Open-Source Software][OSS Icon]](https://github.com/egemertbalcik/Ledge) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Logoer](https://github.com/lihaoyun6/Logoer) - 更换 macOS 菜单栏苹果 Logo 样式的小工具。[![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/Logoer) ![Freeware][Freeware Icon]
 * [MacTools](https://github.com/ggbond268/MacTools) - 原生开源的 macOS 菜单栏工具集，采用可扩展插件系统，提供显示控制、系统开关、清理、设备状态与日常实用功能。 [![Open-Source Software][OSS Icon]](https://github.com/ggbond268/MacTools) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Lunavect](https://github.com/lovach/Lunavect) - Menu bar app and desktop widgets showing which Claude Code or Codex session is working, waiting for input, or done, with usage limits and activity. [![Open-Source Software][OSS Icon]](https://github.com/lovach/Lunavect) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1489,6 +1490,7 @@ Awesome Mac
 * [Headroom](https://headroom-app.org) - 快速的磁盘空间分析器，提供树状图和重复文件查找，并在删除前将缓存和开发者文件夹标记为“安全”、“谨慎”或“切勿删除”。 [![Open-Source Software][OSS Icon]](https://github.com/Ryware/Headroom) ![Freeware][Freeware Icon]
 * [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) - 缓存清理工具 [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
 * [MAC-LIMPO](https://alexkads.github.io/MAC-LIMPO/) - 面向开发者的菜单栏清理工具，清理 Xcode、Docker、模拟器、node_modules 等缓存，并用 2D/3D 矩形树图展示磁盘占用。 [![Open-Source Software][OSS Icon]](https://github.com/alexkads/MAC-LIMPO) ![Freeware][Freeware Icon]
+* [MacClean](https://thulem.com/) - 免费本地 Mac 清理工具，可先查看微信媒体、系统数据与 Xcode/AI 缓存再清理。 [![Open-Source Software][OSS Icon]](https://github.com/jinglings/MacClean) ![Freeware][Freeware Icon]
 * [MacDirStat](https://github.com/phalladar/MacDirStat) - 受 WinDirStat 启发的开源磁盘空间分析工具，用交互式矩形树图展示空间占用情况。 [![Open-Source Software][OSS Icon]](https://github.com/phalladar/MacDirStat) ![Freeware][Freeware Icon]
 * [MacSift](https://lcharvol.github.io/MacSift/) - 按应用分组文件并移入废纸篓的开源磁盘清理工具。 [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/MacSift) ![Freeware][Freeware Icon]
 * [MangoDisk](https://mangodisk.app/zh) - 免费开源的磁盘清理与空间分析工具，本地扫描并在删除前显示具体路径和大小。 [![Open-Source Software][OSS Icon]](https://github.com/harry0703/MangoDisk) ![Freeware][Freeware Icon]

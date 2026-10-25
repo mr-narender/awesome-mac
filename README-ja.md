@@ -116,7 +116,7 @@ Awesome Mac
 - [読み書きツール](#読み書きツール)
     - [テキストエディタ](#テキストエディタ)
     - [オフィス](#オフィス)
-    - [Markdownツール](#markdownツール)
+    - [Markdownツール](#markdownツール-)
     - [メモ・ノート](#メモノート)
     - [ジャーナリング](#ジャーナリング)
     - [ライティング](#ライティング)
@@ -126,32 +126,32 @@ Awesome Mac
 - [開発ツール](#開発ツール)
     - [IDE](#ide)
     - [開発者ユーティリティ](#開発者ユーティリティ)
-    - [正規表現エディタ](#正規表現エディタ)
-    - [API開発・分析](#api開発分析)
+    - [正規表現エディター](#正規表現エディター)
+    - [API開発と分析](#api開発と分析)
     - [ネットワーク分析](#ネットワーク分析)
-    - [ハイブリッドアプリケーションフレームワーク](#ハイブリッドアプリケーションフレームワーク)
+    - [ハイブリッドアプリケーション用フレームワーク](#ハイブリッドアプリケーション用フレームワーク)
     - [バージョン管理](#バージョン管理)
     - [仮想化](#仮想化)
     - [データベース](#データベース)
     - [ターミナルアプリ](#ターミナルアプリ)
 - [デザインとプロダクト](#デザインとプロダクト)
     - [デザインツール](#デザインツール)
-    - [プロトタイピング・マインドマップツール](#プロトタイピングマインドマップツール)
+    - [プロトタイピングとマインドマッピングツール](#プロトタイピングとマインドマッピングツール)
     - [スクリーンショットツール](#スクリーンショットツール)
     - [画面録画](#画面録画)
     - [その他のツール](#その他のツール)
 - [AIツール](#aiツール)
 - [コミュニケーション](#コミュニケーション)
-    - [コラボレーション・チームツール](#コラボレーションチームツール)
+    - [コラボレーションとチームツール](#コラボレーションとチームツール)
     - [メールクライアント](#メールクライアント)
     - [ファイル共有](#ファイル共有)
 - [データ復旧ツール](#データ復旧ツール)
-- [音声・動画ツール](#音声動画ツール)
-    - [音声録音・編集](#音声録音編集)
+- [オーディオ・ビデオツール](#オーディオビデオツール)
+    - [オーディオ録音・処理](#オーディオ録音処理)
 - [ダウンロード管理ツール](#ダウンロード管理ツール)
 - [クラウドストレージ](#クラウドストレージ)
 - [入力方法](#入力方法)
-- [音声入力](#音声入力)
+- [音声テキスト変換](#音声テキスト変換)
 - [ブラウザ](#ブラウザ)
 - [翻訳ツール](#翻訳ツール)
 - [教育](#教育)
@@ -163,18 +163,18 @@ Awesome Mac
     - [クリップボードツール](#クリップボードツール)
     - [メニューバーツール](#メニューバーツール)
     - [クリーンアップとアンインストール](#クリーンアップとアンインストール)
-    - [ファイル整理ツール](#ファイル整理ツール)
+    - [ファイル管理ツール](#ファイル管理ツール)
     - [一般ツール](#一般ツール)
     - [ToDoリスト](#todoリスト)
-    - [生産性向上](#生産性向上)
+    - [生産性ツール](#生産性ツール)
     - [ウィンドウ管理](#ウィンドウ管理)
     - [パスワード管理](#パスワード管理)
     - [Finderツール](#finderツール)
-    - [生活の質を向上させるツール](#生活の質を向上させるツール)
+    - [生活の質の向上](#生活の質の向上)
     - [システム関連ツール](#システム関連ツール)
 - [ゲームソフトウェア](#ゲームソフトウェア)
 - [リモートログインソフトウェア](#リモートログインソフトウェア)
-- [QuickLookプラグイン](#quicklookプラグイン)
+- [クイックルックプラグイン](#クイックルックプラグイン)
 - [サードパーティアプリマーケット](#サードパーティアプリマーケット)
     - [パッケージマネージャー](#パッケージマネージャー)
 - [Macアプリダウンロードサイト](#macアプリダウンロードサイト)
@@ -244,6 +244,7 @@ Awesome Mac
 * [MarkViewer](https://markviewer.com) - macOS向けのMarkdownビューア兼エディタ、AI支援編集機能付き。 ![Freeware][Freeware Icon]
 * [Marp](https://marp.app) - クロスプラットフォーム対応のMarkdownプレゼンテーション作成ツール。 [![Open-Source Software][OSS Icon]](https://github.com/marp-team/marp) ![Freeware][Freeware Icon]
 * [Marxico](https://marxi.co/) - Evernote用の洗練されたMarkdownエディタ。信頼性の高いストレージと同期。
+* [MDViewer](https://mmmikael.github.io/mdviewer/) - ライブリロード、Quick Lookプレビュー、Mermaid図、数式、そして自分のキーまたはローカルモデルによるオプションのAI要約に対応した高速なMarkdownビューア。 [![Open-Source Software][OSS Icon]](https://github.com/mmmikael/mdviewer) ![Freeware][Freeware Icon]
 * [MWeb](http://www.mweb.im/) - プロ仕様のMarkdownライティングおよび静的ブログジェネレーターアプリ。
 * [Obsidian](https://obsidian.md) - あなたのための第二の脳、永遠に。
 * [Pixley Reader](https://github.com/Applacat/PixleyReader) - AIツールで生成されたMarkdown仕様、ドキュメント、変更履歴を読むためのリーダー。 [![Open-Source Software][OSS Icon]](https://github.com/Applacat/PixleyReader) [![App Store][app-store Icon]](https://apps.apple.com/app/id6758722045?platform=mac)
@@ -1289,7 +1290,6 @@ Awesome Mac
 * [CleanClip](https://cleanclip.cc) - macOS史上最もクリーンなクリップボードマネージャー！ ![Freeware][Freeware Icon]
 * [Clipboard](https://getclipboard.app/) - すべてのプラットフォーム対応の使いやすいターミナルクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/Slackadays/Clipboard) ![Freeware][Freeware Icon]
 * [ClipMenu](http://www.clipmenu.com) - Mac OS X用クリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
-* [Clippo](https://lorder19.github.io/clippo/) - 検索できるクリップボード履歴、保存したスニペットリスト、コピーした項目を ⌘V で順番に貼り付けるペーストキュー。パスワードは保存せず、履歴はディスク上で暗号化。 [![Open-Source Software][OSS Icon]](https://github.com/Lorder19/clippo) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Clippy](https://github.com/yarasaa/Clippy) - コンテンツ認識プレビュー、AI変換、内蔵スクリーンショットエディター、ファイルコンバーターを備えたスマートなクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/yarasaa/Clippy) ![Freeware][Freeware Icon]
 * [ClipHistory](https://github.com/weiykong/ClipHistory) - ホットキー即時表示、検索、ピン留め、テキスト/画像履歴に対応した軽量なネイティブクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/weiykong/ClipHistory) ![Freeware][Freeware Icon]
 * [ClipRecallBar](https://turhe123.github.io/clip-recall-bar/) - 入力しながら絞り込み、1キーで貼り付けできるキーボード重視のクリップボード履歴ポップアップ。 [![Open-Source Software][OSS Icon]](https://github.com/turhe123/clip-recall-bar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1299,6 +1299,7 @@ Awesome Mac
 * [CopyQ](https://hluk.github.io/CopyQ) - 高度な機能を備えたクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) ![Freeware][Freeware Icon]
 * [iCopy](https://apps.apple.com/cn/app/icopy-%E5%89%AA%E5%88%87%E6%9D%BF-%E5%BF%AB%E6%8D%B7%E5%9B%9E%E5%A4%8D%E5%B7%A5%E5%85%B7/id1638023723?platform=mac) - クリップボード管理、クイック返信、効率倍増ツール ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/icopy-%E5%89%AA%E5%88%87%E6%9D%BF-%E5%BF%AB%E6%8D%B7%E5%9B%9E%E5%A4%8D%E5%B7%A5%E5%85%B7/id1638023723?platform=mac)
 * [iPaste](https://en.toolinbox.net/iPaste) - 軽量で効率的なクリップボードツール。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1056935452?ls=1&at=1000lv4R&ct=iPaste_me&platform=mac)
+* [Kurenai](https://lorder19.github.io/kurenai/) - 検索できるクリップボード履歴、保存したスニペットリスト、コピーした項目を ⌘V で順番に貼り付けるペーストキュー。パスワードは保存せず、履歴はディスク上で暗号化。 [![Open-Source Software][OSS Icon]](https://github.com/Lorder19/kurenai) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Paste Quick](https://wangchujiang.com/paste-quick/) - シンプルでプライバシーファーストのクリップボードマネージャー。 [![App Store][app-store Icon]](https://apps.apple.com/app/paste-quick/6723903021?platform=mac)
 * [Paste](http://pasteapp.me) - スマートなクリップボード履歴とスニペットマネージャー。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/paste-clipboard-history-manager/id967805235?platform=mac)
 * [PasteBar](https://github.com/PasteBar/PasteBarApp) - MacとWindows用の無制限で無料のクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/PasteBar/PasteBarApp) ![Freeware][Freeware Icon]
@@ -1359,6 +1360,7 @@ Awesome Mac
 * [KeyStats](https://keystats.vercel.app) - 毎日のキー入力、クリック、移動、スクロールを追跡するメニューバーツール。 [![Open-Source Software][OSS Icon]](https://github.com/debugtheworldbot/keyStats) ![Freeware][Freeware Icon]
 * [Lockpaw](https://getlockpaw.com) - ホットキーで画面ロックを切り替えられるメニューバーツール。 [![Open-Source Software][OSS Icon]](https://github.com/sorkila/lockpaw) ![Freeware][Freeware Icon]
 * [Later](https://getlater.app/) - ワンクリックですべてのMacアプリを後で使うために保存。 [![Open-Source Software][OSS Icon]](https://github.com/alyssaxuu/later/) ![Freeware][Freeware Icon]
+* [Ledge](https://ledgeapp.dev) - ノッチを、再生中の曲・タイマー・次の予定・天気・メモ・スリープ防止を表示するDynamic Island風のステータス領域に変える（macOS 26以降）。 [![Open-Source Software][OSS Icon]](https://github.com/egemertbalcik/Ledge) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Lunavect](https://github.com/lovach/Lunavect) - Menu bar app and desktop widgets showing which Claude Code or Codex session is working, waiting for input, or done, with usage limits and activity. [![Open-Source Software][OSS Icon]](https://github.com/lovach/Lunavect) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [LuxShot](https://github.com/lukebuild/LuxShot) - ネイティブでプライバシーファーストのメニューバーOCRツール。 [![Open-Source Software][OSS Icon]](https://github.com/lukebuild/LuxShot) ![Freeware][Freeware Icon]
 * [MacTools](https://github.com/ggbond268/MacTools) - ディスプレイ制御、システム切り替え、クリーンアップ、デバイス状態、日常ユーティリティを提供する、拡張可能なプラグインシステムを備えたオープンソースのメニューバーツールキット。 [![Open-Source Software][OSS Icon]](https://github.com/ggbond268/MacTools) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1427,6 +1429,7 @@ Awesome Mac
 * [Headroom](https://headroom-app.org) - ツリーマップと重複ファイル検索を備えた高速なディスク容量アナライザ。キャッシュや開発用フォルダを削除前に「安全」「注意」「削除不可」で判定。 [![Open-Source Software][OSS Icon]](https://github.com/Ryware/Headroom) ![Freeware][Freeware Icon]
 * [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) - Mac用キャッシュクリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/kaunteya/MacCacheCleaner) ![Freeware][Freeware Icon]
 * [MAC-LIMPO](https://alexkads.github.io/MAC-LIMPO/) - Xcode、Docker、シミュレータ、node_modules などの開発者向けキャッシュを掃除するメニューバーアプリ。2D/3D のツリーマップでディスク使用量を表示。 [![Open-Source Software][OSS Icon]](https://github.com/alexkads/MAC-LIMPO) ![Freeware][Freeware Icon]
+* [MacClean](https://thulem.com/en/) - WeChat メディア、システムデータ、Xcode や AI のキャッシュを確認してから削除できる無料のローカル Mac ディスククリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/jinglings/MacClean) ![Freeware][Freeware Icon]
 * [MacDirStat](https://github.com/phalladar/MacDirStat) - 何が容量を占めているかをインタラクティブなツリーマップで表示する、WinDirStatに着想を得たオープンソースのディスク容量アナライザー。 [![Open-Source Software][OSS Icon]](https://github.com/phalladar/MacDirStat) ![Freeware][Freeware Icon]
 * [MacSift](https://lcharvol.github.io/MacSift/) - ファイルをアプリごとにまとめてゴミ箱へ移動するオープンソースのディスククリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/MacSift) ![Freeware][Freeware Icon]
 * [MangoDisk](https://mangodisk.app/ja) - ローカルでスキャンし、削除前にパスとサイズを確認できる無料・オープンソースのディスククリーナー兼容量分析ツール。 [![Open-Source Software][OSS Icon]](https://github.com/harry0703/MangoDisk) ![Freeware][Freeware Icon]
@@ -1840,7 +1843,7 @@ Awesome Mac
 * Softasm：~~`https://softasm.com/`~~
 * Appstorrent：~~`http://appstorrent.ru/`~~
 
-**[⬆ トップに戻る](#contents)**
+**[⬆ トップに戻る](#目次)**
 
 <!--end-->
 
