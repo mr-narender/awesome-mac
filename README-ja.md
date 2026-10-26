@@ -82,9 +82,9 @@ Awesome Mac
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://jaywcjlove.github.io/#/sponsor)
 [![Follow On X](https://img.shields.io/badge/Follow%20on%20X-333333?logo=x&logoColor=white)](https://x.com/jaywcjlove)
+[![Telegram Channel](https://img.shields.io/badge/%20-Telegram-333333.svg?logo=Telegram)](https://t.me/s/awesomemacosapp)
 [![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome)
 [![NPM version](https://img.shields.io/npm/v/awesome-mac.svg?style=flat)](https://npmjs.org/package/awesome-mac)
-[![WeiBo](https://jaywcjlove.github.io/sb/ico/weibo.svg)](http://weibo.com/pc175)
 [![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/awesome-mac?logo=docker)](https://hub.docker.com/r/wcjiang/awesome-mac)
 [![English List](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md)
 [![Chinese List](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-zh.md)
@@ -457,7 +457,7 @@ Awesome Mac
 * [Koala](http://koala-app.com) - Less、Sass、Compass、CoffeeScriptコンパイル用のGUIアプリケーション。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/oklai/koala/)
 * [Loca Studio](https://www.cunningo.com/locastudio/index.html) - アプリの翻訳を分析、レビュー、編集するツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/id1465684707?platform=mac)
 * [LINQPad](https://www.linqpad.net/) - コード実行、クエリ作成、データベース探索のための.NETスクラッチパッド。 ![Freeware][Freeware Icon]
-* [Loupe](https://github.com/smughead/Loupe) - AIエージェント対応の出力を生成するアクセシビリティインスペクター。 [![Open-Source Software][OSS Icon]](https://github.com/smughead/Loupe) ![Freeware][Freeware Icon]
+* [Loupe](https://github.com/britchie4/Loupe) - AIエージェント対応の出力を生成するアクセシビリティインスペクター。 [![Open-Source Software][OSS Icon]](https://github.com/britchie4/Loupe) ![Freeware][Freeware Icon]
 * [MacSystemColors](https://github.com/kaunteya/MacSystemColors) - Cocoa開発者向けに、ライトモードとダークモードの全システムカラーを表示するMacアプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kaunteya/MacSystemColors)
 * [Medio](https://github.com/nuance-dev/medio) - クリーンなUIとリアルタイムハイライト機能を備えた、ネイティブで軽量なテキスト差分ツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nuance-dev/medio)
 * [MJML](https://mjmlio.github.io/mjml-app/) - セマンティックな構文とリッチなコンポーネントでレスポンシブメールを作成。 [![OSS][OSS Icon]](https://github.com/mjmlio/mjml) ![Freeware][Freeware Icon]
@@ -780,6 +780,7 @@ Awesome Mac
 * [BetterCapture](https://jsattler.github.io/BetterCapture/) - プロフェッショナルなエンコーディングサポートを備えた無料のオープンソーススクリーンレコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/jsattler/BetterCapture) ![Freeware][Freeware Icon]
 * [Capty](https://capty.app/) - 編集機能と注釈機能を備えた画面キャプチャ・録画ツール。
 * [Caplo](https://github.com/icloudza/caplo) - 録画後すぐに編集でき、自動カメラワーク、カーソル装飾、キャンバスや字幕に対応。
+* [CamiTune](https://github.com/Shuail135/CamiTune) - macOS 13以降に対応したシステム全体用オーディオイコライザーで、パラメトリックEQ、アプリ別オーディオ制御、AutoEQ、AU/VST3プラグイン、高度なDSP処理をサポート。[![Open-Source Software][OSS Icon]](https://github.com/Shuail135/CamiTune) ![Freeware][Freeware Icon]
 * [Capso](https://github.com/lzhgus/Capso) - 注釈、OCR、Webcamオーバーレイに対応したオープンソースのスクリーンショット・画面録画ツール。 [![Open-Source Software][OSS Icon]](https://github.com/lzhgus/Capso) ![Freeware][Freeware Icon]
 * [Gifox](https://gifox.app) - GIF録画と共有。
 * [Kap](https://getkap.co/) - Web技術で構築されたオープンソースのスクリーンレコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
@@ -812,6 +813,7 @@ Awesome Mac
 * [Diffusion Bee](https://diffusionbee.com/) - Stable Diffusionでコンピューター上でAIアートを生成する最も簡単な方法。 [![Open-Source Software][OSS Icon]](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui/) ![Freeware][Freeware Icon]
 * [Eagle App](https://en.eagle.cool/) - 画像、動画、音声、フォント、デザイン素材を管理するアセットマネージャー。
 * [ExifCleaner](https://exifcleaner.com) - ドラッグアンドドロップで画像や動画からExifメタデータを削除。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/szTheory/exifcleaner)
+* [Featherview](https://featherview.mynetx.net) - フォルダ内の画像をキーボードで素早く閲覧でき、一括変換にも対応するオープンソースの画像ビューアー。 [![Open-Source Software][OSS Icon]](https://github.com/featherview/featherview) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Fotohaus](https://github.com/aelnagish/Fotohaus) - 既存のフォルダをそのまま使い、端末上での顔認識・検索・非破壊編集に対応するオープンソースの写真管理アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/aelnagish/Fotohaus) ![Freeware][Freeware Icon]
 * [HEIC Converter](https://sindresorhus.com/heic-converter) - HEIC画像をJPEGまたはPNGに変換。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/heic-converter-to-jpeg-or-png/id1294126402?platform=mac)
 * [Iconset](https://iconset.io) - 無料でクロスプラットフォームの高速SVGアイコンオーガナイザーおよびマネージャー（MacおよびWindows対応）。
@@ -824,6 +826,7 @@ Awesome Mac
 * [CompressO](https://github.com/codeforreal1/compressO) - 動画や画像の容量を小さくできるオープンソースの圧縮ツール。 [![Open-Source Software][OSS Icon]](https://github.com/codeforreal1/compressO) ![Freeware][Freeware Icon]
 * [Lap](https://github.com/julyx10/lap) - 個人の写真ライブラリをオフラインで閲覧・整理できるローカル写真マネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/julyx10/lap) ![Freeware][Freeware Icon]
 * [JPEGmini](http://www.jpegmini.com/) - 品質を損なうことなく画像サイズを最大80%削減。
+* [Jutsu Studio](https://jutsustudio.com/) - Seedance、Kling、GenjutsuでAI動画と画像を生成し、すべての結果をローカルディスクに保存するオープンソースの非公式Higgsfieldクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/jutsuhq/jutsu-studio) ![Freeware][Freeware Icon]
 * [Mark Man](http://getmarkman.com/) - 高速な計測と仕様書作成。
 * [Mottie](https://recouse.me/apps/mottie/) - dotLottieファイル対応のQuick Look拡張機能を備えたネイティブLottieアニメーションプレーヤー。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6743446238?pt=120474400&ct=awesome-mac&mt=8)
 * [Nucleo](https://nucleoapp.com/) - アイコンマネージャー。アイコンライブラリのインポート、エクスポート、カスタマイズ、変換。
@@ -835,6 +838,7 @@ Awesome Mac
 * [Siliconed](https://gwenn-ha-dev.github.io/Siliconed/) - SwiftとMetalで書かれた、Appleシリコン向けのローカルAI画像生成と指示による画像編集のオープンソースアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/gwenn-ha-dev/Siliconed) ![Freeware][Freeware Icon]
 * [Snagit](https://www.techsmith.com/snagit.html) - シンプルで強力な画面キャプチャソフトウェアおよびスクリーンレコーダー。
 * [svgus](http://www.svgs.us/) - SVGの整理、クリーン、変換ツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/svgsus/id1106867065?platform=mac)
+* [Swapjutsu](https://jutsustudio.com/swapjutsu/) - Seedance 2.5またはWan 2.2 Animateで動画のキャラクターを差し替え、Appleシリコン上で前処理を行うオープンソースツール。 [![Open-Source Software][OSS Icon]](https://github.com/jutsuhq/swapjutsu-seedance-character-swap) ![Freeware][Freeware Icon]
 * [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - 画像を圧縮するオープンソースツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kyleduo/TinyPNG4Mac)
 * [Tropy](https://tropy.org/) - 研究写真管理。 [![Open-Source Software][OSS Icon]](https://github.com/tropy/tropy) ![Freeware][Freeware Icon]
 * [PicGo](https://github.com/Molunerfinn/PicGo) - 一般的なCDN画像ホスティングをサポートするツール。 [![Open-Source Software][OSS Icon]](https://github.com/Molunerfinn/PicGo)
@@ -1089,6 +1093,7 @@ Awesome Mac
 ## ダウンロード管理ツール
 
 * [aria2](https://aria2.github.io/) - 軽量なマルチプロトコル＆マルチソースのコマンドラインダウンロードユーティリティ。 [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
+* [Arroxy](https://arroxy.com/) - YouTubeなどの対応サイトから動画・音声・プレイリスト・字幕をダウンロードできる、yt-dlpベースのオープンソースGUI。 [![Open-Source Software][OSS Icon]](https://github.com/antonio-orionus/Arroxy) ![Freeware][Freeware Icon]
 * [Downie](https://software.charliemonroe.net/downie.php) - YouTubeをはじめ1200以上のサイトに対応したmacOS用ビデオダウンローダー。
 * [Deluge](https://deluge-torrent.org/) - 軽量でフリーソフトウェアのクロスプラットフォームBitTorrentクライアント。 [![Open-Source Software][OSS Icon]](https://dev.deluge-torrent.org/wiki/Development) ![Freeware][Freeware Icon]
 * [FOLX](http://mac.eltima.com/download-manager.html) - 本物のMacスタイルのインターフェースを持つMac OS X用の無料ダウンロードマネージャー。 ![Freeware][Freeware Icon]
@@ -1214,6 +1219,7 @@ Awesome Mac
 * [SubList](https://apps.apple.com/app/sublist-subscription-list/id6757860829?platform=mac) - リマインダー、分析、iCloud同期でサブスクリプション、更新、支出を1か所で追跡。
 * [StockDock](https://github.com/simonsruggi/StockDock) - メニューバーで株・ETF・暗号資産のリアルタイム相場を表示するツール。ポートフォリオ損益と多通貨に対応し、プライバシー重視でアカウント不要。 [![Open-Source Software][OSS Icon]](https://github.com/simonsruggi/StockDock) ![Freeware][Freeware Icon]
 * [MRRDock](https://mrrdock.simoneruggiero.com) - Stripe、RevenueCat、Paddle、Lemon Squeezy、Polar、Dodo Payments、Gumroad の MRR を1つの合計にまとめてメニューバーに表示するツール。多通貨対応、APIキーはキーチェーンに保存され、アカウント不要。 [![Open-Source Software][OSS Icon]](https://github.com/simonsruggi/MRRDock) ![Freeware][Freeware Icon]
+* [Moony](https://moonyfinance.com) - 口座、投資、暗号資産、不動産、ローンを暗号化されたローカルデータベースで管理する個人資産管理アプリ。アカウント不要、クラウド不要、テレメトリーなし。 [![Open-Source Software][OSS Icon]](https://github.com/fiiles/Moony) ![Freeware][Freeware Icon]
 
 ## 暗号化
 

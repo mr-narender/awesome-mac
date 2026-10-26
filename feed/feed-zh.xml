@@ -5,9 +5,93 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 25 Oct 2026 06:38:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:56:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>CamiTune</title>
+      <link>https://github.com/Shuail135/CamiTune</link>
+      <guid isPermaLink="false">23abf3c2cdb19f019711732ae3aa9abf242ce8b5:CamiTune</guid>
+      <pubDate>Mon, 26 Oct 2026 07:56:12 GMT</pubDate>
+      <category>音频和视频 / 音频录制与编辑</category>
+      <description>Category: 音频和视频 / 音频录制与编辑
+App: CamiTune
+Description: 适用于 macOS 13 及以上版本的系统级音频均衡器，支持参数均衡、按应用独立音频控制、AutoEQ、AU/VST3 插件及高级 DSP 处理。[![Open-Source Software][OSS Icon]](https://github.com/Shuail135/CamiTune)
+Open Source: https://github.com/Shuail135/CamiTune
+Commit: Add CamiTune to Audio and Video Tools (#3880)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/23abf3c2cdb19f019711732ae3aa9abf242ce8b5</description>
+      <content:encoded><![CDATA[Category: 音频和视频 / 音频录制与编辑<br/>App: CamiTune<br/>Description: 适用于 macOS 13 及以上版本的系统级音频均衡器，支持参数均衡、按应用独立音频控制、AutoEQ、AU/VST3 插件及高级 DSP 处理。[![Open-Source Software][OSS Icon]](https://github.com/Shuail135/CamiTune)<br/>Open Source: https://github.com/Shuail135/CamiTune<br/>Commit: Add CamiTune to Audio and Video Tools (#3880)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/23abf3c2cdb19f019711732ae3aa9abf242ce8b5]]></content:encoded>
+    </item>
+    <item>
+      <title>Featherview</title>
+      <link>https://featherview.mynetx.net</link>
+      <guid isPermaLink="false">9b81b7efffe3457f66b39c8d141c74d9a9dc6e98:Featherview</guid>
+      <pubDate>Mon, 26 Oct 2026 00:48:19 GMT</pubDate>
+      <category>设计和产品 / 其它工具</category>
+      <description>Category: 设计和产品 / 其它工具
+App: Featherview
+Description: 开源的键盘驱动图片查看器，可快速浏览整个文件夹的图片，并支持批量转换。
+Website: https://featherview.mynetx.net
+Commit: Add Featherview to Design and Product › Other Tools (#3871)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9b81b7efffe3457f66b39c8d141c74d9a9dc6e98</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 其它工具<br/>App: Featherview<br/>Description: 开源的键盘驱动图片查看器，可快速浏览整个文件夹的图片，并支持批量转换。<br/>Website: https://featherview.mynetx.net<br/>Commit: Add Featherview to Design and Product › Other Tools (#3871)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9b81b7efffe3457f66b39c8d141c74d9a9dc6e98]]></content:encoded>
+    </item>
+    <item>
+      <title>Swapjutsu</title>
+      <link>https://jutsustudio.com/swapjutsu/</link>
+      <guid isPermaLink="false">007db72b9c7920fbcc04c11f2adea0fa6a2e8dcd:Swapjutsu</guid>
+      <pubDate>Sun, 25 Oct 2026 23:01:34 GMT</pubDate>
+      <category>设计和产品 / 其它工具</category>
+      <description>Category: 设计和产品 / 其它工具
+App: Swapjutsu
+Description: 开源的视频角色替换工具，使用 Seedance 2.5 或 Wan 2.2 Animate，并在 Apple 芯片上完成本地预处理。
+Website: https://jutsustudio.com/swapjutsu/
+Commit: Add Swapjutsu to Other Tools (#3866)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/007db72b9c7920fbcc04c11f2adea0fa6a2e8dcd</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 其它工具<br/>App: Swapjutsu<br/>Description: 开源的视频角色替换工具，使用 Seedance 2.5 或 Wan 2.2 Animate，并在 Apple 芯片上完成本地预处理。<br/>Website: https://jutsustudio.com/swapjutsu/<br/>Commit: Add Swapjutsu to Other Tools (#3866)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/007db72b9c7920fbcc04c11f2adea0fa6a2e8dcd]]></content:encoded>
+    </item>
+    <item>
+      <title>Jutsu Studio</title>
+      <link>https://jutsustudio.com/</link>
+      <guid isPermaLink="false">55a0fc4f7cb36de269bebe0481165cf75d5d7ae2:Jutsu Studio</guid>
+      <pubDate>Sun, 25 Oct 2026 22:44:14 GMT</pubDate>
+      <category>设计和产品 / 其它工具</category>
+      <description>Category: 设计和产品 / 其它工具
+App: Jutsu Studio
+Description: 开源的非官方 Higgsfield 客户端，使用 Seedance、Kling 和 Genjutsu 生成 AI 视频与图像，所有结果都保存在本地磁盘。
+Website: https://jutsustudio.com/
+Commit: Add Jutsu Studio to Other Tools (#3865)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/55a0fc4f7cb36de269bebe0481165cf75d5d7ae2</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 其它工具<br/>App: Jutsu Studio<br/>Description: 开源的非官方 Higgsfield 客户端，使用 Seedance、Kling 和 Genjutsu 生成 AI 视频与图像，所有结果都保存在本地磁盘。<br/>Website: https://jutsustudio.com/<br/>Commit: Add Jutsu Studio to Other Tools (#3865)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/55a0fc4f7cb36de269bebe0481165cf75d5d7ae2]]></content:encoded>
+    </item>
+    <item>
+      <title>Moony</title>
+      <link>https://moonyfinance.com</link>
+      <guid isPermaLink="false">d06fcfe1d0a73d28001f6b50ea1e7de960a062fc:Moony</guid>
+      <pubDate>Sun, 25 Oct 2026 22:31:08 GMT</pubDate>
+      <category>金融</category>
+      <description>Category: 金融
+App: Moony
+Description: 个人财务应用，在本地加密数据库中管理账户、投资、加密货币、房产和贷款，无需账户，无云端，无遥测。
+Website: https://moonyfinance.com
+Commit: Add Moony (Finance) (#3864)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d06fcfe1d0a73d28001f6b50ea1e7de960a062fc</description>
+      <content:encoded><![CDATA[Category: 金融<br/>App: Moony<br/>Description: 个人财务应用，在本地加密数据库中管理账户、投资、加密货币、房产和贷款，无需账户，无云端，无遥测。<br/>Website: https://moonyfinance.com<br/>Commit: Add Moony (Finance) (#3864)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d06fcfe1d0a73d28001f6b50ea1e7de960a062fc]]></content:encoded>
+    </item>
+    <item>
+      <title>Arroxy</title>
+      <link>https://arroxy.com/</link>
+      <guid isPermaLink="false">62272c1a0a17f975e866a863d1a40ddae9c0e6c7:Arroxy</guid>
+      <pubDate>Sun, 25 Oct 2026 12:01:35 GMT</pubDate>
+      <category>下载工具</category>
+      <description>Category: 下载工具
+App: Arroxy
+Description: 基于 yt-dlp 的开源图形界面下载工具，可从 YouTube 及其他支持的网站下载视频、音频、播放列表和字幕。[![Open-Source Software][OSS Icon]](https://github.com/antonio-orionus/Arroxy)
+Website: https://arroxy.com/
+Commit: Add Arroxy to Download Management Tools (EN/ZH/JA/KO) (#3467)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62272c1a0a17f975e866a863d1a40ddae9c0e6c7</description>
+      <content:encoded><![CDATA[Category: 下载工具<br/>App: Arroxy<br/>Description: 基于 yt-dlp 的开源图形界面下载工具，可从 YouTube 及其他支持的网站下载视频、音频、播放列表和字幕。[![Open-Source Software][OSS Icon]](https://github.com/antonio-orionus/Arroxy)<br/>Website: https://arroxy.com/<br/>Commit: Add Arroxy to Download Management Tools (EN/ZH/JA/KO) (#3467)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62272c1a0a17f975e866a863d1a40ddae9c0e6c7]]></content:encoded>
+    </item>
     <item>
       <title>Ledge</title>
       <link>https://ledgeapp.dev</link>
@@ -623,90 +707,6 @@ Website: https://dbine.com
 Commit: Add DBine to Databases (#3695)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62bd5ffcd8216d13b409eb1c5ecd6750920104dc</description>
       <content:encoded><![CDATA[Category: 开发者工具 / 数据库<br/>App: DBine<br/>Description: 开源数据库管理工具，支持 130 多种 SQL 与 NoSQL 数据库和云服务，提供笔记本、结构与数据对比以及 MCP 服务器。<br/>Website: https://dbine.com<br/>Commit: Add DBine to Databases (#3695)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62bd5ffcd8216d13b409eb1c5ecd6750920104dc]]></content:encoded>
-    </item>
-    <item>
-      <title>Threadlines</title>
-      <link>https://www.threadlines.dev</link>
-      <guid isPermaLink="false">88216376e3df7688913614fd323a67f1a0f9dc83:Threadlines</guid>
-      <pubDate>Mon, 19 Oct 2026 14:55:11 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Threadlines
-Description: 开源的编程代理桌面应用（Claude Code、Codex、OpenCode、Cursor），多个代理可以共享同一个线程，每个线程都有独立的 git worktree。
-Website: https://www.threadlines.dev
-Commit: Add Threadlines to IDEs (EN/ZH/JA/KO) (#3615)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/88216376e3df7688913614fd323a67f1a0f9dc83</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Threadlines<br/>Description: 开源的编程代理桌面应用（Claude Code、Codex、OpenCode、Cursor），多个代理可以共享同一个线程，每个线程都有独立的 git worktree。<br/>Website: https://www.threadlines.dev<br/>Commit: Add Threadlines to IDEs (EN/ZH/JA/KO) (#3615)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/88216376e3df7688913614fd323a67f1a0f9dc83]]></content:encoded>
-    </item>
-    <item>
-      <title>SSHFire</title>
-      <link>https://github.com/aralozaltin/sshfire</link>
-      <guid isPermaLink="false">c0d47744e0a59b9994de12cbe2db0dac027c6258:SSHFire</guid>
-      <pubDate>Mon, 19 Oct 2026 08:57:20 GMT</pubDate>
-      <category>开发者工具 / 命令行应用</category>
-      <description>Category: 开发者工具 / 命令行应用
-App: SSHFire
-Description: 跨平台 SSH 客户端，集成终端、会话管理器和跟随当前目录的 SFTP 文件浏览器。
-Open Source: https://github.com/aralozaltin/sshfire
-Commit: Add SSHFire to Terminal Apps (#3612)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0d47744e0a59b9994de12cbe2db0dac027c6258</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 命令行应用<br/>App: SSHFire<br/>Description: 跨平台 SSH 客户端，集成终端、会话管理器和跟随当前目录的 SFTP 文件浏览器。<br/>Open Source: https://github.com/aralozaltin/sshfire<br/>Commit: Add SSHFire to Terminal Apps (#3612)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0d47744e0a59b9994de12cbe2db0dac027c6258]]></content:encoded>
-    </item>
-    <item>
-      <title>Mac Android Subsystem</title>
-      <link>https://harkhowalia-1.github.io/MacSubsystemForAndroid/</link>
-      <guid isPermaLink="false">b93050eed5bde10a3ac96ba47c432587ae44868d:Mac Android Subsystem</guid>
-      <pubDate>Mon, 19 Oct 2026 08:39:00 GMT</pubDate>
-      <category>虚拟机</category>
-      <description>Category: 虚拟机
-App: Mac Android Subsystem
-Description: 在 Apple Silicon 上运行 Android 应用，每个应用拥有独立的 Mac 窗口和程序坞图标。
-Website: https://harkhowalia-1.github.io/MacSubsystemForAndroid/
-Commit: Add Mac Android Subsystem to Virtualization (EN/ZH/JA/KO) (#3609)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b93050eed5bde10a3ac96ba47c432587ae44868d</description>
-      <content:encoded><![CDATA[Category: 虚拟机<br/>App: Mac Android Subsystem<br/>Description: 在 Apple Silicon 上运行 Android 应用，每个应用拥有独立的 Mac 窗口和程序坞图标。<br/>Website: https://harkhowalia-1.github.io/MacSubsystemForAndroid/<br/>Commit: Add Mac Android Subsystem to Virtualization (EN/ZH/JA/KO) (#3609)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b93050eed5bde10a3ac96ba47c432587ae44868d]]></content:encoded>
-    </item>
-    <item>
-      <title>TetherCam</title>
-      <link>https://tethercam.app/</link>
-      <guid isPermaLink="false">aa7d406cbe4b855cabe690dc67d4ed43891e6f1e:TetherCam</guid>
-      <pubDate>Mon, 19 Oct 2026 08:33:06 GMT</pubDate>
-      <category>音频和视频</category>
-      <description>Category: 音频和视频
-App: TetherCam
-Description: 通过 USB 将 iPhone 用作 Mac 的纯视频摄像头，或使用 OBS 插件接收视频和手机麦克风音频。
-Website: https://tethercam.app/
-Commit: Add TetherCam to the app lists (#3577)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aa7d406cbe4b855cabe690dc67d4ed43891e6f1e</description>
-      <content:encoded><![CDATA[Category: 音频和视频<br/>App: TetherCam<br/>Description: 通过 USB 将 iPhone 用作 Mac 的纯视频摄像头，或使用 OBS 插件接收视频和手机麦克风音频。<br/>Website: https://tethercam.app/<br/>Commit: Add TetherCam to the app lists (#3577)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aa7d406cbe4b855cabe690dc67d4ed43891e6f1e]]></content:encoded>
-    </item>
-    <item>
-      <title>Eleven</title>
-      <link>https://github.com/Zfinix/eleven</link>
-      <guid isPermaLink="false">e279b9e005c33a7e0d553e095c96ea40453742f3:Eleven</guid>
-      <pubDate>Mon, 19 Oct 2026 07:26:28 GMT</pubDate>
-      <category>开发者工具 / 开发者实用工具</category>
-      <description>Category: 开发者工具 / 开发者实用工具
-App: Eleven
-Description: 开源逆向工程工具，AI 智能体可在你身旁阅读、重命名和修补二进制文件、Android 应用和 GPU 内核。[![Open-Source Software][OSS Icon]](https://github.com/Zfinix/eleven)
-Open Source: https://github.com/Zfinix/eleven
-Commit: Add Eleven to Developer Utilities (#3584)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e279b9e005c33a7e0d553e095c96ea40453742f3</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 开发者实用工具<br/>App: Eleven<br/>Description: 开源逆向工程工具，AI 智能体可在你身旁阅读、重命名和修补二进制文件、Android 应用和 GPU 内核。[![Open-Source Software][OSS Icon]](https://github.com/Zfinix/eleven)<br/>Open Source: https://github.com/Zfinix/eleven<br/>Commit: Add Eleven to Developer Utilities (#3584)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e279b9e005c33a7e0d553e095c96ea40453742f3]]></content:encoded>
-    </item>
-    <item>
-      <title>Peel</title>
-      <link>https://peel.tuguidragos.com/</link>
-      <guid isPermaLink="false">445e46a271120577ad208f84d8ea3f662070fd92:Peel</guid>
-      <pubDate>Mon, 19 Oct 2026 01:35:09 GMT</pubDate>
-      <category>其它实用工具 / 清理卸载</category>
-      <description>Category: 其它实用工具 / 清理卸载
-App: Peel
-Description: 免费开源的卸载与清理工具：连同应用留下的所有文件一起移除，告诉你每个文件为什么属于它，并把一切移到废纸篓，需要时还能放回。
-Website: https://peel.tuguidragos.com/
-Commit: Add Peel to Cleanup and Uninstall (#3588)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/445e46a271120577ad208f84d8ea3f662070fd92</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: Peel<br/>Description: 免费开源的卸载与清理工具：连同应用留下的所有文件一起移除，告诉你每个文件为什么属于它，并把一切移到废纸篓，需要时还能放回。<br/>Website: https://peel.tuguidragos.com/<br/>Commit: Add Peel to Cleanup and Uninstall (#3588)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/445e46a271120577ad208f84d8ea3f662070fd92]]></content:encoded>
     </item>
   </channel>
 </rss>

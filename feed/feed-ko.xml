@@ -5,9 +5,93 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 25 Oct 2026 06:38:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:56:12 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>CamiTune</title>
+      <link>https://github.com/Shuail135/CamiTune</link>
+      <guid isPermaLink="false">23abf3c2cdb19f019711732ae3aa9abf242ce8b5:CamiTune</guid>
+      <pubDate>Mon, 26 Oct 2026 07:56:12 GMT</pubDate>
+      <category>오디오 및 비디오 도구</category>
+      <description>Category: 오디오 및 비디오 도구
+App: CamiTune
+Description: macOS 13 이상을 지원하는 시스템 전체 오디오 이퀄라이저로, 파라메트릭 EQ, 앱별 오디오 제어, AutoEQ, AU/VST3 플러그인 및 고급 DSP 처리를 지원합니다.
+Open Source: https://github.com/Shuail135/CamiTune
+Commit: Add CamiTune to Audio and Video Tools (#3880)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/23abf3c2cdb19f019711732ae3aa9abf242ce8b5</description>
+      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: CamiTune<br/>Description: macOS 13 이상을 지원하는 시스템 전체 오디오 이퀄라이저로, 파라메트릭 EQ, 앱별 오디오 제어, AutoEQ, AU/VST3 플러그인 및 고급 DSP 처리를 지원합니다.<br/>Open Source: https://github.com/Shuail135/CamiTune<br/>Commit: Add CamiTune to Audio and Video Tools (#3880)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/23abf3c2cdb19f019711732ae3aa9abf242ce8b5]]></content:encoded>
+    </item>
+    <item>
+      <title>Featherview</title>
+      <link>https://featherview.mynetx.net</link>
+      <guid isPermaLink="false">9b81b7efffe3457f66b39c8d141c74d9a9dc6e98:Featherview</guid>
+      <pubDate>Mon, 26 Oct 2026 00:48:19 GMT</pubDate>
+      <category>디자인 및 제품 / 기타 도구</category>
+      <description>Category: 디자인 및 제품 / 기타 도구
+App: Featherview
+Description: 폴더 속 이미지를 키보드로 빠르게 넘겨 볼 수 있고 일괄 변환도 지원하는 오픈소스 이미지 뷰어.
+Website: https://featherview.mynetx.net
+Commit: Add Featherview to Design and Product › Other Tools (#3871)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9b81b7efffe3457f66b39c8d141c74d9a9dc6e98</description>
+      <content:encoded><![CDATA[Category: 디자인 및 제품 / 기타 도구<br/>App: Featherview<br/>Description: 폴더 속 이미지를 키보드로 빠르게 넘겨 볼 수 있고 일괄 변환도 지원하는 오픈소스 이미지 뷰어.<br/>Website: https://featherview.mynetx.net<br/>Commit: Add Featherview to Design and Product › Other Tools (#3871)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9b81b7efffe3457f66b39c8d141c74d9a9dc6e98]]></content:encoded>
+    </item>
+    <item>
+      <title>Swapjutsu</title>
+      <link>https://jutsustudio.com/swapjutsu/</link>
+      <guid isPermaLink="false">007db72b9c7920fbcc04c11f2adea0fa6a2e8dcd:Swapjutsu</guid>
+      <pubDate>Sun, 25 Oct 2026 23:01:34 GMT</pubDate>
+      <category>디자인 및 제품 / 기타 도구</category>
+      <description>Category: 디자인 및 제품 / 기타 도구
+App: Swapjutsu
+Description: Seedance 2.5 또는 Wan 2.2 Animate로 영상 속 캐릭터를 교체하고 Apple 실리콘에서 전처리를 수행하는 오픈 소스 도구.
+Website: https://jutsustudio.com/swapjutsu/
+Commit: Add Swapjutsu to Other Tools (#3866)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/007db72b9c7920fbcc04c11f2adea0fa6a2e8dcd</description>
+      <content:encoded><![CDATA[Category: 디자인 및 제품 / 기타 도구<br/>App: Swapjutsu<br/>Description: Seedance 2.5 또는 Wan 2.2 Animate로 영상 속 캐릭터를 교체하고 Apple 실리콘에서 전처리를 수행하는 오픈 소스 도구.<br/>Website: https://jutsustudio.com/swapjutsu/<br/>Commit: Add Swapjutsu to Other Tools (#3866)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/007db72b9c7920fbcc04c11f2adea0fa6a2e8dcd]]></content:encoded>
+    </item>
+    <item>
+      <title>Jutsu Studio</title>
+      <link>https://jutsustudio.com/</link>
+      <guid isPermaLink="false">55a0fc4f7cb36de269bebe0481165cf75d5d7ae2:Jutsu Studio</guid>
+      <pubDate>Sun, 25 Oct 2026 22:44:14 GMT</pubDate>
+      <category>디자인 및 제품 / 기타 도구</category>
+      <description>Category: 디자인 및 제품 / 기타 도구
+App: Jutsu Studio
+Description: Seedance, Kling, Genjutsu로 AI 영상과 이미지를 만들고 모든 결과를 로컬 디스크에 보관하는 오픈 소스 비공식 Higgsfield 클라이언트.
+Website: https://jutsustudio.com/
+Commit: Add Jutsu Studio to Other Tools (#3865)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/55a0fc4f7cb36de269bebe0481165cf75d5d7ae2</description>
+      <content:encoded><![CDATA[Category: 디자인 및 제품 / 기타 도구<br/>App: Jutsu Studio<br/>Description: Seedance, Kling, Genjutsu로 AI 영상과 이미지를 만들고 모든 결과를 로컬 디스크에 보관하는 오픈 소스 비공식 Higgsfield 클라이언트.<br/>Website: https://jutsustudio.com/<br/>Commit: Add Jutsu Studio to Other Tools (#3865)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/55a0fc4f7cb36de269bebe0481165cf75d5d7ae2]]></content:encoded>
+    </item>
+    <item>
+      <title>Moony</title>
+      <link>https://moonyfinance.com</link>
+      <guid isPermaLink="false">d06fcfe1d0a73d28001f6b50ea1e7de960a062fc:Moony</guid>
+      <pubDate>Sun, 25 Oct 2026 22:31:08 GMT</pubDate>
+      <category>금융</category>
+      <description>Category: 금융
+App: Moony
+Description: 계좌, 투자, 암호화폐, 부동산, 대출을 암호화된 로컬 데이터베이스에서 관리하는 개인 재무 앱. 계정과 클라우드가 필요 없고 텔레메트리도 없음.
+Website: https://moonyfinance.com
+Commit: Add Moony (Finance) (#3864)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d06fcfe1d0a73d28001f6b50ea1e7de960a062fc</description>
+      <content:encoded><![CDATA[Category: 금융<br/>App: Moony<br/>Description: 계좌, 투자, 암호화폐, 부동산, 대출을 암호화된 로컬 데이터베이스에서 관리하는 개인 재무 앱. 계정과 클라우드가 필요 없고 텔레메트리도 없음.<br/>Website: https://moonyfinance.com<br/>Commit: Add Moony (Finance) (#3864)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d06fcfe1d0a73d28001f6b50ea1e7de960a062fc]]></content:encoded>
+    </item>
+    <item>
+      <title>Arroxy</title>
+      <link>https://arroxy.com/</link>
+      <guid isPermaLink="false">62272c1a0a17f975e866a863d1a40ddae9c0e6c7:Arroxy</guid>
+      <pubDate>Sun, 25 Oct 2026 12:01:35 GMT</pubDate>
+      <category>다운로드 관리 도구</category>
+      <description>Category: 다운로드 관리 도구
+App: Arroxy
+Description: YouTube 및 기타 지원 사이트에서 동영상, 오디오, 재생목록, 자막을 다운로드하는 yt-dlp 기반 오픈 소스 GUI.
+Website: https://arroxy.com/
+Commit: Add Arroxy to Download Management Tools (EN/ZH/JA/KO) (#3467)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62272c1a0a17f975e866a863d1a40ddae9c0e6c7</description>
+      <content:encoded><![CDATA[Category: 다운로드 관리 도구<br/>App: Arroxy<br/>Description: YouTube 및 기타 지원 사이트에서 동영상, 오디오, 재생목록, 자막을 다운로드하는 yt-dlp 기반 오픈 소스 GUI.<br/>Website: https://arroxy.com/<br/>Commit: Add Arroxy to Download Management Tools (EN/ZH/JA/KO) (#3467)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62272c1a0a17f975e866a863d1a40ddae9c0e6c7]]></content:encoded>
+    </item>
     <item>
       <title>Ledge</title>
       <link>https://ledgeapp.dev</link>
@@ -623,90 +707,6 @@ Website: https://dbine.com
 Commit: Add DBine to Databases (#3695)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62bd5ffcd8216d13b409eb1c5ecd6750920104dc</description>
       <content:encoded><![CDATA[Category: 개발 도구 / 데이터베이스<br/>App: DBine<br/>Description: 130개 이상의 SQL·NoSQL 데이터베이스와 클라우드 서비스를 지원하며 노트북, 스키마 및 데이터 비교, MCP 서버를 갖춘 오픈 소스 데이터베이스 관리자.<br/>Website: https://dbine.com<br/>Commit: Add DBine to Databases (#3695)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/62bd5ffcd8216d13b409eb1c5ecd6750920104dc]]></content:encoded>
-    </item>
-    <item>
-      <title>Threadlines</title>
-      <link>https://www.threadlines.dev</link>
-      <guid isPermaLink="false">88216376e3df7688913614fd323a67f1a0f9dc83:Threadlines</guid>
-      <pubDate>Mon, 19 Oct 2026 14:55:11 GMT</pubDate>
-      <category>개발 도구 / IDE / 코드 편집기</category>
-      <description>Category: 개발 도구 / IDE / 코드 편집기
-App: Threadlines
-Description: 코딩 에이전트(Claude Code, Codex, OpenCode, Cursor)를 위한 오픈소스 데스크톱 앱. 여러 에이전트가 하나의 스레드를 함께 쓰고, 스레드마다 독립된 git 워크트리를 사용한다.
-Website: https://www.threadlines.dev
-Commit: Add Threadlines to IDEs (EN/ZH/JA/KO) (#3615)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/88216376e3df7688913614fd323a67f1a0f9dc83</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / IDE / 코드 편집기<br/>App: Threadlines<br/>Description: 코딩 에이전트(Claude Code, Codex, OpenCode, Cursor)를 위한 오픈소스 데스크톱 앱. 여러 에이전트가 하나의 스레드를 함께 쓰고, 스레드마다 독립된 git 워크트리를 사용한다.<br/>Website: https://www.threadlines.dev<br/>Commit: Add Threadlines to IDEs (EN/ZH/JA/KO) (#3615)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/88216376e3df7688913614fd323a67f1a0f9dc83]]></content:encoded>
-    </item>
-    <item>
-      <title>SSHFire</title>
-      <link>https://github.com/aralozaltin/sshfire</link>
-      <guid isPermaLink="false">c0d47744e0a59b9994de12cbe2db0dac027c6258:SSHFire</guid>
-      <pubDate>Mon, 19 Oct 2026 08:57:20 GMT</pubDate>
-      <category>개발 도구 / 터미널 앱</category>
-      <description>Category: 개발 도구 / 터미널 앱
-App: SSHFire
-Description: 터미널, 세션 관리자, 현재 디렉터리를 따라가는 SFTP 브라우저를 갖춘 크로스 플랫폼 SSH 클라이언트.
-Open Source: https://github.com/aralozaltin/sshfire
-Commit: Add SSHFire to Terminal Apps (#3612)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0d47744e0a59b9994de12cbe2db0dac027c6258</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / 터미널 앱<br/>App: SSHFire<br/>Description: 터미널, 세션 관리자, 현재 디렉터리를 따라가는 SFTP 브라우저를 갖춘 크로스 플랫폼 SSH 클라이언트.<br/>Open Source: https://github.com/aralozaltin/sshfire<br/>Commit: Add SSHFire to Terminal Apps (#3612)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0d47744e0a59b9994de12cbe2db0dac027c6258]]></content:encoded>
-    </item>
-    <item>
-      <title>Mac Android Subsystem</title>
-      <link>https://harkhowalia-1.github.io/MacSubsystemForAndroid/</link>
-      <guid isPermaLink="false">b93050eed5bde10a3ac96ba47c432587ae44868d:Mac Android Subsystem</guid>
-      <pubDate>Mon, 19 Oct 2026 08:39:00 GMT</pubDate>
-      <category>개발 도구 / 가상화</category>
-      <description>Category: 개발 도구 / 가상화
-App: Mac Android Subsystem
-Description: Apple Silicon에서 Android 앱을 실행하며, 각 앱이 별도의 Mac 창과 Dock 아이콘을 가집니다.
-Website: https://harkhowalia-1.github.io/MacSubsystemForAndroid/
-Commit: Add Mac Android Subsystem to Virtualization (EN/ZH/JA/KO) (#3609)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b93050eed5bde10a3ac96ba47c432587ae44868d</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / 가상화<br/>App: Mac Android Subsystem<br/>Description: Apple Silicon에서 Android 앱을 실행하며, 각 앱이 별도의 Mac 창과 Dock 아이콘을 가집니다.<br/>Website: https://harkhowalia-1.github.io/MacSubsystemForAndroid/<br/>Commit: Add Mac Android Subsystem to Virtualization (EN/ZH/JA/KO) (#3609)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b93050eed5bde10a3ac96ba47c432587ae44868d]]></content:encoded>
-    </item>
-    <item>
-      <title>TetherCam</title>
-      <link>https://tethercam.app/</link>
-      <guid isPermaLink="false">aa7d406cbe4b855cabe690dc67d4ed43891e6f1e:TetherCam</guid>
-      <pubDate>Mon, 19 Oct 2026 08:33:06 GMT</pubDate>
-      <category>오디오 및 비디오 도구</category>
-      <description>Category: 오디오 및 비디오 도구
-App: TetherCam
-Description: iPhone을 USB로 연결해 Mac의 영상 전용 카메라로 사용하거나 OBS 플러그인으로 영상과 iPhone 마이크 소리를 받을 수 있는 도구.
-Website: https://tethercam.app/
-Commit: Add TetherCam to the app lists (#3577)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aa7d406cbe4b855cabe690dc67d4ed43891e6f1e</description>
-      <content:encoded><![CDATA[Category: 오디오 및 비디오 도구<br/>App: TetherCam<br/>Description: iPhone을 USB로 연결해 Mac의 영상 전용 카메라로 사용하거나 OBS 플러그인으로 영상과 iPhone 마이크 소리를 받을 수 있는 도구.<br/>Website: https://tethercam.app/<br/>Commit: Add TetherCam to the app lists (#3577)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/aa7d406cbe4b855cabe690dc67d4ed43891e6f1e]]></content:encoded>
-    </item>
-    <item>
-      <title>Eleven</title>
-      <link>https://github.com/Zfinix/eleven</link>
-      <guid isPermaLink="false">e279b9e005c33a7e0d553e095c96ea40453742f3:Eleven</guid>
-      <pubDate>Mon, 19 Oct 2026 07:26:28 GMT</pubDate>
-      <category>개발 도구 / 개발자 유틸리티</category>
-      <description>Category: 개발 도구 / 개발자 유틸리티
-App: Eleven
-Description: AI 에이전트가 바이너리, Android 앱, GPU 커널을 읽고 이름을 바꾸고 패치하는 오픈소스 리버스 엔지니어링 앱.
-Open Source: https://github.com/Zfinix/eleven
-Commit: Add Eleven to Developer Utilities (#3584)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e279b9e005c33a7e0d553e095c96ea40453742f3</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / 개발자 유틸리티<br/>App: Eleven<br/>Description: AI 에이전트가 바이너리, Android 앱, GPU 커널을 읽고 이름을 바꾸고 패치하는 오픈소스 리버스 엔지니어링 앱.<br/>Open Source: https://github.com/Zfinix/eleven<br/>Commit: Add Eleven to Developer Utilities (#3584)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e279b9e005c33a7e0d553e095c96ea40453742f3]]></content:encoded>
-    </item>
-    <item>
-      <title>Peel</title>
-      <link>https://peel.tuguidragos.com/</link>
-      <guid isPermaLink="false">445e46a271120577ad208f84d8ea3f662070fd92:Peel</guid>
-      <pubDate>Mon, 19 Oct 2026 01:35:09 GMT</pubDate>
-      <category>유틸리티 / 정리 및 제거</category>
-      <description>Category: 유틸리티 / 정리 및 제거
-App: Peel
-Description: 앱이 남긴 파일까지 모두 함께 지우고, 각 파일이 왜 그 앱의 것인지 알려 주며, 모든 항목을 휴지통으로 옮겨 나중에 되돌릴 수 있는 무료 오픈 소스 제거 및 정리 도구.
-Website: https://peel.tuguidragos.com/
-Commit: Add Peel to Cleanup and Uninstall (#3588)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/445e46a271120577ad208f84d8ea3f662070fd92</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 정리 및 제거<br/>App: Peel<br/>Description: 앱이 남긴 파일까지 모두 함께 지우고, 각 파일이 왜 그 앱의 것인지 알려 주며, 모든 항목을 휴지통으로 옮겨 나중에 되돌릴 수 있는 무료 오픈 소스 제거 및 정리 도구.<br/>Website: https://peel.tuguidragos.com/<br/>Commit: Add Peel to Cleanup and Uninstall (#3588)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/445e46a271120577ad208f84d8ea3f662070fd92]]></content:encoded>
     </item>
   </channel>
 </rss>

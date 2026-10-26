@@ -83,9 +83,9 @@ Awesome Mac
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://jaywcjlove.github.io/#/sponsor)
 [![Follow On X](https://img.shields.io/badge/Follow%20on%20X-333333?logo=x&logoColor=white)](https://x.com/jaywcjlove)
+[![Telegram Channel](https://img.shields.io/badge/%20-Telegram-333333.svg?logo=Telegram)](https://t.me/s/awesomemacosapp)
 [![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome)
 [![NPM version](https://img.shields.io/npm/v/awesome-mac.svg?style=flat)](https://npmjs.org/package/awesome-mac)
-[![WeiBo](https://jaywcjlove.github.io/sb/ico/weibo.svg)](http://weibo.com/pc175)
 [![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/awesome-mac?logo=docker)](https://hub.docker.com/r/wcjiang/awesome-mac)
 [![English List](https://jaywcjlove.github.io/sb/lang/english.svg)](./README.md)
 [![Korean List](https://jaywcjlove.github.io/sb/lang/korean.svg)](./README-ko.md)
@@ -285,7 +285,7 @@ Awesome Mac
 * [Koala](http://koala-app.com) - 预处理器语言图形编译工具，支持 Less、Sass、CoffeeScript、Compass framework 的即时编译。[![Open-Source Software][OSS Icon]](https://github.com/oklai/koala/) ![Freeware][Freeware Icon]
 * [Kaleidoscope](http://www.kaleidoscopeapp.com/) - 一款很强大的文本文件和图像比较工具，同时和 git、svn 等版本控制工具能够完美的结合。
 * [Localname](http://localname.io/) - 提供对本地开发服务器的访问权限。 ![Freeware][Freeware Icon]
-* [Loupe](https://github.com/smughead/Loupe) - 生成AI代理就绪输出的可访问性检查器。[![Open-Source Software][OSS Icon]](https://github.com/smughead/Loupe) ![Freeware][Freeware Icon]
+* [Loupe](https://github.com/britchie4/Loupe) - 生成AI代理就绪输出的可访问性检查器。[![Open-Source Software][OSS Icon]](https://github.com/britchie4/Loupe) ![Freeware][Freeware Icon]
 * [Medio](https://github.com/nuance-dev/medio) - 原生文本对比工具，界面简洁，实时高亮差异，快速又轻量。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nuance-dev/medio)
 * [MJML](https://mjmlio.github.io/mjml-app/) - 简化设计回应电子邮件的方式。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mjmlio/mjml)
 * [PaintCode](https://www.paintcodeapp.com/) - 将设计转换成 Objective-C, Swift 或 C# 代码。
@@ -583,6 +583,7 @@ Awesome Mac
 * [AppIconBuilder(图标构建)](https://apps.apple.com/cn/app/shotbuilder/id1294179975?platform=mac) - App图标多平台一键导出。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/shotbuilder/id1294179975?platform=mac)
 * [Couleurs](http://couleursapp.com) - 简单的屏幕取色应用程序。 ![Freeware][Freeware Icon]
 * [Eagle App](https://cn.eagle.cool/) - 用于管理图片、视频、音频、字体和设计素材的资源库工具。
+* [Featherview](https://featherview.mynetx.net) - 开源的键盘驱动图片查看器，可快速浏览整个文件夹的图片，并支持批量转换。 [![Open-Source Software][OSS Icon]](https://github.com/featherview/featherview) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Frank DeLoupe](http://jumpzero.com/frank/) - 支持 Retina 的屏幕拾色器。
 * [Image2icon](http://www.img2icnsapp.com) - 将你的图片转换成图标。![Freeware][Freeware Icon]
 * [ImageAlpha](https://pngmini.com/) - 压缩 PNG 图片，去掉无效的透明。[![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageAlpha) ![Freeware][Freeware Icon]
@@ -591,6 +592,7 @@ Awesome Mac
 * [IconKit](http://appersian.net/) - App图标自动生成器。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/iconkit-icon-resizer-for-app/id507135296?platform=mac)
 * [Iconjar](http://geticonjar.com/) - 图标管理软件，带组织和搜索功能。
 * [JPEGmini](http://www.jpegmini.com/) - 将图像尺寸降低高达 80％，而不会影响质量。
+* [Jutsu Studio](https://jutsustudio.com/) - 开源的非官方 Higgsfield 客户端，使用 Seedance、Kling 和 Genjutsu 生成 AI 视频与图像，所有结果都保存在本地磁盘。 [![Open-Source Software][OSS Icon]](https://github.com/jutsuhq/jutsu-studio) ![Freeware][Freeware Icon]
 * [Mottie](https://recouse.me/apps/mottie/) - 原生 Lottie 动画播放器，支持 dotLottie 文件的快速预览扩展。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6743446238?pt=120474400&ct=awesome-mac&mt=8)
 * [Pixpresso](https://getapps.cafe/app/pixpresso) - 图片查看与编辑工具，支持裁剪、缩放、标注以及 PNG、JPG、WebP、HEIC 格式转换。![Freeware][Freeware Icon]
 * [Preset Brewery](https://www.presetbrewery.com) - 将Lightroom预设转换为Adobe Camera Raw的工具。
@@ -601,6 +603,7 @@ Awesome Mac
 * [RightFont](http://rightfontapp.com/) - 字体管理工具。
 * [Siliconed](https://gwenn-ha-dev.github.io/Siliconed/) - 开源的本地 AI 图像生成与指令式图像编辑应用，基于 Swift 和 Metal 为 Apple 芯片打造。 [![Open-Source Software][OSS Icon]](https://github.com/gwenn-ha-dev/Siliconed) ![Freeware][Freeware Icon]
 * [svgus](http://www.svgs.us/) - SVG 图片管理器。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/svgsus/id1106867065?platform=mac)
+* [Swapjutsu](https://jutsustudio.com/swapjutsu/) - 开源的视频角色替换工具，使用 Seedance 2.5 或 Wan 2.2 Animate，并在 Apple 芯片上完成本地预处理。 [![Open-Source Software][OSS Icon]](https://github.com/jutsuhq/swapjutsu-seedance-character-swap) ![Freeware][Freeware Icon]
 * [Solarized](http://ethanschoonover.com/solarized) - 干净清爽的颜色主题，支持 iTerm、Intellij IDEA、Vim 等。
 * [Sip](http://theolabrothers.com/) - 收集，整理和分享你的颜色拾色器。
 * [CompressO](https://github.com/codeforreal1/compressO) - 一款用于压缩视频和图片体积的开源工具。 [![Open-Source Software][OSS Icon]](https://github.com/codeforreal1/compressO) ![Freeware][Freeware Icon]
@@ -873,6 +876,7 @@ Awesome Mac
 ### 音频录制与编辑
 
 * [akou](https://geiserx.github.io/akou/) - 开源的通话与会议录音工具，在设备上完成转写并标注说话人，可让 Claude Code 或 Codex 通过 MCP 对通话提问。 [![Open-Source Software][OSS Icon]](https://github.com/GeiserX/akou) ![Freeware][Freeware Icon]
+* [CamiTune](https://github.com/Shuail135/CamiTune) - 适用于 macOS 13 及以上版本的系统级音频均衡器，支持参数均衡、按应用独立音频控制、AutoEQ、AU/VST3 插件及高级 DSP 处理。[![Open-Source Software][OSS Icon]](https://github.com/Shuail135/CamiTune) ![Freeware][Freeware Icon]
 * [CapSoftware](https://github.com/CapSoftware/Cap) - 开源的 Loom 替代品。美观、可分享的屏幕录制工具。 [![Open-Source Software][OSS Icon]](https://github.com/CapSoftware/Cap) ![Freeware][Freeware Icon]
 * [Digisensus Recorder](https://digisensus.com/call-recorder-mac/) - 通话录音与无机器人 AI 会议纪要工具，可录制 Zoom、Meet、Teams、FaceTime、WhatsApp 和电话通话。 [![Open-Source Software][OSS Icon]](https://github.com/Digisensus/digisensus-recorder) ![Freeware][Freeware Icon]
 * [GarageBand](https://www.apple.com.cn/mac/garageband/) - 用于录音和音乐制作的数字音频工作站。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/garageband/id682658836?l=zh&ls=1&platform=mac)
@@ -1044,6 +1048,7 @@ Awesome Mac
 ## 下载工具
 
 * [aria2](https://aria2.github.io/) - 一款支持多种协议的轻量级命令行下载工具。[![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
+* [Arroxy](https://arroxy.com/) - 基于 yt-dlp 的开源图形界面下载工具，可从 YouTube 及其他支持的网站下载视频、音频、播放列表和字幕。[![Open-Source Software][OSS Icon]](https://github.com/antonio-orionus/Arroxy) ![Freeware][Freeware Icon]
 * [Downie](https://software.charliemonroe.net/downie.php) - 支持多达近 1200 个视频站点的视频下载工具。
 * [FDM](https://www.freedownloadmanager.org/) -一款跨平台的下载管理器 ![Freeware][Freeware Icon]
 * [FOLX](http://mac.eltima.com/download-manager.html) - 一个 Mac osx 系统风格界面的下载管理工具。 ![Freeware][Freeware Icon]
@@ -1165,6 +1170,7 @@ Awesome Mac
 * [SubList](https://apps.apple.com/app/sublist-subscription-list/id6757860829?platform=mac) - 在一个地方跟踪订阅、续费和支出，提供提醒、分析和 iCloud 同步。
 * [StockDock](https://github.com/simonsruggi/StockDock) - 菜单栏股票/ETF/加密货币实时行情工具，支持投资组合盈亏、多币种，注重隐私无需账户。 [![Open-Source Software][OSS Icon]](https://github.com/simonsruggi/StockDock) ![Freeware][Freeware Icon]
 * [MRRDock](https://mrrdock.simoneruggiero.com) - 菜单栏 MRR 汇总工具，把 Stripe、RevenueCat、Paddle、Lemon Squeezy、Polar、Dodo Payments 和 Gumroad 的月度经常性收入合并为一个数字，支持多币种，API 密钥保存在钥匙串中，无需账户。 [![Open-Source Software][OSS Icon]](https://github.com/simonsruggi/MRRDock) ![Freeware][Freeware Icon]
+* [Moony](https://moonyfinance.com) - 个人财务应用，在本地加密数据库中管理账户、投资、加密货币、房产和贷款，无需账户，无云端，无遥测。 [![Open-Source Software][OSS Icon]](https://github.com/fiiles/Moony) ![Freeware][Freeware Icon]
 
 ## 安全工具
 
