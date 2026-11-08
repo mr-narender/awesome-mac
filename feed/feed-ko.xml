@@ -5,9 +5,53 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>한국어 목록 기준으로 최근 추가된 macOS 앱입니다.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 06 Nov 2026 16:59:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 07:45:29 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ko.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>GitOS</title>
+      <link>https://gitos.angelsaikia.com/</link>
+      <guid isPermaLink="false">ef714e75bd910fce73f4268ffa99ff7c70642ea0:GitOS</guid>
+      <pubDate>Sun, 08 Nov 2026 07:45:29 GMT</pubDate>
+      <category>개발 도구 / 버전 관리</category>
+      <description>Category: 개발 도구 / 버전 관리
+App: GitOS
+Description: 저장소마다 올바른 GitHub 계정을 자동으로 선택하는 Git 클라이언트.
+Website: https://gitos.angelsaikia.com/
+Open Source: https://github.com/Dhunu/gitOS
+Commit: Add GitOS to Version Control (#4337)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ef714e75bd910fce73f4268ffa99ff7c70642ea0</description>
+      <content:encoded><![CDATA[Category: 개발 도구 / 버전 관리<br/>App: GitOS<br/>Description: 저장소마다 올바른 GitHub 계정을 자동으로 선택하는 Git 클라이언트.<br/>Website: https://gitos.angelsaikia.com/<br/>Open Source: https://github.com/Dhunu/gitOS<br/>Commit: Add GitOS to Version Control (#4337)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ef714e75bd910fce73f4268ffa99ff7c70642ea0]]></content:encoded>
+    </item>
+    <item>
+      <title>Quill</title>
+      <link>https://quill.hridya.tech</link>
+      <guid isPermaLink="false">6beb17e191493510b447726df5053a41678cd111:Quill</guid>
+      <pubDate>Sun, 08 Nov 2026 06:39:18 GMT</pubDate>
+      <category>읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
+      <description>Category: 읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
+App: Quill
+Description: Claude Code, Codex, Cursor가 초안을 그 자리에서 고치고, 변경마다 유지하거나 되돌릴 수 있는 Markdown 편집기.
+Website: https://quill.hridya.tech
+Open Source: https://github.com/hridaya423/quill
+Commit: Add Quill (#4343)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6beb17e191493510b447726df5053a41678cd111</description>
+      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 마크다운 도구 [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Quill<br/>Description: Claude Code, Codex, Cursor가 초안을 그 자리에서 고치고, 변경마다 유지하거나 되돌릴 수 있는 Markdown 편집기.<br/>Website: https://quill.hridya.tech<br/>Open Source: https://github.com/hridaya423/quill<br/>Commit: Add Quill (#4343)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6beb17e191493510b447726df5053a41678cd111]]></content:encoded>
+    </item>
+    <item>
+      <title>Knovum</title>
+      <link>https://github.com/madebyzan/knovum</link>
+      <guid isPermaLink="false">54fa4dded9a3604b68751c6656701973cf675721:Knovum</guid>
+      <pubDate>Sat, 07 Nov 2026 11:04:14 GMT</pubDate>
+      <category>읽기 및 쓰기 도구 / 노트 작성</category>
+      <description>Category: 읽기 및 쓰기 도구 / 노트 작성
+App: Knovum
+Description: 로컬 우선 2D 공간 AI 지식 공간으로, 내장 LanceDB 벡터 검색, 무한 캔버스 및 온디바이스 Whisper 전사를 지원합니다.
+Open Source: https://github.com/madebyzan/knovum
+Commit: Add Knovum to Note-taking section (#3815)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/54fa4dded9a3604b68751c6656701973cf675721</description>
+      <content:encoded><![CDATA[Category: 읽기 및 쓰기 도구 / 노트 작성<br/>App: Knovum<br/>Description: 로컬 우선 2D 공간 AI 지식 공간으로, 내장 LanceDB 벡터 검색, 무한 캔버스 및 온디바이스 Whisper 전사를 지원합니다.<br/>Open Source: https://github.com/madebyzan/knovum<br/>Commit: Add Knovum to Note-taking section (#3815)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/54fa4dded9a3604b68751c6656701973cf675721]]></content:encoded>
+    </item>
     <item>
       <title>Stage Manager</title>
       <link>https://eugene-tea.github.io/stage-manager/</link>
@@ -693,48 +737,6 @@ Open Source: https://github.com/flickbar/flickbar
 Commit: Add Flickbar to Window Management (#4083)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a65263449927a2b2e6db608fda4d92d4736b61e1</description>
       <content:encoded><![CDATA[Category: 유틸리티 / 창 관리<br/>App: Flickbar<br/>Description: 창 제목 표시줄에서 트랙패드 제스처로 창을 조작하는 오픈 소스 창 관리 도구.<br/>Website: https://flickbar.github.io/<br/>Open Source: https://github.com/flickbar/flickbar<br/>Commit: Add Flickbar to Window Management (#4083)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a65263449927a2b2e6db608fda4d92d4736b61e1]]></content:encoded>
-    </item>
-    <item>
-      <title>Swamp Converter</title>
-      <link>https://github.com/aansonsa/swamp-converter</link>
-      <guid isPermaLink="false">30976c97157c9f6dfeda4e263873e52c81caa4bf:Swamp Converter</guid>
-      <pubDate>Sat, 31 Oct 2026 00:15:23 GMT</pubDate>
-      <category>유틸리티 / 메뉴 바 도구</category>
-      <description>Category: 유틸리티 / 메뉴 바 도구
-App: Swamp Converter
-Description: 파일을 드래그하는 중 키를 누르고 휠에 놓으면 비디오, 오디오, 이미지, PDF를 변환할 수 있는 메뉴 바 파일 변환기.
-Open Source: https://github.com/aansonsa/swamp-converter
-Commit: Add Swamp Converter to Menu Bar Tools (#4079)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/30976c97157c9f6dfeda4e263873e52c81caa4bf</description>
-      <content:encoded><![CDATA[Category: 유틸리티 / 메뉴 바 도구<br/>App: Swamp Converter<br/>Description: 파일을 드래그하는 중 키를 누르고 휠에 놓으면 비디오, 오디오, 이미지, PDF를 변환할 수 있는 메뉴 바 파일 변환기.<br/>Open Source: https://github.com/aansonsa/swamp-converter<br/>Commit: Add Swamp Converter to Menu Bar Tools (#4079)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/30976c97157c9f6dfeda4e263873e52c81caa4bf]]></content:encoded>
-    </item>
-    <item>
-      <title>Pulse</title>
-      <link>https://github.com/emgeorrk/pulse</link>
-      <guid isPermaLink="false">e55f459dacdb7665ae3dffcefe991ea4d55bc309:Pulse</guid>
-      <pubDate>Fri, 30 Oct 2026 17:49:43 GMT</pubDate>
-      <category>AI 도구</category>
-      <description>Category: AI 도구
-App: Pulse
-Description: CPU, 메모리, 온도, 팬, 네트워크, 디스크, 전력, 배터리 상태를 실시간으로 보여주는 메뉴 막대 시스템 모니터.
-Open Source: https://github.com/emgeorrk/pulse
-Commit: Add Pulse (menu bar system monitor) (#2381)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e55f459dacdb7665ae3dffcefe991ea4d55bc309</description>
-      <content:encoded><![CDATA[Category: AI 도구<br/>App: Pulse<br/>Description: CPU, 메모리, 온도, 팬, 네트워크, 디스크, 전력, 배터리 상태를 실시간으로 보여주는 메뉴 막대 시스템 모니터.<br/>Open Source: https://github.com/emgeorrk/pulse<br/>Commit: Add Pulse (menu bar system monitor) (#2381)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e55f459dacdb7665ae3dffcefe991ea4d55bc309]]></content:encoded>
-    </item>
-    <item>
-      <title>ContainerDesk</title>
-      <link>https://github.com/MacHatter1/ContainerDesk</link>
-      <guid isPermaLink="false">dbef1b9c09aaa4d62d943b0a77110378e9dbac9c:ContainerDesk</guid>
-      <pubDate>Fri, 30 Oct 2026 16:22:05 GMT</pubDate>
-      <category>개발 도구 / 가상화</category>
-      <description>Category: 개발 도구 / 가상화
-App: ContainerDesk
-Description: 실시간 리소스 모니터링과 통합 터미널을 제공하는 Apple container 런타임용 네이티브 SwiftUI 작업 공간.
-Open Source: https://github.com/MacHatter1/ContainerDesk
-Commit: Add ContainerDesk to Virtualization (#4073)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dbef1b9c09aaa4d62d943b0a77110378e9dbac9c</description>
-      <content:encoded><![CDATA[Category: 개발 도구 / 가상화<br/>App: ContainerDesk<br/>Description: 실시간 리소스 모니터링과 통합 터미널을 제공하는 Apple container 런타임용 네이티브 SwiftUI 작업 공간.<br/>Open Source: https://github.com/MacHatter1/ContainerDesk<br/>Commit: Add ContainerDesk to Virtualization (#4073)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/dbef1b9c09aaa4d62d943b0a77110378e9dbac9c]]></content:encoded>
     </item>
   </channel>
 </rss>

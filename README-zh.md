@@ -385,6 +385,7 @@ Awesome Mac
 * [GitHub Desktop](https://desktop.github.com/) - 使用 GitHub 的 GUI 应用。![Freeware][Freeware Icon]
 * [GitUp](http://gitup.co/) - 一个简单功能强大的 Git 客户端。[![Open-Source Software][OSS Icon]](https://github.com/git-up/GitUp) ![Freeware][Freeware Icon]
 * [GitKraken](https://www.gitkraken.com/) - 最流行的图形用户界面的 git 管理工具。
+* [GitOS](https://gitos.angelsaikia.com/) - 为每个仓库自动选择正确 GitHub 账号的 Git 客户端。[![Open-Source Software][OSS Icon]](https://github.com/Dhunu/gitOS) ![Freeware][Freeware Icon]
 * [Hub](https://hub.github.com/) - 将 GitHub 接口和 Git 命令进行包装。[![Open-Source Software][OSS Icon]](https://github.com/github/hub) ![Freeware][Freeware Icon]
 * [OhMyStar](https://ohmystarapp.com/) - 最好的组织 GitHub Star 的软件。![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/ohmystar/id1218642292?platform=mac)
 * [PullBull](https://github.com/rustycamper/pullbull) - 在菜单栏中查看 GitHub 拉取请求、议题和 Projects 看板。 [![Open-Source Software][OSS Icon]](https://github.com/rustycamper/pullbull) ![Freeware][Freeware Icon]
@@ -993,6 +994,7 @@ Awesome Mac
 * [MWeb](http://zh.mweb.im/) - 专业的 Markdown 写作、记笔记、静态博客生成软件。
 * [Obsidian](https://obsidian.md) - 你的第二大脑 ![Freeware][Freeware Icon]
 * [Pixley Reader](https://github.com/Applacat/PixleyReader) - 用于浏览 AI 工具生成的 Markdown 规范、文档和更新日志的阅读器。 [![Open-Source Software][OSS Icon]](https://github.com/Applacat/PixleyReader) [![App Store][app-store Icon]](https://apps.apple.com/cn/app/id6758722045?platform=mac)
+* [Quill](https://quill.hridya.tech) - 让 Claude Code、Codex 或 Cursor 在原处修改草稿的 Markdown 编辑器，每处修改都可保留或撤销。 [![Open-Source Software][OSS Icon]](https://github.com/hridaya423/quill) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Splat](https://github.com/sventmueller/splat) - 用 Rust 编写的原生 macOS Markdown 编辑器，源码和实时预览均可直接编辑。 [![Open-Source Software][OSS Icon]](https://github.com/sventmueller/splat) ![Freeware][Freeware Icon]
 * [Textus](https://textus.catvinci.com) - 所见即所得的 Markdown 编辑器，支持公式、表格和 Mermaid，可选 AI 写作助手，支持云端与本地模型。 [![Open-Source Software][OSS Icon]](https://github.com/CatVinci-Studio/Textus) ![Freeware][Freeware Icon]
 * [Typora](http://www.typora.io/) - 基于 Electron 的“读写一体” Markdown 编辑器。
@@ -1009,6 +1011,7 @@ Awesome Mac
 * [Evernote](https://evernote.com/) - 笔记本应用程序。 ![Freeware][Freeware Icon]
 * [Inkdrop](https://www.inkdrop.info/) - Markdown 爱好者的笔记本应用程序。
 * [Knopo](https://github.com/alkalim/Knopo) - 原生 macOS 本地优先大纲笔记应用，以纯 Markdown 文件存储笔记。 [![Open-Source Software][OSS Icon]](https://github.com/alkalim/Knopo) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Knovum](https://github.com/madebyzan/knovum) - 本地优先的二维空间 AI 知识库，集成嵌入式 LanceDB 向量检索、无限画布与端侧 Whisper 语音转录。 [![Open-Source Software][OSS Icon]](https://github.com/madebyzan/knovum) ![Freeware][Freeware Icon]
 * [Koru](https://www.koru.do/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-mac) - 使用 Rust 构建的离线优先开源工作区，用于笔记和文档，支持端到端加密的设备间同步。 [![Open-Source Software][OSS Icon]](https://github.com/koruworks/mono) ![Freeware][Freeware Icon]
 * [LawPulse 法脉](https://lttxzmj.github.io/lawpulse-site/) - 给中国执业律师的本地离线法律库与法条笔记工具：500+ 部现行法律法规逐条检索，笔记挂在法条下自动成链，数据不出本机。 ![Freeware][Freeware Icon]
 * [leanote](http://app.leanote.com) - 支持 Markdown 的一款开源笔记软件，支持直接成为个人博客。[![Open-Source Software][OSS Icon]](https://github.com/leanote/leanote) ![Freeware][Freeware Icon]
