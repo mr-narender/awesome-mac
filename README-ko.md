@@ -579,6 +579,7 @@ Awesome Mac
 * [Alacritty](https://github.com/jwilm/alacritty) - GPU 가속을 지원하는 크로스 플랫폼 터미널 에뮬레이터. [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
 * [Awal Terminal](https://github.com/AwalTerminal/Awal-terminal) - 다중 제공자 프로필과 음성 입력을 지원하는 AI 네이티브 터미널 에뮬레이터. [![Open-Source Software][OSS Icon]](https://github.com/AwalTerminal/Awal-terminal) ![Freeware][Freeware Icon]
 * [Calyx](https://github.com/yuuichieguchi/Calyx) - 코딩 에이전트를 병렬로 실행하고 관리하기 위한 네이티브 macOS 터미널. [![Open-Source Software][OSS Icon]](https://github.com/yuuichieguchi/Calyx) ![Freeware][Freeware Icon]
+* [Cue](https://cue.8starlabs.com) - Apple Terminal과 VS Code 통합 터미널의 Zsh에 명령, 옵션, Git 브랜치, 파일을 위한 IDE 스타일 자동 완성을 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/8starlabs/cue) ![Freeware][Freeware Icon]
 * [electerm](https://electerm.github.io/electerm/) - 터미널, SSH, SFTP 클라이언트. [![Open-Source Software][OSS Icon]](https://github.com/electerm/electerm) ![Freeware][Freeware Icon]
 * [Farol](https://github.com/snowztech/farol) - libghostty 기반 터미널로, 각 코딩 에이전트가 작업 중인지, 대기 중인지, 완료했는지 보여줍니다. [![Open-Source Software][OSS Icon]](https://github.com/snowztech/farol) ![Freeware][Freeware Icon]
 * [Ghostty](https://github.com/ghostty-org/ghostty) - 빠른 GPU 가속 터미널 에뮬레이터. [![Open-Source Software][OSS Icon]](https://github.com/ghostty-org/ghostty) ![Freeware][Freeware Icon]
@@ -670,6 +671,7 @@ Awesome Mac
 * [KeyCastr](https://github.com/keycastr/keycastr) - 오픈 소스 키입력 시각화 도구. [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
 * [Licecap](http://www.cockos.com/licecap/) - GIF로 바로 내보내는 화면 녹화 도구. [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon]
 * [Monosnap](https://monosnap.com/) - 빠른 스크린샷 및 비디오 촬영. ![Freeware][Freeware Icon]
+* [Native Screen](https://nativescreen.app/) - 멀티트랙 타임라인, 자동 줌, 온디바이스 자막을 갖춘 오픈 소스 화면 녹화 및 편집 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/maitrungduc1410/NativeScreen) ![Freeware][Freeware Icon]
 * [OBS Studio](https://github.com/obsproject/obs-studio) - 라이브 스트리밍 및 화면 녹화용 오픈 소스 소프트웨어. [![Open-Source Software][OSS Icon]](https://github.com/obsproject/obs-studio)
 * [OpenScreen](https://github.com/getopenscreen/openscreen) - 제품 데모와 사용법 안내 영상을 만드는 오픈 소스 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/getopenscreen/openscreen) ![Freeware][Freeware Icon]
 * [Recordly](https://recordly.dev/) - 데모, 튜토리얼, 제품 영상을 위한 오픈 소스 화면 녹화 및 편집 도구입니다. [![Open-Source Software][OSS Icon]](https://github.com/webadderallorg/Recordly) ![Freeware][Freeware Icon]
@@ -1107,6 +1109,7 @@ Awesome Mac
 * [cctop](https://cctop.app) - AI 코딩 세션(Claude Code, Codex, opencode, pi)의 상태를 메뉴 막대에서 보여주고 해당 터미널 창이나 에디터 창으로 바로 이동하는 오픈 소스 도구. [![Open-Source Software][OSS Icon]](https://github.com/st0012/cctop) ![Freeware][Freeware Icon]
 * [Çentik](https://github.com/YusufEmreYazici/Centik) - MacBook 노치를 음악, 시스템 상태, 내 Claude·Gemini·Ollama로 쓰는 AI 채팅, 클립보드 기록, 회의 알림을 담은 라이브 아일랜드로 바꿔 주는 앱. [![Open-Source Software][OSS Icon]](https://github.com/YusufEmreYazici/Centik) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [ChargeMonitor](https://github.com/CrashSystemZ/ChargeMonitor) - 실시간 충전 상태와 전력 사용량을 보여주는 메뉴 막대 배터리 모니터입니다. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/CrashSystemZ/ChargeMonitor)
+* [Claude Accounts](https://github.com/jomonkj/claude-accounts) - Claude 데스크톱 앱의 계정을 한 번의 클릭으로 전환하는 도구. 세션은 사라지지 않습니다. [![Open-Source Software][OSS Icon]](https://github.com/jomonkj/claude-accounts) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CodexIsland](https://github.com/ericjypark/codex-island) - 맥북 노치를 다이나믹 아일랜드 스타일의 Live Activity로 바꿔 Claude Code와 Codex CLI의 사용 한도와 지출을 보여줍니다. 모든 데이터는 로컬에서만 처리되며 텔레메트리는 없습니다. [![Open-Source Software][OSS Icon]](https://github.com/ericjypark/codex-island) ![Freeware][Freeware Icon]
 * [Healthy Battery](https://github.com/berkinefeavci/healthy-battery) - Apple Silicon MacBook용 오픈 소스 충전 한도 도구로, 실시간 전력 흐름과 장기 배터리 상태를 보여줍니다. [![Open-Source Software][OSS Icon]](https://github.com/berkinefeavci/healthy-battery) ![Freeware][Freeware Icon]
 * [Konverter](https://github.com/davidpraznik/Konverter) - 파일을 휠에 끌어다 놓아 사용하는 메뉴 바 파일 변환 및 이미지 압축 도구. [![Open-Source Software][OSS Icon]](https://github.com/davidpraznik/Konverter) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1137,6 +1140,7 @@ Awesome Mac
 * [MacTools](https://github.com/ggbond268/MacTools) - 디스플레이 제어, 시스템 토글, 정리, 기기 상태, 일상 유틸리티를 제공하는 확장 가능한 플러그인 시스템 기반의 오픈 소스 메뉴 바 도구 모음. [![Open-Source Software][OSS Icon]](https://github.com/ggbond268/MacTools) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Repose](https://github.com/fikrikarim/repose) - 휴식 시간이 되면 화면을 어둡게 하고 통화 중에는 자동으로 멈추는 메뉴 바 휴식 타이머. [![Open-Source Software][OSS Icon]](https://github.com/fikrikarim/repose) ![Freeware][Freeware Icon]
 * [Dimly](https://feuerbacher.me/projects/dimly) - 하나의 메뉴 막대 앱에서 여러 모니터의 밝기를 함께 제어하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/punshnut/macos-dimly) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Dimmerly](https://dimmerly.olujic.in.rs/) - 디스플레이별 밝기, 색온도, 대비를 조절하고 프리셋, 일정, DDC/CI 모니터 제어를 지원하는 오픈 소스 메뉴 막대 앱. [![Open-Source Software][OSS Icon]](https://github.com/olujicz/Dimmerly) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Safelight](https://github.com/mopfaff/Safelight) - 색상 필터, 밝기, 라이트/다크 모드를 일정에 따라 조절하고 밤에는 화면을 짙은 빨간색으로 바꾸는 오픈 소스 메뉴 막대 앱. [![Open-Source Software][OSS Icon]](https://github.com/mopfaff/Safelight) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [StableBar](https://stablebar.app) - 테마, 위젯, 팝업과 AeroSpace, yabai, OmniWM 워크스페이스를 지원하는 커스터마이즈 가능한 메뉴 바 대체 도구. [![Open-Source Software][OSS Icon]](https://github.com/Seb-GRAF/StableBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Stash](https://github.com/brentc22/stash) - macOS 27용 오픈 소스 메뉴 막대 아이콘 숨김 도구로, 상태 항목을 하나의 화살표 뒤로 접어 줍니다. [![Open-Source Software][OSS Icon]](https://github.com/brentc22/stash) ![Freeware][Freeware Icon] ![Native App][Native Icon]

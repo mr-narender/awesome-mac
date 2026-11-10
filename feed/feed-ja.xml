@@ -5,9 +5,68 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>日本語リストを元にした最近追加の macOS アプリです。</description>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 09 Nov 2026 09:48:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 00:52:38 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-ja.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Dimmerly</title>
+      <link>https://dimmerly.olujic.in.rs/</link>
+      <guid isPermaLink="false">545fe9b524656596537654af32c32a0fb8afd9a9:Dimmerly</guid>
+      <pubDate>Tue, 10 Nov 2026 00:52:38 GMT</pubDate>
+      <category>ユーティリティ / 生活の質の向上</category>
+      <description>Category: ユーティリティ / 生活の質の向上
+App: Dimmerly
+Description: ディスプレイごとに輝度、色温度、コントラストを調整でき、プリセット、スケジュール、DDC/CI によるモニター制御に対応したオープンソースのメニューバーアプリ。
+Website: https://dimmerly.olujic.in.rs/
+Open Source: https://github.com/olujicz/Dimmerly
+Commit: Add Dimmerly to Quality of Life Improvements (#4430)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/545fe9b524656596537654af32c32a0fb8afd9a9</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / 生活の質の向上<br/>App: Dimmerly<br/>Description: ディスプレイごとに輝度、色温度、コントラストを調整でき、プリセット、スケジュール、DDC/CI によるモニター制御に対応したオープンソースのメニューバーアプリ。<br/>Website: https://dimmerly.olujic.in.rs/<br/>Open Source: https://github.com/olujicz/Dimmerly<br/>Commit: Add Dimmerly to Quality of Life Improvements (#4430)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/545fe9b524656596537654af32c32a0fb8afd9a9]]></content:encoded>
+    </item>
+    <item>
+      <title>Cue</title>
+      <link>https://cue.8starlabs.com</link>
+      <guid isPermaLink="false">bee77c2bc476dcdef4b0b18aed4f3e6e0c2dcbaf:Cue</guid>
+      <pubDate>Mon, 09 Nov 2026 14:55:26 GMT</pubDate>
+      <category>ターミナルアプリ</category>
+      <description>Category: ターミナルアプリ
+App: Cue
+Description: Apple Terminal と VS Code の統合ターミナルで、Zsh にコマンド、オプション、Git ブランチ、ファイルの IDE 風補完を追加します。
+Website: https://cue.8starlabs.com
+Open Source: https://github.com/8starlabs/cue
+Commit: Add Cue to terminal app lists (#4419)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bee77c2bc476dcdef4b0b18aed4f3e6e0c2dcbaf</description>
+      <content:encoded><![CDATA[Category: ターミナルアプリ<br/>App: Cue<br/>Description: Apple Terminal と VS Code の統合ターミナルで、Zsh にコマンド、オプション、Git ブランチ、ファイルの IDE 風補完を追加します。<br/>Website: https://cue.8starlabs.com<br/>Open Source: https://github.com/8starlabs/cue<br/>Commit: Add Cue to terminal app lists (#4419)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bee77c2bc476dcdef4b0b18aed4f3e6e0c2dcbaf]]></content:encoded>
+    </item>
+    <item>
+      <title>Native Screen</title>
+      <link>https://nativescreen.app/</link>
+      <guid isPermaLink="false">bbb5371caed67dc248fc6d54760484c239144193:Native Screen</guid>
+      <pubDate>Mon, 09 Nov 2026 14:20:21 GMT</pubDate>
+      <category>デザインとプロダクト / 画面録画</category>
+      <description>Category: デザインとプロダクト / 画面録画
+App: Native Screen
+Description: マルチトラックタイムライン、自動ズーム、オンデバイス字幕を備えたオープンソースの画面録画・編集ツール。
+Website: https://nativescreen.app/
+Open Source: https://github.com/maitrungduc1410/NativeScreen
+Commit: Add Native Screen to Screen Recording (#4414)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bbb5371caed67dc248fc6d54760484c239144193</description>
+      <content:encoded><![CDATA[Category: デザインとプロダクト / 画面録画<br/>App: Native Screen<br/>Description: マルチトラックタイムライン、自動ズーム、オンデバイス字幕を備えたオープンソースの画面録画・編集ツール。<br/>Website: https://nativescreen.app/<br/>Open Source: https://github.com/maitrungduc1410/NativeScreen<br/>Commit: Add Native Screen to Screen Recording (#4414)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bbb5371caed67dc248fc6d54760484c239144193]]></content:encoded>
+    </item>
+    <item>
+      <title>Claude Accounts</title>
+      <link>https://github.com/jomonkj/claude-accounts</link>
+      <guid isPermaLink="false">7df21193fda93955002b71b410b6d426d1f50a10:Claude Accounts</guid>
+      <pubDate>Mon, 09 Nov 2026 14:14:17 GMT</pubDate>
+      <category>ユーティリティ / メニューバーツール</category>
+      <description>Category: ユーティリティ / メニューバーツール
+App: Claude Accounts
+Description: Claude デスクトップアプリのアカウントをワンクリックで切り替えるツール。セッションは失われません。
+Open Source: https://github.com/jomonkj/claude-accounts
+Commit: Add Claude Accounts to Menu Bar Tools (#4415)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7df21193fda93955002b71b410b6d426d1f50a10</description>
+      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Claude Accounts<br/>Description: Claude デスクトップアプリのアカウントをワンクリックで切り替えるツール。セッションは失われません。<br/>Open Source: https://github.com/jomonkj/claude-accounts<br/>Commit: Add Claude Accounts to Menu Bar Tools (#4415)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7df21193fda93955002b71b410b6d426d1f50a10]]></content:encoded>
+    </item>
     <item>
       <title>FixStat</title>
       <link>https://github.com/BurakFixLab/fixstat</link>
@@ -676,66 +735,6 @@ Open Source: https://github.com/Tekkiech/jdsp4mac
 Commit: Add jdsp4mac to Audio Record and Process (#4146)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/79728247e60c2d5534316d2118ac94e247ff5101</description>
       <content:encoded><![CDATA[Category: オーディオ・ビデオツール / オーディオ録音・処理<br/>App: jdsp4mac<br/>Description: EQ、AutoEQ、コンボルバー、クロスフィード、ViPER-DDC など JamesDSP のエフェクトをシステム全体の音声に適用するメニューバーアプリ。<br/>Open Source: https://github.com/Tekkiech/jdsp4mac<br/>Commit: Add jdsp4mac to Audio Record and Process (#4146)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/79728247e60c2d5534316d2118ac94e247ff5101]]></content:encoded>
-    </item>
-    <item>
-      <title>Shutterbar</title>
-      <link>https://github.com/mucahitimre/Shutterbar</link>
-      <guid isPermaLink="false">c5a3c7de9ec2fc9f9227f6cadcec9949fb0e989c:Shutterbar</guid>
-      <pubDate>Mon, 02 Nov 2026 01:59:44 GMT</pubDate>
-      <category>デザインとプロダクト / スクリーンショットツール</category>
-      <description>Category: デザインとプロダクト / スクリーンショットツール
-App: Shutterbar
-Description: ShareX 風のスクリーンショットツール。⌘C でクリップボードへ直接コピー、キャプチャ後の自動タスク、前回の範囲の再キャプチャ、スクロールキャプチャに対応。
-Open Source: https://github.com/mucahitimre/Shutterbar
-Commit: Add Shutterbar to Screenshot Tools (#4148)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5a3c7de9ec2fc9f9227f6cadcec9949fb0e989c</description>
-      <content:encoded><![CDATA[Category: デザインとプロダクト / スクリーンショットツール<br/>App: Shutterbar<br/>Description: ShareX 風のスクリーンショットツール。⌘C でクリップボードへ直接コピー、キャプチャ後の自動タスク、前回の範囲の再キャプチャ、スクロールキャプチャに対応。<br/>Open Source: https://github.com/mucahitimre/Shutterbar<br/>Commit: Add Shutterbar to Screenshot Tools (#4148)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5a3c7de9ec2fc9f9227f6cadcec9949fb0e989c]]></content:encoded>
-    </item>
-    <item>
-      <title>NTFSTool</title>
-      <link>https://ntfstool.com</link>
-      <guid isPermaLink="false">29bff2dd2cabbf00cf26f06948f14f1254e21fa5:NTFSTool</guid>
-      <pubDate>Sun, 01 Nov 2026 11:11:52 GMT</pubDate>
-      <category>ユーティリティ / システム関連ツール</category>
-      <description>Category: ユーティリティ / システム関連ツール
-App: NTFSTool
-Description: カーネル拡張なしで Mac から NTFS を読み書きできる、無料のオープンソースツール。
-Website: https://ntfstool.com
-Open Source: https://github.com/ntfstool/ntfstool
-App Store: https://apps.apple.com/app/id1510209857
-Commit: Add NTFSTool to System Related Tools (#4134)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29bff2dd2cabbf00cf26f06948f14f1254e21fa5</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / システム関連ツール<br/>App: NTFSTool<br/>Description: カーネル拡張なしで Mac から NTFS を読み書きできる、無料のオープンソースツール。<br/>Website: https://ntfstool.com<br/>Open Source: https://github.com/ntfstool/ntfstool<br/>App Store: https://apps.apple.com/app/id1510209857<br/>Commit: Add NTFSTool to System Related Tools (#4134)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29bff2dd2cabbf00cf26f06948f14f1254e21fa5]]></content:encoded>
-    </item>
-    <item>
-      <title>Netty</title>
-      <link>https://alvaldes.github.io/netty/</link>
-      <guid isPermaLink="false">ed8e584177040dc33560a80d158beb900d500856:Netty</guid>
-      <pubDate>Sun, 01 Nov 2026 03:26:08 GMT</pubDate>
-      <category>ユーティリティ / メニューバーツール</category>
-      <description>Category: ユーティリティ / メニューバーツール
-App: Netty
-Description: インターネットに本当につながっているかを示し、遅延・ジッター・パケットロス・速度テストも確認できるオープンソースのメニューバーアプリ。
-Website: https://alvaldes.github.io/netty/
-Open Source: https://github.com/alvaldes/netty
-Commit: Add Netty to Menu Bar Tools (#4125)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed8e584177040dc33560a80d158beb900d500856</description>
-      <content:encoded><![CDATA[Category: ユーティリティ / メニューバーツール<br/>App: Netty<br/>Description: インターネットに本当につながっているかを示し、遅延・ジッター・パケットロス・速度テストも確認できるオープンソースのメニューバーアプリ。<br/>Website: https://alvaldes.github.io/netty/<br/>Open Source: https://github.com/alvaldes/netty<br/>Commit: Add Netty to Menu Bar Tools (#4125)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed8e584177040dc33560a80d158beb900d500856]]></content:encoded>
-    </item>
-    <item>
-      <title>Mac TV</title>
-      <link>https://arunprakaash.github.io/mac-tv/</link>
-      <guid isPermaLink="false">03c2ca8f3be310d5f5bbf1c135ed9e32ee2336d1:Mac TV</guid>
-      <pubDate>Sun, 01 Nov 2026 03:18:23 GMT</pubDate>
-      <category>オーディオ・ビデオツール</category>
-      <description>Category: オーディオ・ビデオツール
-App: Mac TV
-Description: スマートフォンのリモコンとローカル動画プレイヤーを備えた、ストリーミングアプリ向けのオープンソースの Apple TV 風ホーム画面。
-Website: https://arunprakaash.github.io/mac-tv/
-Open Source: https://github.com/Arunprakaash/mac-tv
-Commit: Add Mac TV to Audio and Video Tools (#4119)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03c2ca8f3be310d5f5bbf1c135ed9e32ee2336d1</description>
-      <content:encoded><![CDATA[Category: オーディオ・ビデオツール<br/>App: Mac TV<br/>Description: スマートフォンのリモコンとローカル動画プレイヤーを備えた、ストリーミングアプリ向けのオープンソースの Apple TV 風ホーム画面。<br/>Website: https://arunprakaash.github.io/mac-tv/<br/>Open Source: https://github.com/Arunprakaash/mac-tv<br/>Commit: Add Mac TV to Audio and Video Tools (#4119)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/03c2ca8f3be310d5f5bbf1c135ed9e32ee2336d1]]></content:encoded>
     </item>
   </channel>
 </rss>

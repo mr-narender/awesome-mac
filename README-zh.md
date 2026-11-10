@@ -450,6 +450,7 @@ Awesome Mac
 * [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
 * [Awal Terminal](https://github.com/AwalTerminal/Awal-terminal) - 支持多提供商配置和语音输入的 AI 原生终端模拟器。 [![Open-Source Software][OSS Icon]](https://github.com/AwalTerminal/Awal-terminal) ![Freeware][Freeware Icon]
 * [Calyx](https://github.com/yuuichieguchi/Calyx) - 用于并行运行和管理编码 agent 的原生 macOS 终端。 [![Open-Source Software][OSS Icon]](https://github.com/yuuichieguchi/Calyx) ![Freeware][Freeware Icon]
+* [Cue](https://cue.8starlabs.com) - 为 Apple Terminal 和 VS Code 集成终端中的 Zsh 提供类似 IDE 的命令、选项、Git 分支和文件补全。 [![Open-Source Software][OSS Icon]](https://github.com/8starlabs/cue) ![Freeware][Freeware Icon]
 * [electerm](https://electerm.github.io/electerm/) - 终端、SSH 和 SFTP 客户端。 [![Open-Source Software][OSS Icon]](https://github.com/electerm/electerm) ![Freeware][Freeware Icon]
 * [Farol](https://github.com/snowztech/farol) - 基于 libghostty 构建的终端，显示每个编码 agent 正在工作、等待还是已完成。 [![Open-Source Software][OSS Icon]](https://github.com/snowztech/farol) ![Freeware][Freeware Icon]
 * [Ghostty](https://github.com/ghostty-org/ghostty) - 快速的 GPU 加速终端模拟器。 [![Open-Source Software][OSS Icon]](https://github.com/ghostty-org/ghostty) ![Freeware][Freeware Icon]
@@ -587,6 +588,7 @@ Awesome Mac
 * [KeyCastr](https://github.com/keycastr/keycastr) - 录屏好帮手，实时显示按键操作的小工具。[![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
 * [Licecap](http://www.cockos.com/licecap/) - 可直接导出 GIF 的录屏工具。[![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon]
 * [Monosnap](https://monosnap.com/) - 制作截图，录制视频共享文件。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/monosnap/id540348655?platform=mac)
+* [Native Screen](https://nativescreen.app/) - 带多轨时间线、自动缩放和本地字幕的开源录屏与编辑工具。 [![Open-Source Software][OSS Icon]](https://github.com/maitrungduc1410/NativeScreen) ![Freeware][Freeware Icon]
 * [OBS Studio](https://github.com/obsproject/obs-studio) - 免费开源的直播和屏幕录制软件。 [![Open-Source Software][OSS Icon]](https://github.com/obsproject/obs-studio) ![Freeware][Freeware Icon]
 * [OpenScreen](https://github.com/getopenscreen/openscreen) - 用于制作产品演示和操作讲解视频的开源工具。 [![Open-Source Software][OSS Icon]](https://github.com/getopenscreen/openscreen) ![Freeware][Freeware Icon]
 * [Quick Recorder](https://lihaoyun6.github.io/quickrecorder/) - 多功能、轻量化、高性能的 macOS 屏幕录制工具 [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/QuickRecorder) ![Freeware][Freeware Icon]
@@ -1325,6 +1327,7 @@ Awesome Mac
 * [Crisp](https://didriksg.github.io/Crisp/) - 在菜单栏管理外接显示器：HiDPI 缩放、DDC 亮度、颜色和预设。 [![Open-Source Software][OSS Icon]](https://github.com/didriksg/Crisp) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [DisplayBuddy](https://displaybuddy.app) - 直接控制外接显示器的亮度、对比度和输入源。
 * [Dimly](https://feuerbacher.me/projects/dimly) - 从一个菜单栏应用统一控制多显示器环境下的亮度。 [![Open-Source Software][OSS Icon]](https://github.com/punshnut/macos-dimly) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Dimmerly](https://dimmerly.olujic.in.rs/) - 开源菜单栏应用，可分别调节每块显示器的亮度、色温和对比度，支持预设、定时切换和 DDC/CI 显示器控制。 [![Open-Source Software][OSS Icon]](https://github.com/olujicz/Dimmerly) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [DNS Heaven](https://github.com/greenboxal/dns-heaven) - 可以令基于 glibc 的 macOS 应用直接使用原生栈来解析 DNS，主要适用于 VPN。 [![Open-Source Software][OSS Icon]](https://github.com/greenboxal/dns-heaven) ![Freeware][Freeware Icon]
 * [Convertino](https://github.com/hasanzadee/convertino) - 拖动文件时按下 Shift，把它放到环形菜单上即可转换或编辑。 [![Open-Source Software][OSS Icon]](https://github.com/hasanzadee/convertino) ![Freeware][Freeware Icon]
 * [DNS Easy Switcher](https://github.com/glinford/dns-easy-switcher) - 快速切换 DNS 提供商或自定义解析器的菜单栏工具。 [![Open-Source Software][OSS Icon]](https://github.com/glinford/dns-easy-switcher) ![Freeware][Freeware Icon]
@@ -1470,6 +1473,7 @@ Awesome Mac
 * [cctop](https://cctop.app) - 在菜单栏实时显示 AI 编程会话(Claude Code、Codex、opencode、pi)状态的开源工具,可一键跳回对应的终端窗格或编辑器窗口。 [![Open-Source Software][OSS Icon]](https://github.com/st0012/cctop) ![Freeware][Freeware Icon]
 * [Çentik](https://github.com/YusufEmreYazici/Centik) - 把 MacBook 刘海变成实时岛屿，集成音乐、系统状态、可接入你自己的 Claude、Gemini 或 Ollama 的 AI 聊天、剪贴板历史和会议提醒。 [![Open-Source Software][OSS Icon]](https://github.com/YusufEmreYazici/Centik) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [ChargeMonitor](https://github.com/CrashSystemZ/ChargeMonitor) - 显示实时充电状态和能耗信息的菜单栏电池监控工具。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/CrashSystemZ/ChargeMonitor)
+* [Claude Accounts](https://github.com/jomonkj/claude-accounts) - 一键在多个账号之间切换 Claude 桌面应用，不会丢失会话。 [![Open-Source Software][OSS Icon]](https://github.com/jomonkj/claude-accounts) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CodexIsland](https://github.com/ericjypark/codex-island) - 将 MacBook 刘海打造成动态岛风格的 Live Activity，实时显示 Claude Code 与 Codex CLI 的速率限制和花费。所有数据本地计算，无任何遥测。 [![Open-Source Software][OSS Icon]](https://github.com/ericjypark/codex-island) ![Freeware][Freeware Icon]
 * [HandySwitch](https://github.com/x0c/HandySwitch) - 轻量级菜单栏快捷开关小工具（支持切换深色模式、防止休眠、滚动方向等）。 [![Open-Source Software][OSS Icon]](https://github.com/x0c/HandySwitch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Konverter](https://github.com/davidpraznik/Konverter) - 菜单栏文件转换和图片压缩工具，拖动文件到转盘上即可操作。 [![Open-Source Software][OSS Icon]](https://github.com/davidpraznik/Konverter) ![Freeware][Freeware Icon] ![Native App][Native Icon]

@@ -683,6 +683,7 @@ Awesome Mac
 * [Awal Terminal](https://github.com/AwalTerminal/Awal-terminal) - 複数プロバイダープロファイルと音声入力に対応したAIネイティブのターミナルエミュレーター。 [![Open-Source Software][OSS Icon]](https://github.com/AwalTerminal/Awal-terminal) ![Freeware][Freeware Icon]
 * [Calyx](https://github.com/yuuichieguchi/Calyx) - コーディングエージェントを並列に実行・管理するためのネイティブ macOS ターミナル。 [![Open-Source Software][OSS Icon]](https://github.com/yuuichieguchi/Calyx) ![Freeware][Freeware Icon]
 * [Command Book](https://commandbookapp.com) - 長時間実行されるターミナルコマンド用のターミナルコンパニオン（フリーミアム）。
+* [Cue](https://cue.8starlabs.com) - Apple Terminal と VS Code の統合ターミナルで、Zsh にコマンド、オプション、Git ブランチ、ファイルの IDE 風補完を追加します。 [![Open-Source Software][OSS Icon]](https://github.com/8starlabs/cue) ![Freeware][Freeware Icon]
 * [electerm](https://electerm.github.io/electerm/) - ターミナル、SSH、SFTPクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/electerm/electerm) ![Freeware][Freeware Icon]
 * [Farol](https://github.com/snowztech/farol) - libghostty 上に構築されたターミナル。各コーディングエージェントが作業中、待機中、完了のどれかを表示します。 [![Open-Source Software][OSS Icon]](https://github.com/snowztech/farol) ![Freeware][Freeware Icon]
 * [Ghostty](https://github.com/ghostty-org/ghostty) - 高速なGPUアクセラレーション対応ターミナルエミュレーター。 [![Open-Source Software][OSS Icon]](https://github.com/ghostty-org/ghostty) ![Freeware][Freeware Icon]
@@ -819,6 +820,7 @@ Awesome Mac
 * [Kyapchar](https://github.com/vishaltelangre/Kyapchar) - Mac用のシンプルな画面およびマイク音声レコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/vishaltelangre/Kyapchar) ![Freeware][Freeware Icon]
 * [Licecap](http://www.cockos.com/licecap/) - 直接GIFを書き出せる画面録画ツール。 [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon]
 * [Monosnap](https://monosnap.com/) - スクリーンショットを撮り、書き込み、動画を撮影してファイルを共有。高速、簡単で無料。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/monosnap/id540348655?platform=mac)
+* [Native Screen](https://nativescreen.app/) - マルチトラックタイムライン、自動ズーム、オンデバイス字幕を備えたオープンソースの画面録画・編集ツール。 [![Open-Source Software][OSS Icon]](https://github.com/maitrungduc1410/NativeScreen) ![Freeware][Freeware Icon]
 * [OBS Studio](https://github.com/obsproject/obs-studio) - ライブ配信と画面録画のための無料でオープンソースのソフトウェア。 [![Open-Source Software][OSS Icon]](https://github.com/obsproject/obs-studio)
 * [OpenScreen](https://github.com/getopenscreen/openscreen) - プロダクトデモや操作説明動画を作れるオープンソースツール。 [![Open-Source Software][OSS Icon]](https://github.com/getopenscreen/openscreen) ![Freeware][Freeware Icon]
 * [Quick Recorder](https://lihaoyun6.github.io/quickrecorder/) - macOS用の軽量で高パフォーマンスのスクリーンレコーダー。 [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/QuickRecorder) ![Freeware][Freeware Icon]
@@ -1409,6 +1411,7 @@ Awesome Mac
 * [cctop](https://cctop.app) - AI コーディングセッション(Claude Code、Codex、opencode、pi)の状態をメニューバーに表示し、対応するターミナルペインやエディタウィンドウへジャンプできるオープンソースツール。 [![Open-Source Software][OSS Icon]](https://github.com/st0012/cctop) ![Freeware][Freeware Icon]
 * [Çentik](https://github.com/YusufEmreYazici/Centik) - MacBook のノッチを、音楽、システム状態、自分の Claude・Gemini・Ollama で使える AI チャット、クリップボード履歴、会議通知をまとめたライブアイランドに変えるアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/YusufEmreYazici/Centik) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [ChargeMonitor](https://github.com/CrashSystemZ/ChargeMonitor) - リアルタイムの充電状態と電力消費を表示するメニューバー型バッテリーモニター。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/CrashSystemZ/ChargeMonitor)
+* [Claude Accounts](https://github.com/jomonkj/claude-accounts) - Claude デスクトップアプリのアカウントをワンクリックで切り替えるツール。セッションは失われません。 [![Open-Source Software][OSS Icon]](https://github.com/jomonkj/claude-accounts) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CodexIsland](https://github.com/ericjypark/codex-island) - MacBook のノッチを Dynamic Island 風の Live Activity に変え、Claude Code と Codex CLI のレート制限と利用額をローカルだけで表示します。テレメトリは一切なし。 [![Open-Source Software][OSS Icon]](https://github.com/ericjypark/codex-island) ![Freeware][Freeware Icon]
 * [Konverter](https://github.com/davidpraznik/Konverter) - ドラッグしたファイルをホイールにドロップして操作する、メニューバーのファイル変換・画像圧縮ツール。 [![Open-Source Software][OSS Icon]](https://github.com/davidpraznik/Konverter) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Kumquat](https://github.com/TheAlexRay/kumquat) - メニューバーのファイル変換ツール。ファイルをドラッグ中に Shift を押してホイールにドロップするだけで、画像・音声・動画・文書の変換、圧縮、OCR、トリミング、注釈付けができます。 [![Open-Source Software][OSS Icon]](https://github.com/TheAlexRay/kumquat) ![Freeware][Freeware Icon]
@@ -1806,6 +1809,7 @@ Awesome Mac
 * [Crisp](https://didriksg.github.io/Crisp/) - メニューバーから外部ディスプレイを管理：HiDPIスケーリング、DDC輝度、色、プリセット。 [![Open-Source Software][OSS Icon]](https://github.com/didriksg/Crisp) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [DisplayBuddy](https://displaybuddy.app) - 外部ディスプレイの輝度、コントラスト、入力ソースを調整するツール。
 * [Dimly](https://feuerbacher.me/projects/dimly) - 1つのメニューバーアプリから複数モニターの明るさをまとめて調整するツール。 [![Open-Source Software][OSS Icon]](https://github.com/punshnut/macos-dimly) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Dimmerly](https://dimmerly.olujic.in.rs/) - ディスプレイごとに輝度、色温度、コントラストを調整でき、プリセット、スケジュール、DDC/CI によるモニター制御に対応したオープンソースのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/olujicz/Dimmerly) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [f.lux](https://justgetflux.com/) - コンピューターのディスプレイの色を時間帯に合わせて自動調整。 ![Freeware][Freeware Icon]
 * [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - メニューバーやショートカットからグレースケール表示を切り替えるツール。 [![Open-Source Software][OSS Icon]](https://github.com/rkbhochalya/grayscale-mode) ![Freeware][Freeware Icon]
 * [Hyperduck](https://sindresorhus.com/hyperduck) - iOSおよびvisionOSデバイスからリンクを受信。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168?platform=mac)

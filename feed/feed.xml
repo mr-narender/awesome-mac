@@ -5,9 +5,68 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 09 Nov 2026 09:48:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 00:52:38 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Dimmerly</title>
+      <link>https://dimmerly.olujic.in.rs/</link>
+      <guid isPermaLink="false">545fe9b524656596537654af32c32a0fb8afd9a9:Dimmerly</guid>
+      <pubDate>Tue, 10 Nov 2026 00:52:38 GMT</pubDate>
+      <category>Utilities / Quality of Life Improvements</category>
+      <description>Category: Utilities / Quality of Life Improvements
+App: Dimmerly
+Description: Open-source menu bar app for per-display brightness, warmth, and contrast, with presets, schedules, and DDC/CI monitor control.
+Website: https://dimmerly.olujic.in.rs/
+Open Source: https://github.com/olujicz/Dimmerly
+Commit: Add Dimmerly to Quality of Life Improvements (#4430)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/545fe9b524656596537654af32c32a0fb8afd9a9</description>
+      <content:encoded><![CDATA[Category: Utilities / Quality of Life Improvements<br/>App: Dimmerly<br/>Description: Open-source menu bar app for per-display brightness, warmth, and contrast, with presets, schedules, and DDC/CI monitor control.<br/>Website: https://dimmerly.olujic.in.rs/<br/>Open Source: https://github.com/olujicz/Dimmerly<br/>Commit: Add Dimmerly to Quality of Life Improvements (#4430)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/545fe9b524656596537654af32c32a0fb8afd9a9]]></content:encoded>
+    </item>
+    <item>
+      <title>Cue</title>
+      <link>https://cue.8starlabs.com</link>
+      <guid isPermaLink="false">bee77c2bc476dcdef4b0b18aed4f3e6e0c2dcbaf:Cue</guid>
+      <pubDate>Mon, 09 Nov 2026 14:55:26 GMT</pubDate>
+      <category>Terminal Apps</category>
+      <description>Category: Terminal Apps
+App: Cue
+Description: IDE-style autocomplete for commands, options, Git branches, and files in zsh on Apple Terminal and VS Code’s integrated terminal.
+Website: https://cue.8starlabs.com
+Open Source: https://github.com/8starlabs/cue
+Commit: Add Cue to terminal app lists (#4419)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bee77c2bc476dcdef4b0b18aed4f3e6e0c2dcbaf</description>
+      <content:encoded><![CDATA[Category: Terminal Apps<br/>App: Cue<br/>Description: IDE-style autocomplete for commands, options, Git branches, and files in zsh on Apple Terminal and VS Code’s integrated terminal.<br/>Website: https://cue.8starlabs.com<br/>Open Source: https://github.com/8starlabs/cue<br/>Commit: Add Cue to terminal app lists (#4419)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bee77c2bc476dcdef4b0b18aed4f3e6e0c2dcbaf]]></content:encoded>
+    </item>
+    <item>
+      <title>Native Screen</title>
+      <link>https://nativescreen.app/</link>
+      <guid isPermaLink="false">bbb5371caed67dc248fc6d54760484c239144193:Native Screen</guid>
+      <pubDate>Mon, 09 Nov 2026 14:20:21 GMT</pubDate>
+      <category>Design and Product / Screen Recording</category>
+      <description>Category: Design and Product / Screen Recording
+App: Native Screen
+Description: Open-source screen recorder and editor with a multi-track timeline, auto-zoom, and on-device captions.
+Website: https://nativescreen.app/
+Open Source: https://github.com/maitrungduc1410/NativeScreen
+Commit: Add Native Screen to Screen Recording (#4414)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bbb5371caed67dc248fc6d54760484c239144193</description>
+      <content:encoded><![CDATA[Category: Design and Product / Screen Recording<br/>App: Native Screen<br/>Description: Open-source screen recorder and editor with a multi-track timeline, auto-zoom, and on-device captions.<br/>Website: https://nativescreen.app/<br/>Open Source: https://github.com/maitrungduc1410/NativeScreen<br/>Commit: Add Native Screen to Screen Recording (#4414)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bbb5371caed67dc248fc6d54760484c239144193]]></content:encoded>
+    </item>
+    <item>
+      <title>Claude Accounts</title>
+      <link>https://github.com/jomonkj/claude-accounts</link>
+      <guid isPermaLink="false">7df21193fda93955002b71b410b6d426d1f50a10:Claude Accounts</guid>
+      <pubDate>Mon, 09 Nov 2026 14:14:17 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: Claude Accounts
+Description: Switches the Claude desktop app between your accounts with one click, without losing sessions.
+Open Source: https://github.com/jomonkj/claude-accounts
+Commit: Add Claude Accounts to Menu Bar Tools (#4415)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7df21193fda93955002b71b410b6d426d1f50a10</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Claude Accounts<br/>Description: Switches the Claude desktop app between your accounts with one click, without losing sessions.<br/>Open Source: https://github.com/jomonkj/claude-accounts<br/>Commit: Add Claude Accounts to Menu Bar Tools (#4415)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7df21193fda93955002b71b410b6d426d1f50a10]]></content:encoded>
+    </item>
     <item>
       <title>FixStat</title>
       <link>https://github.com/BurakFixLab/fixstat</link>
@@ -678,65 +737,6 @@ Open Source: https://github.com/pballada/shinyMac
 Commit: Add ShinyMac to Cleanup and Uninstall (#4145)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/20aba9a86765e6efc9f8a2428eaef6aea15064ec</description>
       <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: ShinyMac<br/>Description: Open-source SwiftUI Mac cleaner with one-scan Smart Care, an app uninstaller that finds leftovers, Xcode cleanup, a Space Lens disk map and hidden settings.<br/>Open Source: https://github.com/pballada/shinyMac<br/>Commit: Add ShinyMac to Cleanup and Uninstall (#4145)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/20aba9a86765e6efc9f8a2428eaef6aea15064ec]]></content:encoded>
-    </item>
-    <item>
-      <title>jdsp4mac</title>
-      <link>https://github.com/Tekkiech/jdsp4mac</link>
-      <guid isPermaLink="false">79728247e60c2d5534316d2118ac94e247ff5101:jdsp4mac</guid>
-      <pubDate>Mon, 02 Nov 2026 02:07:05 GMT</pubDate>
-      <category>Audio and Video Tools / Audio Record and Process</category>
-      <description>Category: Audio and Video Tools / Audio Record and Process
-App: jdsp4mac
-Description: Menu bar app that runs JamesDSP audio effects, including EQ, AutoEQ, convolver, crossfeed and ViPER-DDC, on all system audio.
-Open Source: https://github.com/Tekkiech/jdsp4mac
-Commit: Add jdsp4mac to Audio Record and Process (#4146)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/79728247e60c2d5534316d2118ac94e247ff5101</description>
-      <content:encoded><![CDATA[Category: Audio and Video Tools / Audio Record and Process<br/>App: jdsp4mac<br/>Description: Menu bar app that runs JamesDSP audio effects, including EQ, AutoEQ, convolver, crossfeed and ViPER-DDC, on all system audio.<br/>Open Source: https://github.com/Tekkiech/jdsp4mac<br/>Commit: Add jdsp4mac to Audio Record and Process (#4146)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/79728247e60c2d5534316d2118ac94e247ff5101]]></content:encoded>
-    </item>
-    <item>
-      <title>Shutterbar</title>
-      <link>https://github.com/mucahitimre/Shutterbar</link>
-      <guid isPermaLink="false">c5a3c7de9ec2fc9f9227f6cadcec9949fb0e989c:Shutterbar</guid>
-      <pubDate>Mon, 02 Nov 2026 01:59:44 GMT</pubDate>
-      <category>Design and Product / Screenshot Tools</category>
-      <description>Category: Design and Product / Screenshot Tools
-App: Shutterbar
-Description: ShareX-style screenshots with ⌘C-to-clipboard, after-capture tasks, last-region recapture and scrolling capture.
-Open Source: https://github.com/mucahitimre/Shutterbar
-Commit: Add Shutterbar to Screenshot Tools (#4148)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5a3c7de9ec2fc9f9227f6cadcec9949fb0e989c</description>
-      <content:encoded><![CDATA[Category: Design and Product / Screenshot Tools<br/>App: Shutterbar<br/>Description: ShareX-style screenshots with ⌘C-to-clipboard, after-capture tasks, last-region recapture and scrolling capture.<br/>Open Source: https://github.com/mucahitimre/Shutterbar<br/>Commit: Add Shutterbar to Screenshot Tools (#4148)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c5a3c7de9ec2fc9f9227f6cadcec9949fb0e989c]]></content:encoded>
-    </item>
-    <item>
-      <title>NTFSTool</title>
-      <link>https://ntfstool.com</link>
-      <guid isPermaLink="false">29bff2dd2cabbf00cf26f06948f14f1254e21fa5:NTFSTool</guid>
-      <pubDate>Sun, 01 Nov 2026 11:11:52 GMT</pubDate>
-      <category>Utilities / System Related Tools</category>
-      <description>Category: Utilities / System Related Tools
-App: NTFSTool
-Description: Free, open-source NTFS read and write for Mac, with no kernel extension.
-Website: https://ntfstool.com
-Open Source: https://github.com/ntfstool/ntfstool
-App Store: https://apps.apple.com/app/id1510209857
-Commit: Add NTFSTool to System Related Tools (#4134)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29bff2dd2cabbf00cf26f06948f14f1254e21fa5</description>
-      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: NTFSTool<br/>Description: Free, open-source NTFS read and write for Mac, with no kernel extension.<br/>Website: https://ntfstool.com<br/>Open Source: https://github.com/ntfstool/ntfstool<br/>App Store: https://apps.apple.com/app/id1510209857<br/>Commit: Add NTFSTool to System Related Tools (#4134)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29bff2dd2cabbf00cf26f06948f14f1254e21fa5]]></content:encoded>
-    </item>
-    <item>
-      <title>Netty</title>
-      <link>https://alvaldes.github.io/netty/</link>
-      <guid isPermaLink="false">ed8e584177040dc33560a80d158beb900d500856:Netty</guid>
-      <pubDate>Sun, 01 Nov 2026 03:26:08 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: Netty
-Description: Open-source menu bar dot that shows whether the internet really answers, with latency, jitter, packet loss and speed tests.
-Website: https://alvaldes.github.io/netty/
-Open Source: https://github.com/alvaldes/netty
-Commit: Add Netty to Menu Bar Tools (#4125)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed8e584177040dc33560a80d158beb900d500856</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Netty<br/>Description: Open-source menu bar dot that shows whether the internet really answers, with latency, jitter, packet loss and speed tests.<br/>Website: https://alvaldes.github.io/netty/<br/>Open Source: https://github.com/alvaldes/netty<br/>Commit: Add Netty to Menu Bar Tools (#4125)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ed8e584177040dc33560a80d158beb900d500856]]></content:encoded>
     </item>
   </channel>
 </rss>
