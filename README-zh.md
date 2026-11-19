@@ -258,6 +258,7 @@ Awesome Mac
 ### 开发者实用工具
 
 * [AGASTHY](https://github.com/HMAKT99/Agasthy) - 开源应用，将代码仓库、运行时、软件包和 AI 编程代理整合到一张知识图谱中，并提供 Token 用量统计、影响分析和安全的磁盘清理。 [![Open-Source Software][OSS Icon]](https://github.com/HMAKT99/Agasthy) ![Freeware][Freeware Icon]
+* [Agent Monitor](https://github.com/paveler/agent-monitor) - 开源桌面小组件和菜单栏应用，显示哪些 Claude Code 和 Codex 会话正在等你处理，点击即可打开对应会话，并跟踪用量限额。 [![Open-Source Software][OSS Icon]](https://github.com/paveler/agent-monitor) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [AXe](https://github.com/cameroncooke/AXe) - 一个通过辅助功能 API 和 HID 自动化与 iOS 模拟器交互的命令行工具。 [![Open-Source Software][OSS Icon]](https://github.com/cameroncooke/AXe) ![Freeware][Freeware Icon]
 * [BetterRename](http://www.publicspace.net/BetterRename/) - 一款强大的批量重命名工具，可以通过搜索功能改名。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/better-rename-11/id1501308038?platform=mac)
 * [Beyond Compare](http://www.scootersoftware.com/download.php) - 对比两个文件夹或者文件，并将差异以颜色标示。
@@ -475,6 +476,7 @@ Awesome Mac
 * [Warp](https://www.warp.dev) - Warp is a blazingly fast, rust-based terminal reimagined from the ground up to work like a modern app. [![Open-Source Software][OSS Icon]](https://www.github.com/warpdotdev/warp)
 * [Wave](https://github.com/wavetermdev/waveterm) - 集成文件预览、网页浏览和 AI 工具的开源终端。 [![Open-Source Software][OSS Icon]](https://github.com/wavetermdev/waveterm) ![Freeware][Freeware Icon]
 * [WezTerm](https://wezfurlong.org/wezterm/) - A GPU-accelerated cross-platform terminal emulator and multiplexer implemented in Rust. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/wez/wezterm)
+* [Xylem](https://xylem.t1nkl.dev) - 为 Claude Code 打造的原生终端，标签页可恢复各自的会话，跟踪上下文和费用，并提供项目 skills、MCP 与 git 面板。 [![Open-Source Software][OSS Icon]](https://github.com/t1nkl/xylem) ![Freeware][Freeware Icon]
 * [zest](https://github.com/rostik32/zest) - 在 Terminal.app、iTerm2、Ghostty、VS Code 和 Cursor 中为 Zsh 提供带说明的自动补全弹窗，支持约 1500 条命令。 [![Open-Source Software][OSS Icon]](https://github.com/rostik32/zest) ![Freeware][Freeware Icon]
 
 ## 设计和产品
@@ -639,6 +641,7 @@ Awesome Mac
 * [LumaView](https://ixiehao.github.io/LumaView/en/) - 极简原生看图工具，支持文件夹浏览、EXIF 信息查看和多页 PDF 阅读。 [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/LumaView) ![Freeware][Freeware Icon]
 * [Mottie](https://recouse.me/apps/mottie/) - 原生 Lottie 动画播放器，支持 dotLottie 文件的快速预览扩展。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6743446238?pt=120474400&ct=awesome-mac&mt=8)
 * [Pixpresso](https://getapps.cafe/app/pixpresso) - 图片查看与编辑工具，支持裁剪、缩放、标注以及 PNG、JPG、WebP、HEIC 格式转换。![Freeware][Freeware Icon]
+* [Pixtamer](https://pixtamer.pages.dev) - 批量转换、压缩、缩放和重命名图片，输出适合网页的 JPEG、PNG、WebP 和 AVIF，支持响应式宽度和预设，不会上传任何文件。 [![Open-Source Software][OSS Icon]](https://github.com/heysidhant/pixtamer) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/pixtamer/id6831520622?platform=mac) ![Native App][Native Icon]
 * [Preset Brewery](https://www.presetbrewery.com) - 将Lightroom预设转换为Adobe Camera Raw的工具。
 * [PicGo](https://github.com/Molunerfinn/PicGo) - 支持常用 cdn 的图床工具。[![Open-Source Software][OSS Icon]](https://github.com/Molunerfinn/PicGo)
 * [Lap](https://github.com/julyx10/lap) - 一款用于离线浏览与整理个人照片媒体库的本地照片管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/julyx10/lap) ![Freeware][Freeware Icon]
@@ -666,6 +669,7 @@ Awesome Mac
 * [Cocoa-Way](https://github.com/J-x-Z/cocoa-way) - 无需虚拟机即可运行 Linux 图形应用的 Wayland 合成器。 [![Open-Source Software][OSS Icon]](https://github.com/J-x-Z/cocoa-way) ![Freeware][Freeware Icon]
 * [ContainerDesk](https://github.com/MacHatter1/ContainerDesk) - Apple container 运行时的原生 SwiftUI 工作区，支持实时资源监控和集成终端。 [![Open-Source Software][OSS Icon]](https://github.com/MacHatter1/ContainerDesk) ![Freeware][Freeware Icon]
 * [GhostVM](https://github.com/groundwater/GhostVM) - 用于创建和管理隔离式 macOS 虚拟机工作区的虚拟化工具。 ![Freeware][Freeware Icon]
+* [Inquiline](https://github.com/inquiline-app/inquiline) - 在 Apple Silicon 上运行真正的 Android 15，把每个 Android 应用变成独立的 Mac 应用，并支持在任意应用上使用 Gemini、桌面 Android 小组件和按应用屏蔽广告。 [![Open-Source Software][OSS Icon]](https://github.com/inquiline-app/inquiline) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [lima-vm](https://github.com/lima-vm/lima) - 专注于运行容器的 Linux 虚拟机。[![Open-Source Software][OSS Icon]](https://github.com/lima-vm/lima)
 * [Mac Android Subsystem](https://harkhowalia-1.github.io/MacSubsystemForAndroid/) - 在 Apple Silicon 上运行 Android 应用，每个应用拥有独立的 Mac 窗口和程序坞图标。 [![Open-Source Software][OSS Icon]](https://github.com/harkhowalia-1/MacSubsystemForAndroid) ![Freeware][Freeware Icon]
 * [Mocker](https://github.com/us/mocker) - 基于 Apple Containerization framework 的容器管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/us/mocker) ![Freeware][Freeware Icon]
@@ -736,6 +740,7 @@ Awesome Mac
 * [Murmury](https://github.com/GianlucaBave/murmury) - 在视频通话中根据你自己的文档回答问题的浮动窗口，不会被屏幕共享捕获，语音识别在本机完成。 [![Open-Source Software][OSS Icon]](https://github.com/GianlucaBave/murmury) ![Freeware][Freeware Icon]
 * [Octuo](https://www.tutuo.ai/en/octuo/) - 面向 AI、工具与专业服务的个人助理，协调已连接并授权的工具和账号，围绕你的目标跟踪进度并汇总结果。
 * [Off Grid AI Desktop](https://getoffgridai.co/desktop) - 私密的本地优先 AI 工具，支持本地大模型对话、图像生成、语音听写和记忆搜索，全部在端侧运行。 [![Open-Source Software][OSS Icon]](https://github.com/off-grid-ai/off-grid-ai-desktop) ![Freeware][Freeware Icon]
+* [OmegaStar](https://github.com/itsfutsy/OmegaStar) - 把你已经在用的 Claude Code，连同它的浏览器、模型和登录，变成一支 AI 员工团队，每个员工有明确的目标，用对话教它，每一课都存成 skill。 [![Open-Source Software][OSS Icon]](https://github.com/itsfutsy/OmegaStar) ![Freeware][Freeware Icon]
 * [Orchard](https://orchard.5km.tech/) - 用于连接 AI 助手与 Apple 应用的 MCP 服务。
 * [Papilot](https://papilot.ai) - 开源桌面应用，支持直接在排好版的 PDF 上画框批注，由 Claude Code、Codex、Cursor 等编程智能体在独立 Git 工作树中改稿，并以渲染后的排版级前后对比审阅合并。 [![Open-Source Software][OSS Icon]](https://github.com/PapilotAI/papilot) ![Freeware][Freeware Icon]
 * [Prevail](https://prevail.sh) - 本地优先的 AI「人生操作系统」：按生活领域运行任意模型，数据保存在本机的纯 Markdown 库中。已签名并公证。 [![Open-Source Software][OSS Icon]](https://github.com/fru-dev3/prevail-desktop) ![Freeware][Freeware Icon]
@@ -841,7 +846,7 @@ Awesome Mac
 * [MP4Flow](https://ixiehao.github.io/MP4Flow/en/) - 原生 FFmpeg 图形工具，支持批量转 MP4、裁剪时长与画面、旋转和合并。 [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/MP4Flow) ![Freeware][Freeware Icon]
 * [Roughcut](https://github.com/Bouliw/fcpxml-roughcut) - 将一整个文件夹的口播素材自动粗剪成 Final Cut Pro 项目，在本机用 Whisper 转写，并由本地或云端 AI 模型选择剪辑点。 [![Open-Source Software][OSS Icon]](https://github.com/Bouliw/fcpxml-roughcut) ![Freeware][Freeware Icon]
 * [ShotMap](https://ixiehao.github.io/ShotMap/) - 将视频拼成分镜图，支持智能选帧、手动微调和本地 PNG/JPG 导出。 [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/ShotMap) ![Freeware][Freeware Icon]
-* [VoiceInk](https://github.com/Beingpax/VoiceInk) - 实时语音转文字工具。 [![Open-Source Software][OSS Icon]](https://github.com/Beingpax/VoiceInk) ![Freeware][Freeware Icon]
+* [VoiceInk](https://github.com/Beingpax/VoiceInk) - 实时语音转文字工具。 [![Open-Source Software][OSS Icon]](https://github.com/Beingpax/VoiceInk)
 * [Voltip](https://voltip.firlab.app/zh/) - 开源的按住说话语音输入工具，支持本地或云端识别和 AI 润色，也可以把配对的 Android 手机当作麦克风。 [![Open-Source Software][OSS Icon]](https://github.com/sunerpy/voltip) ![Freeware][Freeware Icon]
 * [VoxFlow](https://github.com/xingbofeng/VoxFlow) - 开源语音输入工作台，支持本地与云端 ASR、OCR、历史记录和编码助手流程。 [![Open-Source Software][OSS Icon]](https://github.com/xingbofeng/VoxFlow) ![Freeware][Freeware Icon]
 * [Voxt](https://github.com/hehehai/voxt) - 按住说话、松开即粘贴的语音输入与翻译工具，支持按应用和 URL 设置不同的 AI 转写规则。 [![Open-Source Software][OSS Icon]](https://github.com/hehehai/voxt) ![Freeware][Freeware Icon]
@@ -968,6 +973,7 @@ Awesome Mac
 * [Local Transcriber](https://transcriber.teconomix.net) - 在菜单栏中录制通话和会议，并使用 Whisper 在设备上完成转写，支持说话人识别、通话检测以及在任意应用中听写。 [![Open-Source Software][OSS Icon]](https://github.com/teconomix/local-transcriber) ![Freeware][Freeware Icon]
 * [Logic Pro X](https://www.apple.com.cn/logic-pro/) - 用于音乐创作和音频制作的专业数字音频工作站。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/logic-pro-x/id634148309?l=zh&platform=mac)
 * [Memozia](https://github.com/oceanix-pr/Memozia) - 开源会议录音与纪要工具，支持本地转写、说话人标注、总结和可编辑待办。 [![Open-Source Software][OSS Icon]](https://github.com/oceanix-pr/Memozia) ![Freeware][Freeware Icon]
+* [mm2t](https://mm2t.yuzen.dev/) - 会议录音工具，将数据保存在本地并在设备上识别说话人，使用你选择的服务生成转写和摘要。 [![Open-Source Software][OSS Icon]](https://github.com/yuzen9622/mm2t) ![Freeware][Freeware Icon]
 * [PitchTap](https://github.com/gkudva96/pitchtap) - 开源菜单栏应用，可实时升降任意应用音频的音调，且不改变播放速度。 [![Open-Source Software][OSS Icon]](https://github.com/gkudva96/pitchtap) ![Freeware][Freeware Icon]
 * [Segue](https://segue.npearce.me/) - 面向直播电台和播客的广播音频播出工具，支持交叉淡入淡出、裁剪、倒计时提示和暂停垫乐。 [![Open-Source Software][OSS Icon]](https://github.com/pearcenuk/Segue) ![Freeware][Freeware Icon]
 * [Shiyin](https://shiyin.weibuilds.com) - 开源的会议录音工具，在设备上完成转写并区分说话人，再用你自己的 Claude 或 ChatGPT 订阅生成带时间戳的会议纪要。 [![Open-Source Software][OSS Icon]](https://github.com/juinwei7/Shiyin) ![Freeware][Freeware Icon]
@@ -1655,11 +1661,13 @@ Awesome Mac
 * [ProBoard](https://apps.apple.com/app/id6748314346?platform=mac) - 通过一个面板来帮助你高效管理所有项目信息。[![App Store][app-store Icon]](https://apps.apple.com/app/id6748314346?platform=mac)
 * [UMST](https://nicoleyangcoding.github.io/UMST-UltimateMacSchedulingTool/) - 桌面日历小组件，汇总 Google、iCloud、Outlook、Apple 提醒事项、Canvas 等学习平台的截止日期以及 Todoist、Asana、Trello，并支持菜单栏快速添加。 [![Open-Source Software][OSS Icon]](https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Ferrocast](https://ferrocast.app) - 用 Rust 编写的快速键盘启动器，内置剪贴板历史、文本片段、窗口管理和 275 种本地文件转换。 [![Open-Source Software][OSS Icon]](https://github.com/drumst0ck/ferrocast) ![Freeware][Freeware Icon]
+* [Hourmint](https://hourmint.abdur.tech) - 面向自由职业者的菜单栏计时工具，提供工作日志、工时表和 PDF 发票。 [![Open-Source Software][OSS Icon]](https://github.com/abdurrahmanriyad/hourmint) ![Freeware][Freeware Icon]
 
 ### 清理卸载
 
 * [AppCleaner](http://freemacsoft.net/appcleaner/) - 一个小应用程序，让你彻底卸载不需要的应用程序。![Freeware][Freeware Icon]
 * [App Uninstaller](https://github.com/kamjin3086/AppUninstaller) - 轻量级应用卸载工具，支持拖放操作。使用 Swift 和 SwiftUI 构建。[![Open-Source Software][OSS Icon]](https://github.com/kamjin3086/AppUninstaller) ![Freeware][Freeware Icon]
+* [App Vanish](https://appvanish.pages.dev) - 把应用拖到垃圾桶图标上，即可删除应用及其残留文件。不确定的文件默认不勾选，所有内容都会移到废纸篓。App Store 版本可查找已删除应用留下的文件。 [![Open-Source Software][OSS Icon]](https://github.com/heysidhant/appvanish) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/app-vanish/id6831544178?platform=mac) ![Native App][Native Icon]
 * [Boost](https://github.com/Kernel-Hunter/boost) - 无需关闭应用即可释放内存，可冻结应用并原样恢复，还能找出可以安全清理的磁盘空间。 [![Open-Source Software][OSS Icon]](https://github.com/Kernel-Hunter/boost) ![Freeware][Freeware Icon]
 * [Burrow](https://github.com/khan-umirzakoff/Mole-GUI) - Mole 清理工具的免费开源原生应用：清理缓存、卸载应用及已删除应用的残留、查看磁盘占用并监控系统状态，所有操作都经过 Mole 的安全检查。 [![Open-Source Software][OSS Icon]](https://github.com/khan-umirzakoff/Mole-GUI) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Cleaner](https://ciromaciel.click/tools/cleaner) - 开源清理工具，删除前列出每一项，清理规则都写在一个公开文件中，移除的内容在隔离区保留 7 天，可一键恢复。 [![Open-Source Software][OSS Icon]](https://github.com/ciro-maciel/cleaner) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1708,6 +1716,7 @@ Awesome Mac
 * [AirStats](https://airstats.app) - 轻量级菜单栏系统监视器，可查看 CPU、GPU、内存、网络、磁盘、电池和温度，并提供桌面小组件。 [![Open-Source Software][OSS Icon]](https://github.com/byrencheema/airstats) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - 自动暂停音乐、设置各个应用程序的音量并录制系统音频。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Battery Hog](https://github.com/luke-fairbanks/BatteryHog) - 显示是什么在消耗电池：实时瓦数、各应用能耗、充电历史与耗电分析，100% 本地运行。 [![Open-Source Software][OSS Icon]](https://github.com/luke-fairbanks/BatteryHog) ![Freeware][Freeware Icon]
+* [Better Wacom](https://github.com/myyccccc/Better-Wacom) - 为 Wacom Intuos Pro M（2025，PTK-670）设置按 App 切换的快捷键、长按动作和多模式波轮，与官方驱动一起运行。 [![Open-Source Software][OSS Icon]](https://github.com/myyccccc/Better-Wacom) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [BetterMouse](https://better-mouse.com) - 为第三方鼠标提供滚动、加速度、按键和手势自定义。
 * [blueutil](https://github.com/toy/blueutil) - 命令行蓝牙控制工具，可以配合[SleepWatcher](https://www.bernhard-baehr.de/)实现MacBook合盖瞬间关闭蓝牙，开盖自动打开蓝牙。这在使用蓝牙耳机时尤其有用。[![Open-Source Software][OSS Icon]](https://github.com/toy/blueutil) ![Freeware][Freeware Icon]
 * [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - 显示Mac中有关电池的实时信息。
@@ -1769,6 +1778,7 @@ Awesome Mac
 * [Dockit](https://dockit-docs.pages.dev/) - 一款可以将任何窗口停靠到屏幕边缘的应用程序。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/XiCheng148/Dockit)
 * [DockLens](https://github.com/firstfu/DockLens-app) - 鼠标停在 Dock 图标上，即可预览该应用所有窗口的实时缩略图，并可切换、关闭或最小化。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/firstfu/DockLens-app)
 * [Divvy](http://mizage.com/divvy/) - 凭借其惊人的 Divvy Grid 系统，窗口管理处于最佳状态。
+* [Fenestra](https://github.com/PRMotorWorks/Fenestra) - Windows 11 风格的 macOS 桌面，提供任务栏、开始菜单、贴靠布局、Alt+Tab 和剪贴板历史。 [![Open-Source Software][OSS Icon]](https://github.com/PRMotorWorks/Fenestra) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Flickbar](https://flickbar.github.io/) - 开源窗口管理工具，通过在窗口标题栏上使用触控板手势来贴靠、调整和移动窗口。 [![Open-Source Software][OSS Icon]](https://github.com/flickbar/flickbar) ![Freeware][Freeware Icon]
 * [IntelliDock](https://mightymac.app/intellidock/) - 自动隐藏 Dock。
 * [JankyBorders](https://github.com/FelixKratz/JankyBorders) - 一个轻量级的 macOS 窗口边框系统。 [![Open-Source Software][OSS Icon]](https://github.com/FelixKratz/JankyBorders) ![Freeware][Freeware Icon]

@@ -5,9 +5,85 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 18 Nov 2026 11:03:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 05:47:10 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Xylem</title>
+      <link>https://xylem.t1nkl.dev</link>
+      <guid isPermaLink="false">6ba0b4444fa5f26eefed1438cdd268eb9645a0d5:Xylem</guid>
+      <pubDate>Thu, 19 Nov 2026 05:47:10 GMT</pubDate>
+      <category>Aplicativos de Terminal</category>
+      <description>Category: Aplicativos de Terminal
+App: Xylem
+Description: Terminal nativo para o Claude Code com abas que retomam suas sessões, acompanhamento de contexto e custo e um painel com as skills, MCP e git do projeto.
+Website: https://xylem.t1nkl.dev
+Open Source: https://github.com/t1nkl/xylem
+Commit: Add Xylem to Terminal Apps (#4762)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6ba0b4444fa5f26eefed1438cdd268eb9645a0d5</description>
+      <content:encoded><![CDATA[Category: Aplicativos de Terminal<br/>App: Xylem<br/>Description: Terminal nativo para o Claude Code com abas que retomam suas sessões, acompanhamento de contexto e custo e um painel com as skills, MCP e git do projeto.<br/>Website: https://xylem.t1nkl.dev<br/>Open Source: https://github.com/t1nkl/xylem<br/>Commit: Add Xylem to Terminal Apps (#4762)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6ba0b4444fa5f26eefed1438cdd268eb9645a0d5]]></content:encoded>
+    </item>
+    <item>
+      <title>Better Wacom</title>
+      <link>https://github.com/myyccccc/Better-Wacom</link>
+      <guid isPermaLink="false">c18f708ca7a8764cfcce56eac9bbad7eebbc8f11:Better Wacom</guid>
+      <pubDate>Thu, 19 Nov 2026 05:40:25 GMT</pubDate>
+      <category>Utilitários / Produtividade</category>
+      <description>Category: Utilitários / Produtividade
+App: Better Wacom
+Description: ExpressKeys por app, ações de toque longo e dials com vários modos para a Wacom Intuos Pro M (2025, PTK-670), funcionando junto com o driver oficial.
+Open Source: https://github.com/myyccccc/Better-Wacom
+Commit: Add Better Wacom to Productivity (#4761)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c18f708ca7a8764cfcce56eac9bbad7eebbc8f11</description>
+      <content:encoded><![CDATA[Category: Utilitários / Produtividade<br/>App: Better Wacom<br/>Description: ExpressKeys por app, ações de toque longo e dials com vários modos para a Wacom Intuos Pro M (2025, PTK-670), funcionando junto com o driver oficial.<br/>Open Source: https://github.com/myyccccc/Better-Wacom<br/>Commit: Add Better Wacom to Productivity (#4761)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c18f708ca7a8764cfcce56eac9bbad7eebbc8f11]]></content:encoded>
+    </item>
+    <item>
+      <title>Pixtamer</title>
+      <link>https://pixtamer.pages.dev</link>
+      <guid isPermaLink="false">57c29ef3385c1fef2379d3170d5baeec36ed6fef:Pixtamer</guid>
+      <pubDate>Thu, 19 Nov 2026 05:20:02 GMT</pubDate>
+      <category>Design e Produto / Outras Ferramentas</category>
+      <description>Category: Design e Produto / Outras Ferramentas
+App: Pixtamer
+Description: Converta, comprima, redimensione e renomeie imagens em lote para JPEG, PNG, WebP e AVIF prontos para a web, com larguras responsivas e predefinições. Nada é enviado para a internet.
+Website: https://pixtamer.pages.dev
+Open Source: https://github.com/heysidhant/pixtamer
+App Store: https://apps.apple.com/app/pixtamer/id6831520622?platform=mac
+Commit: Add Pixtamer to image tools (#3969)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/57c29ef3385c1fef2379d3170d5baeec36ed6fef</description>
+      <content:encoded><![CDATA[Category: Design e Produto / Outras Ferramentas<br/>App: Pixtamer<br/>Description: Converta, comprima, redimensione e renomeie imagens em lote para JPEG, PNG, WebP e AVIF prontos para a web, com larguras responsivas e predefinições. Nada é enviado para a internet.<br/>Website: https://pixtamer.pages.dev<br/>Open Source: https://github.com/heysidhant/pixtamer<br/>App Store: https://apps.apple.com/app/pixtamer/id6831520622?platform=mac<br/>Commit: Add Pixtamer to image tools (#3969)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/57c29ef3385c1fef2379d3170d5baeec36ed6fef]]></content:encoded>
+    </item>
+    <item>
+      <title>App Vanish</title>
+      <link>https://appvanish.pages.dev</link>
+      <guid isPermaLink="false">93044da0a924cd6c870bf36ab20133d645cb8b85:App Vanish</guid>
+      <pubDate>Thu, 19 Nov 2026 05:15:17 GMT</pubDate>
+      <category>Utilitários / Limpeza e desinstalação</category>
+      <description>Category: Utilitários / Limpeza e desinstalação
+App: App Vanish
+Description: Solte um app na lixeira para removê-lo junto com os arquivos que ele deixou para trás. Arquivos duvidosos começam desmarcados e tudo vai para a Lixeira. A edição da App Store encontra restos de apps que você já apagou.
+Website: https://appvanish.pages.dev
+Open Source: https://github.com/heysidhant/appvanish
+App Store: https://apps.apple.com/app/app-vanish/id6831544178?platform=mac
+Commit: Add App Vanish to Cleanup and Uninstall (#4749)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/93044da0a924cd6c870bf36ab20133d645cb8b85</description>
+      <content:encoded><![CDATA[Category: Utilitários / Limpeza e desinstalação<br/>App: App Vanish<br/>Description: Solte um app na lixeira para removê-lo junto com os arquivos que ele deixou para trás. Arquivos duvidosos começam desmarcados e tudo vai para a Lixeira. A edição da App Store encontra restos de apps que você já apagou.<br/>Website: https://appvanish.pages.dev<br/>Open Source: https://github.com/heysidhant/appvanish<br/>App Store: https://apps.apple.com/app/app-vanish/id6831544178?platform=mac<br/>Commit: Add App Vanish to Cleanup and Uninstall (#4749)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/93044da0a924cd6c870bf36ab20133d645cb8b85]]></content:encoded>
+    </item>
+    <item>
+      <title>Hourmint</title>
+      <link>https://hourmint.abdur.tech</link>
+      <guid isPermaLink="false">5a1df14e9eeb15ff8764dd9f85609bd108cce512:Hourmint</guid>
+      <pubDate>Thu, 19 Nov 2026 03:05:12 GMT</pubDate>
+      <category>Utilitários / Produtividade</category>
+      <description>Category: Utilitários / Produtividade
+App: Hourmint
+Description: Rastreador de tempo na barra de menus para freelancers, com registro de trabalho, planilhas de horas e faturas em PDF.
+Website: https://hourmint.abdur.tech
+Open Source: https://github.com/abdurrahmanriyad/hourmint
+Commit: Add Hourmint to Productivity (#4747)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a1df14e9eeb15ff8764dd9f85609bd108cce512</description>
+      <content:encoded><![CDATA[Category: Utilitários / Produtividade<br/>App: Hourmint<br/>Description: Rastreador de tempo na barra de menus para freelancers, com registro de trabalho, planilhas de horas e faturas em PDF.<br/>Website: https://hourmint.abdur.tech<br/>Open Source: https://github.com/abdurrahmanriyad/hourmint<br/>Commit: Add Hourmint to Productivity (#4747)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5a1df14e9eeb15ff8764dd9f85609bd108cce512]]></content:encoded>
+    </item>
     <item>
       <title>DisplayLatch</title>
       <link>https://hitesh-sisara.github.io/DisplayLatch/</link>
@@ -663,80 +739,6 @@ App Store: https://apps.apple.com/app/id1572202501?platform=mac
 Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Plain Text Editor<br/>Description: Bloco de notas simples e sem distrações.<br/>Website: https://sindresorhus.com/plain-text-editor<br/>App Store: https://apps.apple.com/app/id1572202501?platform=mac<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Sublime Text</title>
-      <link>https://www.sublimetext.com/3</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Sublime Text</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: Sublime Text
-Description: Editor de texto com interface rápida e ecossistema de plugins. Para mais plugins, veja Sublime Text Plugins.
-Website: https://www.sublimetext.com/3
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Sublime Text<br/>Description: Editor de texto com interface rápida e ecossistema de plugins. Para mais plugins, veja Sublime Text Plugins.<br/>Website: https://www.sublimetext.com/3<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>SubEthaEdit</title>
-      <link>https://subethaedit.net/</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:SubEthaEdit</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: SubEthaEdit
-Description: Editor poderoso para escrever, programar e colaborar a qualquer hora e em qualquer lugar!
-Website: https://subethaedit.net/
-Open Source: https://github.com/subethaedit/SubEthaEdit
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: SubEthaEdit<br/>Description: Editor poderoso para escrever, programar e colaborar a qualquer hora e em qualquer lugar!<br/>Website: https://subethaedit.net/<br/>Open Source: https://github.com/subethaedit/SubEthaEdit<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>TextMate</title>
-      <link>https://macromates.com</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:TextMate</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: TextMate
-Description: Editor que leva a abordagem da Apple para sistemas operacionais ao mundo dos editores de texto.
-Website: https://macromates.com
-Open Source: https://github.com/textmate/textmate
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: TextMate<br/>Description: Editor que leva a abordagem da Apple para sistemas operacionais ao mundo dos editores de texto.<br/>Website: https://macromates.com<br/>Open Source: https://github.com/textmate/textmate<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Tot</title>
-      <link>https://tot.rocks/</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Tot</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: Tot
-Description: Tot é uma forma elegante e simples de coletar e editar textos. É o seu pequeno companheiro de texto!
-Website: https://tot.rocks/
-App Store: https://apps.apple.com/us/app/tot/id1491071483?platform=mac
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Tot<br/>Description: Tot é uma forma elegante e simples de coletar e editar textos. É o seu pequeno companheiro de texto!<br/>Website: https://tot.rocks/<br/>App Store: https://apps.apple.com/us/app/tot/id1491071483?platform=mac<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Vim</title>
-      <link>https://www.vim.org/</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Vim</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: Vim
-Description: Um editor antigo baseado em terminal. Para plugins comuns, veja Vim Common Plugins.
-Website: https://www.vim.org/
-Open Source: https://github.com/vim/vim
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Vim<br/>Description: Um editor antigo baseado em terminal. Para plugins comuns, veja Vim Common Plugins.<br/>Website: https://www.vim.org/<br/>Open Source: https://github.com/vim/vim<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
     </item>
   </channel>
 </rss>
