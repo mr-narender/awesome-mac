@@ -230,6 +230,7 @@ Awesome Mac
 
 ### オフィス
 
+* [Kantor](https://kantor.paparanai.id) - Excel、Word、PowerPointのファイルを開いて保存できるネイティブのオフィススイート（Sheets、Docs、Slides）。 [![Open-Source Software][OSS Icon]](https://github.com/dzulfikar08/kantor) ![Freeware][Freeware Icon]
 * [Keynote](https://apps.apple.com/app/keynote/id361285480?platform=mac) - 美しいプレゼンテーションを作成。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/keynote/id361285480?platform=mac)
 * [LibreOffice](https://www.libreoffice.org) - 大規模なコミュニティで日々使用・テストされている無料のオープンソースオフィスソフトウェア。 [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/) ![Freeware][Freeware Icon]
 * [Microsoft Office](https://products.office.com/en-us/mac/microsoft-office-for-mac) - 紛れもなくOffice、Mac用に設計。 [![App Store][app-store Icon]](https://www.apple.com/search/office?page=1&sel=accessories&f=software#!&f=software&fh=4649)
@@ -426,6 +427,7 @@ Awesome Mac
 * [NetBeans IDE](https://netbeans.org/) - Javaおよびその他の言語のための無料オープンソースIDE。 [![OSS][OSS Icon]](https://github.com/apache/netbeans) ![Freeware][Freeware Icon]
 * [Nova](https://nova.app/) - [Panic](https://panic.com/)製の美しく、高速で、柔軟なMacコードエディタ。
 * [Orca](https://onorca.dev) - 複数のAIコーディングエージェントをそれぞれ独立したgitワークツリーで並列実行できるオープンソースIDE。 [![Open-Source Software][OSS Icon]](https://github.com/stablyai/orca) ![Freeware][Freeware Icon]
+* [Sikemux](https://sikemux.com) - 各チャットの横にターミナル、Git、エディタ、ブラウザタブを備えた、コーディングエージェント（Claude Code、Codex、OpenCode、Pi）のためのオープンソースのネイティブワークスペース。 [![Open-Source Software][OSS Icon]](https://github.com/nodelike/sikemux) ![Freeware][Freeware Icon]
 * [Threadlines](https://www.threadlines.dev) - コーディングエージェント（Claude Code、Codex、OpenCode、Cursor）のためのオープンソースのデスクトップアプリ。複数のエージェントが1つのスレッドを共有でき、スレッドごとに独立したgitワークツリーを使える。 [![Open-Source Software][OSS Icon]](https://github.com/Threadlines/threadlines) ![Freeware][Freeware Icon]
 * [Trae](https://www.trae.ai/) - コーディングとソフトウェア開発のためのAI IDE。
 * [Visual Studio Code](https://code.visualstudio.com/) - Microsoft製の無料でオープンソースなエディタ。TypeScriptに対応、[VSCode プラグイン](editor-plugin.md#vscode-plugin)。 [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/viatsko/awesome-vscode#readme)
@@ -711,6 +713,7 @@ Awesome Mac
 * [kitty](https://github.com/kovidgoyal/kitty) - クロスプラットフォームで高速、フル機能のGPUベースターミナルエミュレーター。 [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/kitty) ![Freeware][Freeware Icon]
 * [KubeSwitch](https://www.kubeswitch.com/) - macOSでKubernetesのコンテキストとネームスペースを最速で切り替える方法。 ![Freeware][Freeware Icon]
 * [lmux](https://github.com/sooftware/lmux) - libghostty 上に構築された軽量ターミナル。Claude Code と Codex のセッションを実行し、サイドバーにエージェントの状態を表示します。 [![Open-Source Software][OSS Icon]](https://github.com/sooftware/lmux) ![Freeware][Freeware Icon]
+* [Localix Terminal](https://terminal.localix.ai) - あなたとコーディングエージェントのためのネイティブターミナル。プロジェクトのセッションは離れたときの状態のまま戻り、横にブラウザとボードがあります。 [![Open-Source Software][OSS Icon]](https://github.com/localixai/localix-terminal) ![Freeware][Freeware Icon]
 * [SSHFire](https://github.com/aralozaltin/sshfire) - ターミナル、セッション管理、現在のディレクトリに追従する SFTP ブラウザを備えたクロスプラットフォームの SSH クライアント。 [![Open-Source Software][OSS Icon]](https://github.com/aralozaltin/sshfire) ![Freeware][Freeware Icon]
 * [SSHTermaq](https://f1resh.github.io/sshtermaq/) - タブ、分割ペイン、SFTP/SCP ファイルマネージャーを備え、PuTTY のセッションをワンクリックで取り込める PuTTY 互換の SSH・Telnet・シリアルターミナル。 [![Open-Source Software][OSS Icon]](https://github.com/f1resh/sshtermaq) ![Freeware][Freeware Icon]
 * [Tabby (formerly Terminus)](https://github.com/Eugeny/tabby) - TypeScriptで構築された無料のターミナルツール。Hyperに強く触発されている。 [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
@@ -983,6 +986,7 @@ Awesome Mac
 * [Murmury](https://github.com/GianlucaBave/murmury) - ビデオ通話中に自分の資料から質問への答えを表示するフローティングウィンドウ。画面共有には映らず、音声認識はデバイス上で行います。 [![Open-Source Software][OSS Icon]](https://github.com/GianlucaBave/murmury) ![Freeware][Freeware Icon]
 * [Octuo](https://www.tutuo.ai/en/octuo/) - AI・ツール・専門サービスをまたいで働くパーソナルアシスタント。接続・許可したツールやアカウントを連携させ、目標に沿って進捗を追跡し、結果をまとめる。
 * [Off Grid AI Desktop](https://getoffgridai.co/desktop) - プライベートなローカルファーストAIツール。ローカルLLMチャット、画像生成、音声入力、記憶検索をすべて端末上で実行。 [![Open-Source Software][OSS Icon]](https://github.com/off-grid-ai/off-grid-ai-desktop) ![Freeware][Freeware Icon]
+* [Olympus Coder](https://github.com/martianacademy/olympus-coder) - Claude Code、Codex、Antigravity をはじめ 18 以上の ACP コーディングエージェントを統合管理できるオープンソースのデスクトップワークベンチ兼ヘッドレスサーバー。共有プロジェクトメモリ、並列サブセッション、Git worktree、ハンク単位の差分レビュー、内蔵ターミナル、E2E 暗号化モバイルアクセスに対応。 [![Open-Source Software][OSS Icon]](https://github.com/martianacademy/olympus-coder) ![Freeware][Freeware Icon]
 * [OmegaStar](https://github.com/itsfutsy/OmegaStar) - いつもの Claude Code を、ブラウザ・モデル・ログインごと AI 社員のチームに変えるアプリ。社員ごとに目標があり、会話で教えたことはスキルとして残る。 [![Open-Source Software][OSS Icon]](https://github.com/itsfutsy/OmegaStar) ![Freeware][Freeware Icon]
 * [Orchard](https://orchard.5km.tech/) - AIアシスタントをAppleアプリへ接続するMCPサーバー。
 * [Papilot](https://papilot.ai) - コンパイル済みの PDF に直接注釈を付け、Claude Code、Codex、Cursor などのコーディングエージェントを分離された Git ワークツリーで実行し、組版済みの前後差分でレビューしてマージできるオープンソースのデスクトップアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/PapilotAI/papilot) ![Freeware][Freeware Icon]
@@ -1047,6 +1051,7 @@ Awesome Mac
 * [Nylas Mail](https://nylas.com/nylas-mail/) - モダンなWebテクノロジーで構築された拡張可能なデスクトップメールアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail) ![Freeware][Freeware Icon]
 * [Polymail](https://polymail.io/) - シンプルで美しく、パワフルなメールクライアント。 ![Freeware][Freeware Icon]
 * [Postbox](https://www.postbox-inc.com) - パワフルでシンプル、美しいメールクライアント。ライセンスの購入が必要。
+* [Ragdoll Mail](https://erict16.github.io/ragdoll-mail/) - ローカル全文検索ですぐに結果が出て、スクリプトやAIエージェント向けのコマンドラインも備えたオープンソースのIMAPメールクライアント。 [![Open-Source Software][OSS Icon]](https://github.com/erict16/ragdoll-mail) ![Freeware][Freeware Icon]
 * [Spark](https://sparkmailapp.com/) - 高速メールクライアント。Mac OSとiOSの両方に対応。![Freeware][Freeware Icon]
 * [Spool](https://joedesigns.com/spool) - キーボード操作中心のメールクライアント。Zed と同じ GPU UI フレームワーク gpui を使い Rust で書かれています。 [![Open-Source Software][OSS Icon]](https://github.com/wes/spool) ![Freeware][Freeware Icon]
 * [ThunderBird](https://www.mozilla.org/en-US/thunderbird/) - メールをより簡単にするソフトウェア。 ![Freeware][Freeware Icon]
@@ -1144,6 +1149,7 @@ Awesome Mac
 * [ScreenFlow](http://www.telestream.net/screenflow/) - スクリーンキャストとビデオ編集ソフトウェア。
 * [Shotcut](https://www.shotcut.org) - 無料のオープンソースビデオエディター。 [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) ![Freeware][Freeware Icon]
 * [ShotMap](https://ixiehao.github.io/ShotMap/) - 動画を絵コンテ画像にまとめ、自動コマ選択、手動調整、ローカルでの PNG/JPG 書き出しに対応。 [![Open-Source Software][OSS Icon]](https://github.com/ixiehao/ShotMap) ![Freeware][Freeware Icon]
+* [Smorza](https://smorza.app) - アプリごとに音量、ミュート、出力デバイスを設定できるメニューバーの音量ミキサー。 [![Open-Source Software][OSS Icon]](https://github.com/rokoov/smorza) ![Freeware][Freeware Icon]
 * [Sonar](https://github.com/can4hou6joeng4/Sonar) - 同期歌詞とメニューバー・ノッチの再生操作に対応したネイティブ音楽プレイヤー。 [![Open-Source Software][OSS Icon]](https://github.com/can4hou6joeng4/Sonar) ![Freeware][Freeware Icon]
 * [Songtide](https://songtide.dcoded.dev) - イコライザー、ビジュアライザー、同期歌詞を備えたネイティブYouTube Musicアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/dcoded-dev/songtide) ![Freeware][Freeware Icon]
 * [SoundCloud for macOS](https://github.com/jettsba/SoundCloud-for-macOS) - 非公式の軽量な macOS 向け SoundCloud アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/jettsba/SoundCloud-for-macOS) ![Freeware][Freeware Icon]
@@ -1271,7 +1277,7 @@ Awesome Mac
 * [VoiceInk](https://tryvoiceink.com/) - リアルタイム音声テキスト変換アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/Beingpax/VoiceInk)
 * [Voltip](https://voltip.firlab.app/) - ローカルまたはクラウドの音声認識と AI による整文に対応し、ペアリングした Android スマートフォンをマイクとしても使えるオープンソースのプッシュトゥトーク音声入力ツール。 [![Open-Source Software][OSS Icon]](https://github.com/sunerpy/voltip) ![Freeware][Freeware Icon]
 * [VoxFlow](https://github.com/xingbofeng/VoxFlow) - ローカル/クラウドASR、OCR、履歴、コーディングエージェントのワークフローに対応したオープンソース音声入力ワークスペース。 [![Open-Source Software][OSS Icon]](https://github.com/xingbofeng/VoxFlow) ![Freeware][Freeware Icon]
-* [Voxt](https://github.com/hehehai/voxt) - 押して話し離すと貼り付けられる音声入力・翻訳ツールで、アプリやURLごとに異なるAI転写ルールを設定できます。 [![Open-Source Software][OSS Icon]](https://github.com/hehehai/voxt) ![Freeware][Freeware Icon]
+* [VoxtMini](https://actnow.dev/voxtmini) - ローカルモデルで動く音声入力。どのアプリでも書き起こし・翻訳・書き換えができ、英語・中国語・日本語に対応。 [![Open-Source Software][OSS Icon]](https://github.com/hehehai/VoxtMini) ![Freeware][Freeware Icon]
 * [Wavo](https://github.com/vladkens/wavo-app) - Macを遅くしない音声入力ツール。Neural Engineで動作し、音声をクラウドに送らず、話した内容をどこで入力していてもその場所に打ち込みます。 [![Open-Source Software][OSS Icon]](https://github.com/vladkens/wavo-app) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WhisPaste](https://whispaste.de/en/) - macOS、Windows、Linux 向けのプッシュトゥトーク音声入力ツール。Whisper または Parakeet でローカルに文字起こしし、任意のアプリのカーソル位置に貼り付けます。 [![Open-Source Software][OSS Icon]](https://github.com/whispaste/whispaste) ![Freeware][Freeware Icon]
 * [WhisperDrop 2](https://github.com/Zer0codestuff/whisperdrop-2) - 音声、動画、YouTube、会議をローカルで文字起こしし、任意のアプリへ音声入力もできるオープンソースツール。 [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/whisperdrop-2) ![Freeware][Freeware Icon]
@@ -1296,6 +1302,7 @@ Awesome Mac
 * [Opera](https://www.opera.com) - 広告ブロック機能でより速く、集中できるブラウジングを体験し、プライベートに閲覧。 ![Freeware][Freeware Icon]
 * [Ora](https://github.com/the-ora/browser) - スペース、タブ管理、垂直サイドバーを備えたオープンソースブラウザ。 [![Open-Source Software][OSS Icon]](https://github.com/the-ora/browser) ![Freeware][Freeware Icon]
 * [Orion](https://browser.kagi.com/) - ChromeおよびFirefox拡張機能をサポートする軽量WebKitベースのブラウザ。 ![Freeware][Freeware Icon]
+* [Pilion](https://pilion.echovic.com/en/) - Claude Code や Codex などの ACP エージェントが MCP 経由でログイン済みのタブを操作できる、承認と即時引き継ぎ付きのオープンソースブラウザ。 [![Open-Source Software][OSS Icon]](https://github.com/echoVic/pilion-browser) ![Freeware][Freeware Icon]
 * [qutebrowser](https://www.qutebrowser.org/) - PythonとQtベースのキーボード駆動のvimライクなブラウザ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qutebrowser/qutebrowser)
 * [Roar](https://roarbrowser.app/) - ローカルまたは自分のAIモデルを使い、ウェブページを開く・読む・入力まで代行するエージェント内蔵のオープンソースブラウザ。 [![Open-Source Software][OSS Icon]](https://github.com/roarbrowser/roar) ![Freeware][Freeware Icon]
 * [Safari](https://www.apple.com/safari/) - Mac用のネイティブブラウザ。 ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/safari-extensions#readme)
@@ -1427,6 +1434,7 @@ Awesome Mac
 * [Clipboard](https://getclipboard.app/) - すべてのプラットフォーム対応の使いやすいターミナルクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/Slackadays/Clipboard) ![Freeware][Freeware Icon]
 * [ClipMenu](http://www.clipmenu.com) - Mac OS X用クリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
 * [Clippy](https://github.com/yarasaa/Clippy) - コンテンツ認識プレビュー、AI変換、内蔵スクリーンショットエディター、ファイルコンバーターを備えたスマートなクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/yarasaa/Clippy) ![Freeware][Freeware Icon]
+* [ClipHat](https://github.com/getguruhat/cliphat-macos) - 検索、ピン留め、⌘⇧V での復元に対応した無料のクリップボード履歴ツール。テキスト、リンク、画像、ファイルをローカルに保存。 [![Open-Source Software][OSS Icon]](https://github.com/getguruhat/cliphat-macos) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [ClipHistory](https://github.com/weiykong/ClipHistory) - ホットキー即時表示、検索、ピン留め、テキスト/画像履歴に対応した軽量なネイティブクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/weiykong/ClipHistory) ![Freeware][Freeware Icon]
 * [Clipivo](https://clipivo.jishnumahanta.in) - クリップボード履歴を検索しやすく整理し、プライベートに保つローカルファーストのネイティブクリップボードマネージャー。 ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [ClipRecallBar](https://turhe123.github.io/clip-recall-bar/) - 入力しながら絞り込み、1キーで貼り付けできるキーボード重視のクリップボード履歴ポップアップ。 [![Open-Source Software][OSS Icon]](https://github.com/turhe123/clip-recall-bar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1506,6 +1514,7 @@ Awesome Mac
 * [Hue in the Menu](https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384?platform=mac) - マルチルーム対応のメニューバーでのPhilips Hueライト管理。 [![App Store][app-store Icon]](https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384?platform=mac) ![Freeware][Freeware Icon]
 * [Ice](https://github.com/jordanbaird/Ice) - メニューバーアイコンを非表示・整理できる管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/jordanbaird/Ice) ![Freeware][Freeware Icon]
 * [ILoveNotch](https://github.com/niyamvora/ILoveNotch) - MacBook のノッチを、メディア、ファイル、カレンダー、リマインダー、メモ、タイマーのためのトレイに変えます。 [![Open-Source Software][OSS Icon]](https://github.com/niyamvora/ILoveNotch) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [InputBattery](https://github.com/dirkkredinger/InputBattery) - Bluetoothキーボード、マウス、ヘッドセット、AirPodsのバッテリー残量をメニューバーとデスクトップウィジェットに表示し、電池切れの前に警告するアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/dirkkredinger/InputBattery) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Itsycal](https://www.mowglii.com/itsycal/) - Macのメニューバー用の小さなカレンダー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sfsam/itsycal)
 * [Itsyhome](https://itsyhome.app) - メニューバーからHomeKitおよびHome Assistantスマートホームを操作。 [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsyhome-macos) [![App Store][app-store Icon]](https://apps.apple.com/app/itsyhome/id6758070650?platform=mac)
 * [Itsytv](https://itsytv.app/) - メニューバーからApple TVを操作できるツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nickustinov/itsytv-macos)
@@ -1595,6 +1604,7 @@ Awesome Mac
 * [Mac Clean](https://github.com/iliyami/MacClean) - 無料のオープンソースなクリーンアップ、最適化、マルウェアスキャンツール。 [![Open-Source Software][OSS Icon]](https://github.com/iliyami/MacClean) ![Freeware][Freeware Icon]
 * [Cleaner One](https://apps.apple.com/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac) - ディスククリーニングとMacの最適化。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac)
 * [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner-SwiftUI) - 不要なXcodeファイルを削除。 [![Open-Source Software][OSS Icon]](https://github.com/waylybaye/XcodeCleaner-SwiftUI) ![Freeware][Freeware Icon]
+* [Cleanzo](https://cleanzo.echovic.com/en/) - システムとディスクの使用状況を確認してから、キャッシュや大きなファイル、久しく更新していないビルド成果物を削除するオープンソースのクリーナー。 [![Open-Source Software][OSS Icon]](https://github.com/echoVic/cleanzo) ![Freeware][Freeware Icon]
 * [ClearDisk](https://github.com/bysiber/cleardisk) - 開発者キャッシュを可視化・整理して容量を確保するツール。 [![Open-Source Software][OSS Icon]](https://github.com/bysiber/cleardisk) ![Freeware][Freeware Icon]
 * [DaisyDisk](https://daisydiskapp.com/) - ディスク使用量の分析とクリーナー。
 * [DiskPilot](https://diskpilot.live) - 各フォルダ（Docker、node_modules、Xcode DerivedData、AI ツールのキャッシュ）が何かを説明し、安全に削除できるものを示して、すべてをまずゴミ箱へ移動する、開発者向けの無料・オープンソースのストレージ分析ツール。 [![Open-Source Software][OSS Icon]](https://github.com/Devanshgoel-123/diskpilot) ![Freeware][Freeware Icon]
@@ -1683,6 +1693,7 @@ Awesome Mac
 * [Speediness](https://sindresorhus.com/speediness) - インターネット速度を測定。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1596706466?platform=mac)
 * [SATF](https://github.com/tran-minh-khoi/SATF) - ドラッグ中のファイルを軽く振ると、カーソル下に出る円形メニューから形式変換、PDF結合、ZIP圧縮、解凍ができる。 [![Open-Source Software][OSS Icon]](https://github.com/tran-minh-khoi/SATF) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Swivel](https://github.com/jonathanlotan/Swivel) - ファイルをドラッグ中にキーを押してホイールにドロップするだけで、変換・切り抜き・圧縮・メタデータ削除・共有ができる完全オフラインのツール。 [![Open-Source Software][OSS Icon]](https://github.com/jonathanlotan/Swivel) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Terento](https://terento.app) - Garmin の腕時計と Edge サイクルコンピューターに無料の地図をインストール。 [![Open-Source Software][OSS Icon]](https://github.com/VooZ2/terento) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6828556832) ![Native App][Native Icon]
 * [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) - Safari用のオープンソースタブマネージャー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swift-open-source/UltraTabSaver)
 * [Upscayl](https://github.com/upscayl/upscayl) - 無料でオープンソースのAI画像アップスケーリングツール。 [![Open-Source Software][OSS Icon]](https://github.com/upscayl/upscayl) ![Freeware][Freeware Icon]
 * [Uptick](https://chengffei.github.io/uptick/) - App Store、Sparkle、Electron の更新フィード、Homebrew から更新を探し、インストール前にダウンロードを検証するオープンソースのアップデーター。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/chengffei/uptick)
@@ -1769,6 +1780,7 @@ Awesome Mac
 * [nnScreenshots](https://www.nearnorthsoftware.com/software/screenshots.php) - 定期スクリーンショットで一日の作業を振り返れるツール。
 * [OmniPlan](https://www.omnigroup.com/omniplan/) - プロジェクトを視覚化、管理、簡素化する最良の方法。プロジェクト管理を簡単に。
 * [OpenClip](https://getopenclip.app) - 選択したテキストから即座にアクションを実行できる、macOS向けの軽量フローティングアクションバー。 [![Open-Source Software][OSS Icon]](https://github.com/ganeshmshetty/openclip) ![Freeware][Freeware Icon]
+* [OpenGestures](https://github.com/01wil/OpenGestures) - トラックパッドのジェスチャーをウィンドウ、アプリ、ショートカット、スクリプトの操作に割り当てるオープンソースツール。 [![Open-Source Software][OSS Icon]](https://github.com/01wil/OpenGestures) ![Freeware][Freeware Icon]
 * [OpenIn](https://loshadki.app/openin4/) - Macにインストールされたアプリを管理。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/openin-4-advanced-link-handler/id1643649331?platform=mac)
 * [OpenNaga](https://github.com/Zer0codestuff/OpenNaga) - サイドボタンの再割り当てやDPI・ポーリングレートの設定ができる、Razer Naga V2 HyperSpeed向けのオープンソースRazer Synapse代替ツール。 [![Open-Source Software][OSS Icon]](https://github.com/Zer0codestuff/OpenNaga) ![Freeware][Freeware Icon]
 * [PaletteBrain](https://palettebrain.com) - ショートカットキーひとつですべてのMacアプリケーションからChatGPTのパワーにアクセス。

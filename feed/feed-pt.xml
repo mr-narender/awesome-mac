@@ -5,9 +5,98 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 21 Nov 2026 09:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 11:48:49 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Localix Terminal</title>
+      <link>https://terminal.localix.ai</link>
+      <guid isPermaLink="false">ae06017826d56844fa969a14841a8ea91c2cc7c8:Localix Terminal</guid>
+      <pubDate>Sun, 22 Nov 2026 11:48:49 GMT</pubDate>
+      <category>Aplicativos de Terminal</category>
+      <description>Category: Aplicativos de Terminal
+App: Localix Terminal
+Description: Terminal nativo para você e seus agentes de programação, com sessões por projeto que voltam como você as deixou e um navegador e um quadro ao lado.
+Website: https://terminal.localix.ai
+Open Source: https://github.com/localixai/localix-terminal
+Commit: Add Localix Terminal (#4881)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ae06017826d56844fa969a14841a8ea91c2cc7c8</description>
+      <content:encoded><![CDATA[Category: Aplicativos de Terminal<br/>App: Localix Terminal<br/>Description: Terminal nativo para você e seus agentes de programação, com sessões por projeto que voltam como você as deixou e um navegador e um quadro ao lado.<br/>Website: https://terminal.localix.ai<br/>Open Source: https://github.com/localixai/localix-terminal<br/>Commit: Add Localix Terminal (#4881)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ae06017826d56844fa969a14841a8ea91c2cc7c8]]></content:encoded>
+    </item>
+    <item>
+      <title>InputBattery</title>
+      <link>https://github.com/dirkkredinger/InputBattery</link>
+      <guid isPermaLink="false">331c68b75ab371b07715f9139c1b3733616b2a5c:InputBattery</guid>
+      <pubDate>Sun, 22 Nov 2026 08:22:57 GMT</pubDate>
+      <category>Utilitários / Ferramentas da Barra de Menus</category>
+      <description>Category: Utilitários / Ferramentas da Barra de Menus
+App: InputBattery
+Description: Mostra o nível de bateria de teclados, mouses e headsets Bluetooth e dos AirPods na barra de menus e em um widget, com aviso antes que a bateria acabe.
+Open Source: https://github.com/dirkkredinger/InputBattery
+Commit: Add InputBattery to Menu Bar Tools (#4873)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/331c68b75ab371b07715f9139c1b3733616b2a5c</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas da Barra de Menus<br/>App: InputBattery<br/>Description: Mostra o nível de bateria de teclados, mouses e headsets Bluetooth e dos AirPods na barra de menus e em um widget, com aviso antes que a bateria acabe.<br/>Open Source: https://github.com/dirkkredinger/InputBattery<br/>Commit: Add InputBattery to Menu Bar Tools (#4873)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/331c68b75ab371b07715f9139c1b3733616b2a5c]]></content:encoded>
+    </item>
+    <item>
+      <title>Sikemux</title>
+      <link>https://sikemux.com</link>
+      <guid isPermaLink="false">3fec58982c069699704fc8ad2d3d83bafaf81b2c:Sikemux</guid>
+      <pubDate>Sun, 22 Nov 2026 00:27:06 GMT</pubDate>
+      <category>Ferramentas para Desenvolvedores / IDEs</category>
+      <description>Category: Ferramentas para Desenvolvedores / IDEs
+App: Sikemux
+Description: Espaço de trabalho nativo e de código aberto para agentes de programação (Claude Code, Codex, OpenCode, Pi), com terminais, Git, um editor e abas de navegador ao lado de cada chat.
+Website: https://sikemux.com
+Open Source: https://github.com/nodelike/sikemux
+Commit: Add Sikemux to Developer Tools &gt; IDEs (#4565)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3fec58982c069699704fc8ad2d3d83bafaf81b2c</description>
+      <content:encoded><![CDATA[Category: Ferramentas para Desenvolvedores / IDEs<br/>App: Sikemux<br/>Description: Espaço de trabalho nativo e de código aberto para agentes de programação (Claude Code, Codex, OpenCode, Pi), com terminais, Git, um editor e abas de navegador ao lado de cada chat.<br/>Website: https://sikemux.com<br/>Open Source: https://github.com/nodelike/sikemux<br/>Commit: Add Sikemux to Developer Tools &gt; IDEs (#4565)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3fec58982c069699704fc8ad2d3d83bafaf81b2c]]></content:encoded>
+    </item>
+    <item>
+      <title>VoxtMini</title>
+      <link>https://actnow.dev/voxtmini</link>
+      <guid isPermaLink="false">922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39:VoxtMini</guid>
+      <pubDate>Sat, 21 Nov 2026 13:40:22 GMT</pubDate>
+      <category>Voz para Texto</category>
+      <description>Category: Voz para Texto
+App: VoxtMini
+Description: Entrada de voz com modelos locais: transcreva, traduza e reescreva em qualquer app, em inglês, chinês e japonês.
+Website: https://actnow.dev/voxtmini
+Open Source: https://github.com/hehehai/VoxtMini
+Commit: Update Voxt to VoxtMini (renamed and rewritten) (#4847)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39</description>
+      <content:encoded><![CDATA[Category: Voz para Texto<br/>App: VoxtMini<br/>Description: Entrada de voz com modelos locais: transcreva, traduza e reescreva em qualquer app, em inglês, chinês e japonês.<br/>Website: https://actnow.dev/voxtmini<br/>Open Source: https://github.com/hehehai/VoxtMini<br/>Commit: Update Voxt to VoxtMini (renamed and rewritten) (#4847)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/922d3fa4d7edad6e65a94fba1aa6ba5f8ca04f39]]></content:encoded>
+    </item>
+    <item>
+      <title>Ragdoll Mail</title>
+      <link>https://erict16.github.io/ragdoll-mail/</link>
+      <guid isPermaLink="false">4312c10a2ade0c6e14dcd74e4fa0b2fea09b67ce:Ragdoll Mail</guid>
+      <pubDate>Sat, 21 Nov 2026 12:47:11 GMT</pubDate>
+      <category>Comunicação / Clientes de E-mail</category>
+      <description>Category: Comunicação / Clientes de E-mail
+App: Ragdoll Mail
+Description: Cliente de e-mail IMAP de código aberto com busca local de texto completo instantânea e uma linha de comando para scripts e agentes de IA.
+Website: https://erict16.github.io/ragdoll-mail/
+Open Source: https://github.com/erict16/ragdoll-mail
+Commit: Add Ragdoll Mail to Email Clients (#4844)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4312c10a2ade0c6e14dcd74e4fa0b2fea09b67ce</description>
+      <content:encoded><![CDATA[Category: Comunicação / Clientes de E-mail<br/>App: Ragdoll Mail<br/>Description: Cliente de e-mail IMAP de código aberto com busca local de texto completo instantânea e uma linha de comando para scripts e agentes de IA.<br/>Website: https://erict16.github.io/ragdoll-mail/<br/>Open Source: https://github.com/erict16/ragdoll-mail<br/>Commit: Add Ragdoll Mail to Email Clients (#4844)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4312c10a2ade0c6e14dcd74e4fa0b2fea09b67ce]]></content:encoded>
+    </item>
+    <item>
+      <title>Kantor</title>
+      <link>https://kantor.paparanai.id</link>
+      <guid isPermaLink="false">a81ddfe74b45ff966887984ef1c8c36107bb0c57:Kantor</guid>
+      <pubDate>Sat, 21 Nov 2026 12:41:59 GMT</pubDate>
+      <category>Ferramentas de Leitura e Escrita / Escritório</category>
+      <description>Category: Ferramentas de Leitura e Escrita / Escritório
+App: Kantor
+Description: Suíte de escritório nativa (Sheets, Docs, Slides) que abre e salva arquivos do Excel, Word e PowerPoint.
+Website: https://kantor.paparanai.id
+Open Source: https://github.com/dzulfikar08/kantor
+Commit: Add Kantor to Office (#4843)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a81ddfe74b45ff966887984ef1c8c36107bb0c57</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Escritório<br/>App: Kantor<br/>Description: Suíte de escritório nativa (Sheets, Docs, Slides) que abre e salva arquivos do Excel, Word e PowerPoint.<br/>Website: https://kantor.paparanai.id<br/>Open Source: https://github.com/dzulfikar08/kantor<br/>Commit: Add Kantor to Office (#4843)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a81ddfe74b45ff966887984ef1c8c36107bb0c57]]></content:encoded>
+    </item>
     <item>
       <title>FanShift</title>
       <link>https://github.com/KrisWonka/FanShift</link>
@@ -651,95 +740,6 @@ Open Source: https://github.com/helix-editor/helix/
 Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
       <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Helix<br/>Description: Um editor de texto modal pós-moderno.<br/>Website: https://helix-editor.com/<br/>Open Source: https://github.com/helix-editor/helix/<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Itsypad</title>
-      <link>https://itsypad.app</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Itsypad</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: Itsypad
-Description: Um bloco de notas e gerenciador de área de transferência pequeno e rápido para macOS.
-Website: https://itsypad.app
-Open Source: https://github.com/nickustinov/itsypad-macos
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Itsypad<br/>Description: Um bloco de notas e gerenciador de área de transferência pequeno e rápido para macOS.<br/>Website: https://itsypad.app<br/>Open Source: https://github.com/nickustinov/itsypad-macos<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>Lapce</title>
-      <link>https://lapce.dev/</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:Lapce</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: Lapce
-Description: Editor de código extremamente rápido e poderoso.
-Website: https://lapce.dev/
-Open Source: https://github.com/lapce/lapce
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: Lapce<br/>Description: Editor de código extremamente rápido e poderoso.<br/>Website: https://lapce.dev/<br/>Open Source: https://github.com/lapce/lapce<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>LightTable</title>
-      <link>https://lighttable.com/</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:LightTable</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: LightTable
-Description: A próxima geração de editores de código.
-Website: https://lighttable.com/
-Open Source: https://github.com/LightTable/LightTable
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: LightTable<br/>Description: A próxima geração de editores de código.<br/>Website: https://lighttable.com/<br/>Open Source: https://github.com/LightTable/LightTable<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>LiteEdit</title>
-      <link>https://arietan.github.io/lite-edit/</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:LiteEdit</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: LiteEdit
-Description: Editor de código nativo e rápido para macOS, com menos de 1 MB. Feito em Swift e AppKit, sem Electron.
-Website: https://arietan.github.io/lite-edit/
-Open Source: https://github.com/arietan/lite-edit
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: LiteEdit<br/>Description: Editor de código nativo e rápido para macOS, com menos de 1 MB. Feito em Swift e AppKit, sem Electron.<br/>Website: https://arietan.github.io/lite-edit/<br/>Open Source: https://github.com/arietan/lite-edit<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>MacVim</title>
-      <link>https://github.com/macvim-dev/macvim</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:MacVim</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: MacVim
-Description: O editor de texto Vim para macOS.
-Open Source: https://github.com/macvim-dev/macvim
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: MacVim<br/>Description: O editor de texto Vim para macOS.<br/>Open Source: https://github.com/macvim-dev/macvim<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
-    </item>
-    <item>
-      <title>micro</title>
-      <link>https://micro-editor.github.io</link>
-      <guid isPermaLink="false">492aa760a07357ad37de6efba69bb50dd14863ca:micro</guid>
-      <pubDate>Fri, 13 Nov 2026 11:09:54 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Editores de Texto</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Editores de Texto
-App: micro
-Description: Editor de texto moderno e intuitivo baseado em terminal.
-Website: https://micro-editor.github.io
-Open Source: https://github.com/ory/editor
-Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Editores de Texto<br/>App: micro<br/>Description: Editor de texto moderno e intuitivo baseado em terminal.<br/>Website: https://micro-editor.github.io<br/>Open Source: https://github.com/ory/editor<br/>Commit: Add README-pt.md (Brazilian Portuguese) and link it from the other READMEs (#4534)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/492aa760a07357ad37de6efba69bb50dd14863ca]]></content:encoded>
     </item>
   </channel>
 </rss>
