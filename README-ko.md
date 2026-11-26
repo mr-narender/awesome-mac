@@ -391,6 +391,7 @@ Awesome Mac
 * [Emacs](http://www.gnu.org/software/emacs/) - 확장 가능하고 사용자 정의 가능한 텍스트 편집기. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Espresso](http://espressoapp.com/) - 웹 개발용 IDE.
 * [Fletch](https://fletch.sh/?utm_source=dir-awesome-mac) - AI 코딩 에이전트를 위한 네이티브 IDE로, 각 에이전트에 저장소의 샌드박스 클론과 공유 심볼·호출 그래프 인덱스를 제공하며 병합 전에 diff를 검토할 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/fwdai/fletch) ![Freeware][Freeware Icon]
+* [Friday](https://www.tryfridaywork.com) - Claude Code, Codex, Cursor 등 코딩 에이전트를 하나의 팀으로 실행하는 무료 오픈 소스 앱으로, 공유 작업 보드, 에이전트별 git worktree, 줄 단위 메모가 있는 diff 검토를 제공하며 사용 한도에 도달하면 다른 에이전트에게 작업을 넘깁니다. [![Open-Source Software][OSS Icon]](https://github.com/splashxmoon/friday-code) ![Freeware][Freeware Icon]
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 가장 지능적인 Java IDE. ![Freeware][Freeware Icon]
 * [LightTable](http://lighttable.com/) - 차세대 코드 편집기. [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
 * [NetBeans](https://netbeans.org/) - 데스크톱, 모바일 및 웹 애플리케이션 개발. [![Open-Source Software][OSS Icon]](https://netbeans.org/community/sources/) ![Freeware][Freeware Icon]
@@ -756,6 +757,7 @@ Awesome Mac
 
 * [Agent Teams AI](https://agentteams.live/) - 팀 메시징, 작업 보드, 코드 리뷰를 통해 자율 AI 코딩 에이전트를 조율하는 오픈 소스 데스크톱 앱. [![Open-Source Software][OSS Icon]](https://github.com/777genius/agent-teams-ai) ![Freeware][Freeware Icon]
 * [Agenttrace](https://luoyuctl.github.io/agenttrace/) - AI 코딩 에이전트 세션, 비용, 토큰, 지연, 도구 실패, 상태, diff를 점검하는 로컬 우선 TUI. [![Open-Source Software][OSS Icon]](https://github.com/luoyuctl/agenttrace) ![Freeware][Freeware Icon]
+* [AI Hub Bar](https://olehdemishev.github.io/AIHubBar/) - Claude, Codex, Copilot, Gemini CLI, Cursor의 사용량 한도를 보여 주고, 실행 중인 에이전트 세션을 모두 나열하며, 권한 요청에 알림에서 바로 응답하는 오픈소스 메뉴바 앱. [![Open-Source Software][OSS Icon]](https://github.com/OlehDemishev/AIHubBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Airbag](https://github.com/a1murt/airbag) - AI 코딩 에이전트가 파일을 바꿀 수 있는 셸 명령을 실행하기 전에 프로젝트 스냅샷을 만들어, 삭제된 파일과 지워진 .env를 클릭 한 번으로 복원하는 오픈소스 메뉴바 앱. [![Open-Source Software][OSS Icon]](https://github.com/a1murt/airbag) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [AppleAi](https://www.theappleai.tech/) - 메뉴바에서 여러 AI 어시스턴트 접근. [![Open-Source Software][OSS Icon]](https://github.com/bunnysayzz/AppleAI)
 * [Apple On-Device OpenAI](https://github.com/gety-ai/apple-on-device-openai) - Apple 온디바이스 모델을 OpenAI 호환 API 뒤에서 실행하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/gety-ai/apple-on-device-openai) ![Freeware][Freeware Icon]
@@ -768,6 +770,7 @@ Awesome Mac
 * [BaseHalf](https://basehalf.com) - 폴더를 노트, PDF, 미디어의 캔버스로 열고 Claude Code나 Codex 같은 AI 에이전트가 옆에서 같은 파일을 다루는 오픈 소스 데스크톱 앱. [![Open-Source Software][OSS Icon]](https://github.com/Pointa-Labs/basehalf) ![Freeware][Freeware Icon]
 * [BitFun](https://openbitfun.com/) - 작업마다 전용 인터랙티브 화면을 만들고 채팅을 실시간 상태와 연결하는 오픈 소스 AI 에이전트. [![Open-Source Software][OSS Icon]](https://github.com/GCWing/BitFun) ![Freeware][Freeware Icon]
 * [BoltAI](https://boltai.com) - Mac용 아름답고 강력한 ChatGPT 앱.
+* [BotArk](https://qybaihe.github.io/botark/) - Grok Bot, Google Antigravity, ChatGPT Dot, Meta Muse, Hark, Cue, Hermes를 하나로 통합하는 오픈 소스(MIT) 데스크톱 워크스페이스. 멀티 에이전트 협업 룸, 계정별 프록시 격리, 승인 기반 로컬 MCP 지원. [![Open-Source Software][OSS Icon]](https://github.com/qybaihe/botark) ![Freeware][Freeware Icon]
 * [ChatGPT](https://openai.com/chatgpt/mac/) - OpenAI 공식 데스크톱 앱.
 * [Claude](https://claude.ai/download) - Anthropic의 공식 데스크톱 앱.
 * [Claude God](https://claudegod.app) - Claude 사용량, 비용, 세션 통계를 모니터링하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/Claude-God) ![Freeware][Freeware Icon]
@@ -1342,6 +1345,7 @@ Awesome Mac
 * [Strata Files](https://stratafiles.app) - 즉시 검색, 실시간 폴더 크기, 디스크 사용량 맵, 듀얼 패널을 갖춘 오픈 소스 파일 관리자이자 Finder 대안. [![Open-Source Software][OSS Icon]](https://github.com/cristipufu/strata-files) ![Freeware][Freeware Icon]
 * [SwiftyMenu](https://apps.apple.com/us/app/swiftymenu/id1567748223?platform=mac) - 선택한 파일이나 폴더를 지정 앱으로 빠르게 여는 Finder 확장.
 * [Keka](https://www.keka.io/) - 다양한 포맷을 지원하는 오픈 소스 압축/해제 도구. [![Open-Source Software][OSS Icon]](https://github.com/aonez/Keka) ![Freeware][Freeware Icon]
+* [Squeeze7z](https://github.com/Camponotus-vagus/Squeeze7z) - 파일 종류별로 압축 방식을 고르고 모든 파일을 검증한 뒤 폴더와 압축 파일을 더 작은 7z 파일로 다시 압축하는 오픈 소스 도구. [![Open-Source Software][OSS Icon]](https://github.com/Camponotus-vagus/Squeeze7z) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [The Unarchiver](https://theunarchiver.com/) - 모든 스타일의 압축 파일을 해제. ![Freeware][Freeware Icon]
 * [Tidywise](https://github.com/floorianmb/tidywise) - Ollama로 흩어진 파일을 Markdown 색인이 포함된 주제별 폴더로 로컬에서 정리하는 메뉴 막대 앱. 전체 실행 취소 및 AI 어시스턴트용 읽기 전용 MCP 서버 포함. [![Open-Source Software][OSS Icon]](https://github.com/floorianmb/tidywise) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Unarchive One](https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - 다양한 일반 압축 포맷을 압축하고 해제하는 도구. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1127253508?pt=444218&ct=GitHub&mt=8&platform=mac)

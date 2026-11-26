@@ -214,6 +214,7 @@ Awesome Mac
 * [Deco IDE](https://www.decosoftware.com/) - React Native IDE 支持控件拖拽界面实时变更。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/decosoftware/deco-ide)
 * [Espresso](http://espressoapp.com/) - Web 编程利器，具备了快速且强大的编辑功能、专业检查与分类、即时预览编辑成果、发布与同步功能等。
 * [Fletch](https://fletch.sh/?utm_source=dir-awesome-mac) - 面向 AI 编程代理的原生 IDE，为每个代理提供仓库的沙盒化克隆以及共享的符号与调用图索引，合并前可进行差异审查。 [![Open-Source Software][OSS Icon]](https://github.com/fwdai/fletch) ![Freeware][Freeware Icon]
+* [Friday](https://www.tryfridaywork.com) - 免费开源应用，让 Claude Code、Codex、Cursor 等编程代理协同工作：共享任务板、每个代理独立的 git worktree、带行内批注的差异审查，并在某个代理达到用量上限时把任务交给另一个代理。 [![Open-Source Software][OSS Icon]](https://github.com/splashxmoon/friday-code) ![Freeware][Freeware Icon]
 * [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Emacs 是基于控制台的编辑器和高度可定制的。 [![Open-Source Software][OSS Icon]](https://git.savannah.gnu.org/cgit/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/emacs-tw/awesome-emacs#readme)
 * [Eclipse](https://www.eclipse.org) - 流行的开源 IDE，主要用于 Java，也为多种语言提供插件支持。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Haystack Editor](https://github.com/haystackeditor/haystack-editor) - 结合简洁的代码编辑和画布 UI，提升代码理解。支持编辑、导航、调试和扩展。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
@@ -696,6 +697,7 @@ Awesome Mac
 
 * [Agent Teams AI](https://agentteams.live/) - 通过团队消息、任务看板和代码审查协调自主 AI 编码代理的开源桌面应用。 [![Open-Source Software][OSS Icon]](https://github.com/777genius/agent-teams-ai) ![Freeware][Freeware Icon]
 * [Agenttrace](https://luoyuctl.github.io/agenttrace/) - 本地优先的 TUI，可检查 AI 编程代理会话、成本、Token、延迟、工具失败、健康度和差异。 [![Open-Source Software][OSS Icon]](https://github.com/luoyuctl/agenttrace) ![Freeware][Freeware Icon]
+* [AI Hub Bar](https://olehdemishev.github.io/AIHubBar/) - 开源菜单栏应用，显示 Claude、Codex、Copilot、Gemini CLI 和 Cursor 的用量限额，列出所有正在运行的代理会话，并可直接在通知中回应它们的权限请求。 [![Open-Source Software][OSS Icon]](https://github.com/OlehDemishev/AIHubBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Airbag](https://github.com/a1murt/airbag) - 在 AI 编程代理执行可能修改文件的 shell 命令前为项目创建快照的开源菜单栏应用，误删的文件和被清空的 .env 可一键恢复。 [![Open-Source Software][OSS Icon]](https://github.com/a1murt/airbag) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [AppleAi](https://github.com/bunnysayzz/AppleAI) - 一键快捷访问菜单栏中的多款 AI 助手。 [![Open-Source Software][OSS Icon]](https://github.com/bunnysayzz/AppleAI)
 * [Apple On-Device OpenAI](https://github.com/gety-ai/apple-on-device-openai) - 将 Apple 端侧模型封装为 OpenAI 兼容 API 的工具。 [![Open-Source Software][OSS Icon]](https://github.com/gety-ai/apple-on-device-openai) ![Freeware][Freeware Icon]
@@ -707,6 +709,7 @@ Awesome Mac
 * [Atticus](https://saarthurr.github.io/atticus-mac/) - 开源语音助手，使用你的 Claude 订阅运行，做过一次的任务就会学会，支持听写、屏幕指引和后台代理。 [![Open-Source Software][OSS Icon]](https://github.com/SaarthurR/atticus-mac) ![Freeware][Freeware Icon]
 * [BaseHalf](https://basehalf.com) - 把文件夹打开成画布的开源桌面应用，笔记、PDF 和媒体都在画布上，Claude Code、Codex 等 AI 智能体在旁边处理同一批文件。 [![Open-Source Software][OSS Icon]](https://github.com/Pointa-Labs/basehalf) ![Freeware][Freeware Icon]
 * [BitFun](https://openbitfun.com/) - 为每个任务生成专属交互界面的开源 AI 智能体，并将聊天与实时状态联动。 [![Open-Source Software][OSS Icon]](https://github.com/GCWing/BitFun) ![Freeware][Freeware Icon]
+* [BotArk](https://qybaihe.github.io/botark/) - 开源（MIT）跨平台原生桌面工作台，聚合 Grok Bot、Google Antigravity、ChatGPT Dot、Meta Muse、Hark、Cue 与 Hermes，支持跨平台多 Agent 协作室、单账号独立代理隔离与受控本地 MCP。 [![Open-Source Software][OSS Icon]](https://github.com/qybaihe/botark) ![Freeware][Freeware Icon]
 * [ChatGPT](https://openai.com/chatgpt/mac/) - OpenAI官方出品的Apple Silicon 支持客户端
 * [Claude](https://claude.ai/download) - 你的桌面 AI 伙伴。快速、专注，专为深度工作设计。
 * [Claude God](https://claudegod.app) - 用于监控 Claude 用量、成本和会话统计的工具。 [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/Claude-God) ![Freeware][Freeware Icon]
@@ -1494,6 +1497,7 @@ Awesome Mac
 * [SATF](https://github.com/tran-minh-khoi/SATF) - 拖动文件时轻轻一晃，即可在光标下弹出的环形菜单中转换格式、合并为 PDF、压缩或解压。 [![Open-Source Software][OSS Icon]](https://github.com/tran-minh-khoi/SATF) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Swivel](https://github.com/jonathanlotan/Swivel) - 拖动文件时按一下按键，把它们放到转盘上即可转换、裁剪、压缩、去除元数据或分享，完全离线。 [![Open-Source Software][OSS Icon]](https://github.com/jonathanlotan/Swivel) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Terento](https://terento.app) - 为 Garmin 手表和 Edge 自行车码表安装免费地图。 [![Open-Source Software][OSS Icon]](https://github.com/VooZ2/terento) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6828556832) ![Native App][Native Icon]
+* [Squeeze7z](https://github.com/Camponotus-vagus/Squeeze7z) - 开源工具，将文件夹和压缩包重新打包为更小的 7z 文件，按文件类型选择压缩方法，并在保留结果前逐一校验每个文件。 [![Open-Source Software][OSS Icon]](https://github.com/Camponotus-vagus/Squeeze7z) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [The Unarchiver](https://theunarchiver.com/) - 解压许多不同种类的归档压缩文件。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/the-unarchiver/id425424353?platform=mac)
 * [Tidywise](https://github.com/floorianmb/tidywise) - 本地优先的菜单栏应用，通过 Ollama 将散落文件分类到带 Markdown 索引的主题文件夹，支持完整撤销和只读 MCP 服务器。 [![Open-Source Software][OSS Icon]](https://github.com/floorianmb/tidywise) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [TripleClick](https://github.com/wilu222/tripleclick) - 开源菜单栏工具，用三指点按触控板触发鼠标中键点击，并支持中键拖动。 [![Open-Source Software][OSS Icon]](https://github.com/wilu222/tripleclick) ![Freeware][Freeware Icon]

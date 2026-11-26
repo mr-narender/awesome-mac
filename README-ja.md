@@ -412,6 +412,7 @@ Awesome Mac
 * [Eclipse](https://www.eclipse.org) - 多言語のプラグインサポートを備えたJava用の人気オープンソースIDE。 ![OSS][OSS Icon] ![Freeware][Freeware Icon]
 * [Espresso](http://espressoapp.com/) - Mac用Webエディタが復活。洗練された革新的で高速なWebサイトを作る人のために。
 * [Fletch](https://fletch.sh/?utm_source=dir-awesome-mac) - AI コーディングエージェント向けのネイティブ IDE。各エージェントにリポジトリのサンドボックス化されたクローンと共有のシンボル・コールグラフインデックスを提供し、マージ前に差分をレビューできます。 [![Open-Source Software][OSS Icon]](https://github.com/fwdai/fletch) ![Freeware][Freeware Icon]
+* [Friday](https://www.tryfridaywork.com) - Claude Code、Codex、Cursor などのコーディングエージェントを 1 つのチームとして動かす無料のオープンソースアプリ。共有タスクボード、エージェントごとの git worktree、行コメント付きの差分レビューを備え、利用上限に達したエージェントのタスクを別のエージェントに引き継ぎます。 [![Open-Source Software][OSS Icon]](https://github.com/splashxmoon/friday-code) ![Freeware][Freeware Icon]
 * [BeagleEditor](https://github.com/beaglesoftware/editor) - シンタックスハイライト、プラグインなどの機能を備えた「beagleful」なエディタ。少し見た目は粗いが動作します。
 * [JetBrains Toolbox App](https://www.jetbrains.com/toolbox/) - インストール済みのJetBrainsツールの管理、新しいツールのダウンロード、最近のプロジェクトを開く。 ![Freeware][Freeware Icon]
   * [AppCode](https://www.jetbrains.com/objc/) - iOS/macOS開発のためのスマートIDE
@@ -926,6 +927,7 @@ Awesome Mac
 
 * [Agent Teams AI](https://agentteams.live/) - チームメッセージ、タスクボード、コードレビューを通じて自律型 AI コーディングエージェントを連携させるオープンソースのデスクトップアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/777genius/agent-teams-ai) ![Freeware][Freeware Icon]
 * [Agenttrace](https://luoyuctl.github.io/agenttrace/) - AIコーディングエージェントのセッション、コスト、トークン、遅延、ツール失敗、健全性、差分を確認できるローカルファーストTUI。 [![Open-Source Software][OSS Icon]](https://github.com/luoyuctl/agenttrace) ![Freeware][Freeware Icon]
+* [AI Hub Bar](https://olehdemishev.github.io/AIHubBar/) - Claude、Codex、Copilot、Gemini CLI、Cursor の使用量上限を表示し、実行中のエージェントセッションを一覧にして、権限リクエストに通知から応答できるオープンソースのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/OlehDemishev/AIHubBar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Airbag](https://github.com/a1murt/airbag) - AIコーディングエージェントがファイルを変更しうるシェルコマンドを実行する前にプロジェクトのスナップショットを取り、削除されたファイルや消えた.envをワンクリックで復元できるオープンソースのメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/a1murt/airbag) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [AppleAi](https://www.theappleai.tech/) - メニューバーから1つのショートカットで複数のAIアシスタントにアクセス。 [![Open-Source Software][OSS Icon]](https://github.com/bunnysayzz/AppleAI)
 * [Apple On-Device OpenAI](https://github.com/gety-ai/apple-on-device-openai) - AppleのオンデバイスモデルをOpenAI互換APIとして公開するツール。 [![Open-Source Software][OSS Icon]](https://github.com/gety-ai/apple-on-device-openai) ![Freeware][Freeware Icon]
@@ -938,6 +940,7 @@ Awesome Mac
 * [BaseHalf](https://basehalf.com) - フォルダをノート、PDF、メディアのキャンバスとして開き、Claude CodeやCodexなどのAIエージェントが隣で同じファイルを扱えるオープンソースのデスクトップアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/Pointa-Labs/basehalf) ![Freeware][Freeware Icon]
 * [BitFun](https://openbitfun.com/) - タスクごとに専用のインタラクティブ画面を作り、チャットをライブ状態に連動させるオープンソースAIエージェント。 [![Open-Source Software][OSS Icon]](https://github.com/GCWing/BitFun) ![Freeware][Freeware Icon]
 * [BoltAI](https://boltai.com) - Mac用の美しく強力なChatGPTアプリ。AIをワークフローに統合して一歩先へ。
+* [BotArk](https://qybaihe.github.io/botark/) - Grok Bot、Google Antigravity、ChatGPT Dot、Meta Muse、Hark、Cue、Hermes をひとつの画面に統合するオープンソース（MIT）のデスクトップワークスペース。マルチエージェント協働ルーム、アカウント別プロキシ隔離、承認制ローカル MCP に対応。 [![Open-Source Software][OSS Icon]](https://github.com/qybaihe/botark) ![Freeware][Freeware Icon]
 * [ChatGPT](https://openai.com/chatgpt/mac/) - 聞き、学び、挑戦する対話型AIシステム。
 * [Claude](https://claude.ai/download) - デスクトップ上のAIパートナー。高速で集中力が高く、深い作業のために設計。
 * [Claude God](https://claudegod.app) - Claudeの使用量、コスト、セッション統計を監視するツール。 [![Open-Source Software][OSS Icon]](https://github.com/Lcharvol/Claude-God) ![Freeware][Freeware Icon]
@@ -1673,6 +1676,7 @@ Awesome Mac
 * [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - タグ付けとアーカイブ作業に便利なツール。 [![Open-Source Software][OSS Icon]](https://github.com/JulianKahnert/PDF-Archiver) [![App Store][app-store Icon]](https://apps.apple.com/app/pdf-archiver/id1433801905?platform=mac)
 * [Rapidmg](https://rapidmg.branchseer.com/) ワンクリックでDMGイメージからアプリを「アプリケーション」フォルダに展開。 [![App Store][app-store Icon]](https://apps.apple.com/app/rapidmg/id6451349778?platform=mac)
 * [Shuffle](https://shuffleapp.co) - Rustで開発されたGPUレンダリングの高速ファイルマネージャー、Finderの代替。 [![Open-Source Software][OSS Icon]](https://github.com/WizenPainter/shuffle) ![Freeware][Freeware Icon]
+* [Squeeze7z](https://github.com/Camponotus-vagus/Squeeze7z) - ファイルの種類ごとに圧縮方式を選び、全ファイルを検証したうえで、フォルダやアーカイブをより小さな 7z ファイルに再圧縮するオープンソースツール。 [![Open-Source Software][OSS Icon]](https://github.com/Camponotus-vagus/Squeeze7z) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [The Unarchiver](https://theunarchiver.com/) - 様々な種類のアーカイブファイルを解凍。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/the-unarchiver/id425424353?platform=mac)
 * [Tidywise](https://github.com/floorianmb/tidywise) - Ollama を使って散らばったファイルを Markdown インデックス付きのトピックフォルダにローカルで整理するメニューバーアプリ。完全な元に戻す機能と読み取り専用 MCP サーバーを搭載。 [![Open-Source Software][OSS Icon]](https://github.com/floorianmb/tidywise) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Unarchive One](https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&utm_medium=referral&utm_campaign=githubproject) - 多くの一般的な形式に対応した圧縮・解凍ツール。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1127253508?pt=444218&ct=GitHub&mt=8&platform=mac)
