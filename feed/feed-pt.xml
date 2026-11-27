@@ -5,9 +5,66 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Aplicativos macOS adicionados recentemente à lista em português.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Nov 2026 06:02:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:30:11 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-pt.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>DropExe</title>
+      <link>https://hollowbit.dev/dropexe/</link>
+      <guid isPermaLink="false">8e73afbe9570c6ce03571d12afb2094582e863c2:DropExe</guid>
+      <pubDate>Fri, 27 Nov 2026 12:30:11 GMT</pubDate>
+      <category>Software para Jogos</category>
+      <description>Category: Software para Jogos
+App: DropExe
+Description: Execute jogos e apps do Windows em Macs com Apple Silicon através do Wine, com instalação do Steam e da Epic em um clique, arrastar e soltar para qualquer .exe e um botão Make it run que testa configurações gráficas (DXMT, DXVK, D3DMetal) até o jogo abrir.
+Website: https://hollowbit.dev/dropexe/
+Commit: Add DropExe (#5136)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8e73afbe9570c6ce03571d12afb2094582e863c2</description>
+      <content:encoded><![CDATA[Category: Software para Jogos<br/>App: DropExe<br/>Description: Execute jogos e apps do Windows em Macs com Apple Silicon através do Wine, com instalação do Steam e da Epic em um clique, arrastar e soltar para qualquer .exe e um botão Make it run que testa configurações gráficas (DXMT, DXVK, D3DMetal) até o jogo abrir.<br/>Website: https://hollowbit.dev/dropexe/<br/>Commit: Add DropExe (#5136)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8e73afbe9570c6ce03571d12afb2094582e863c2]]></content:encoded>
+    </item>
+    <item>
+      <title>FestiveLights</title>
+      <link>https://www.blackbox.ms/festive/en/</link>
+      <guid isPermaLink="false">b772cbd5ff6589b5a9c1890efe1580c64a4389f1:FestiveLights</guid>
+      <pubDate>Fri, 27 Nov 2026 03:36:08 GMT</pubDate>
+      <category>Utilitários / Ferramentas da Barra de Menus</category>
+      <description>Category: Utilitários / Ferramentas da Barra de Menus
+App: FestiveLights
+Description: Luzes de Natal sob a barra de menus e no Dock, com neve que se acumula sobre as janelas.
+Website: https://www.blackbox.ms/festive/en/
+Open Source: https://github.com/krystofbe/festive-lights
+Commit: Add FestiveLights to Menu Bar Tools (#5105)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b772cbd5ff6589b5a9c1890efe1580c64a4389f1</description>
+      <content:encoded><![CDATA[Category: Utilitários / Ferramentas da Barra de Menus<br/>App: FestiveLights<br/>Description: Luzes de Natal sob a barra de menus e no Dock, com neve que se acumula sobre as janelas.<br/>Website: https://www.blackbox.ms/festive/en/<br/>Open Source: https://github.com/krystofbe/festive-lights<br/>Commit: Add FestiveLights to Menu Bar Tools (#5105)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b772cbd5ff6589b5a9c1890efe1580c64a4389f1]]></content:encoded>
+    </item>
+    <item>
+      <title>VirtualBuddy</title>
+      <link>https://github.com/insidegui/VirtualBuddy</link>
+      <guid isPermaLink="false">e23e94813fadfe60054b891dfb0ff28b8bd07800:VirtualBuddy</guid>
+      <pubDate>Thu, 26 Nov 2026 16:59:00 GMT</pubDate>
+      <category>Ferramentas para Desenvolvedores / Virtualização</category>
+      <description>Category: Ferramentas para Desenvolvedores / Virtualização
+App: VirtualBuddy
+Description: Execute máquinas virtuais com macOS e Linux ARM em Macs com Apple silicon.
+Open Source: https://github.com/insidegui/VirtualBuddy
+Commit: Add VirtualBuddy to virtualization tools (#5097)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e23e94813fadfe60054b891dfb0ff28b8bd07800</description>
+      <content:encoded><![CDATA[Category: Ferramentas para Desenvolvedores / Virtualização<br/>App: VirtualBuddy<br/>Description: Execute máquinas virtuais com macOS e Linux ARM em Macs com Apple silicon.<br/>Open Source: https://github.com/insidegui/VirtualBuddy<br/>Commit: Add VirtualBuddy to virtualization tools (#5097)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e23e94813fadfe60054b891dfb0ff28b8bd07800]]></content:encoded>
+    </item>
+    <item>
+      <title>Earpiece</title>
+      <link>https://github.com/AllanLotta/earpiece</link>
+      <guid isPermaLink="false">c46bd96fc31360f111c2fd4c2777970630dd4ccb:Earpiece</guid>
+      <pubDate>Thu, 26 Nov 2026 16:06:25 GMT</pubDate>
+      <category>Ferramentas de Áudio e Vídeo / Gravação e Processamento de Áudio</category>
+      <description>Category: Ferramentas de Áudio e Vídeo / Gravação e Processamento de Áudio
+App: Earpiece
+Description: Copiloto de chamadas na barra de menus que transcreve no próprio dispositivo, detecta perguntas feitas a você e mostra uma resposta sugerida no notch durante a chamada, usando sua assinatura do Claude.
+Open Source: https://github.com/AllanLotta/earpiece
+Commit: Add Earpiece to Audio Record and Process (#5094)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c46bd96fc31360f111c2fd4c2777970630dd4ccb</description>
+      <content:encoded><![CDATA[Category: Ferramentas de Áudio e Vídeo / Gravação e Processamento de Áudio<br/>App: Earpiece<br/>Description: Copiloto de chamadas na barra de menus que transcreve no próprio dispositivo, detecta perguntas feitas a você e mostra uma resposta sugerida no notch durante a chamada, usando sua assinatura do Claude.<br/>Open Source: https://github.com/AllanLotta/earpiece<br/>Commit: Add Earpiece to Audio Record and Process (#5094)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c46bd96fc31360f111c2fd4c2777970630dd4ccb]]></content:encoded>
+    </item>
     <item>
       <title>BotArk</title>
       <link>https://qybaihe.github.io/botark/</link>
@@ -681,65 +738,6 @@ Open Source: https://github.com/Bouliw/earshot
 Commit: Add Earshot to Voice-to-Text (#3463)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0240be75bb6d3fcc5f0239e2d1c15dc647b4e925</description>
       <content:encoded><![CDATA[Category: Voz para Texto<br/>App: Earshot<br/>Description: App de barra de menus que transcreve o áudio de qualquer app que você escolher, totalmente no dispositivo, com o nome de quem fala no Microsoft Teams.<br/>Open Source: https://github.com/Bouliw/earshot<br/>Commit: Add Earshot to Voice-to-Text (#3463)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0240be75bb6d3fcc5f0239e2d1c15dc647b4e925]]></content:encoded>
-    </item>
-    <item>
-      <title>Louppe</title>
-      <link>https://louppe.eu/</link>
-      <guid isPermaLink="false">d4dc37cea264d8b99407925d7cafd4d70e2a8c1e:Louppe</guid>
-      <pubDate>Sun, 15 Nov 2026 01:34:50 GMT</pubDate>
-      <category>Design e Produto / Outras Ferramentas</category>
-      <description>Category: Design e Produto / Outras Ferramentas
-App: Louppe
-Description: Visualizador e organizador de fotos e vídeos para navegar em pastas JPEG, RAW e de vídeo, escolher os melhores arquivos pelo teclado e copiá-los sem importar para uma biblioteca.
-Website: https://louppe.eu/
-Open Source: https://github.com/murlexander/louppe-media-culler
-App Store: https://apps.apple.com/app/louppe/id6820131477
-Commit: Add Louppe to Other Tools (EN/ZH/JA/KO/PT) (#4173)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d4dc37cea264d8b99407925d7cafd4d70e2a8c1e</description>
-      <content:encoded><![CDATA[Category: Design e Produto / Outras Ferramentas<br/>App: Louppe<br/>Description: Visualizador e organizador de fotos e vídeos para navegar em pastas JPEG, RAW e de vídeo, escolher os melhores arquivos pelo teclado e copiá-los sem importar para uma biblioteca.<br/>Website: https://louppe.eu/<br/>Open Source: https://github.com/murlexander/louppe-media-culler<br/>App Store: https://apps.apple.com/app/louppe/id6820131477<br/>Commit: Add Louppe to Other Tools (EN/ZH/JA/KO/PT) (#4173)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d4dc37cea264d8b99407925d7cafd4d70e2a8c1e]]></content:encoded>
-    </item>
-    <item>
-      <title>Trace</title>
-      <link>https://github.com/lxyeternal/Trace</link>
-      <guid isPermaLink="false">924fdbae0e4bc4d4c7b133bc77f5c6ce13bdf59d:Trace</guid>
-      <pubDate>Sun, 15 Nov 2026 01:32:24 GMT</pubDate>
-      <category>Utilitários / Produtividade</category>
-      <description>Category: Utilitários / Produtividade
-App: Trace
-Description: Rastreador automático de tempo que registra apps, janelas, arquivos e páginas web, com todos os dados mantidos no seu Mac.
-Open Source: https://github.com/lxyeternal/Trace
-Commit: Add Trace activity tracker to Productivity (EN/ZH/JA/KO/PT) (#4605)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/924fdbae0e4bc4d4c7b133bc77f5c6ce13bdf59d</description>
-      <content:encoded><![CDATA[Category: Utilitários / Produtividade<br/>App: Trace<br/>Description: Rastreador automático de tempo que registra apps, janelas, arquivos e páginas web, com todos os dados mantidos no seu Mac.<br/>Open Source: https://github.com/lxyeternal/Trace<br/>Commit: Add Trace activity tracker to Productivity (EN/ZH/JA/KO/PT) (#4605)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/924fdbae0e4bc4d4c7b133bc77f5c6ce13bdf59d]]></content:encoded>
-    </item>
-    <item>
-      <title>Downright</title>
-      <link>https://downright.cc/</link>
-      <guid isPermaLink="false">3574867687dd7a8a912a0f195b74d3ca024913ee:Downright</guid>
-      <pubDate>Sun, 15 Nov 2026 00:49:23 GMT</pubDate>
-      <category>Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)</category>
-      <description>Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
-App: Downright
-Description: Leitor e editor de Markdown nativo e de código aberto para arquivos comuns, com pré-visualizações do Quick Look, miniaturas no Finder e recarregamento ao vivo quando outro app ou agente altera o arquivo.
-Website: https://downright.cc/
-Open Source: https://github.com/ezzy1630/Downright
-Commit: Add Downright to Markdown tools (#2606)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3574867687dd7a8a912a0f195b74d3ca024913ee</description>
-      <content:encoded><![CDATA[Category: Ferramentas de Leitura e Escrita / Ferramentas de Markdown [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)<br/>App: Downright<br/>Description: Leitor e editor de Markdown nativo e de código aberto para arquivos comuns, com pré-visualizações do Quick Look, miniaturas no Finder e recarregamento ao vivo quando outro app ou agente altera o arquivo.<br/>Website: https://downright.cc/<br/>Open Source: https://github.com/ezzy1630/Downright<br/>Commit: Add Downright to Markdown tools (#2606)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3574867687dd7a8a912a0f195b74d3ca024913ee]]></content:encoded>
-    </item>
-    <item>
-      <title>Sheer</title>
-      <link>https://github.com/AzurLiu/sheer</link>
-      <guid isPermaLink="false">f911ef56496c8db99e58db941bda38fd64da2cf3:Sheer</guid>
-      <pubDate>Sat, 14 Nov 2026 12:28:33 GMT</pubDate>
-      <category>Utilitários / Ferramentas da Barra de Menus</category>
-      <description>Category: Utilitários / Ferramentas da Barra de Menus
-App: Sheer
-Description: Traz a barra de menus transparente no estilo do macOS 26 para o macOS 15, deixando o papel de parede aparecer por trás dela.
-Open Source: https://github.com/AzurLiu/sheer
-Commit: Add Sheer to Menu Bar Tools (#4592)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f911ef56496c8db99e58db941bda38fd64da2cf3</description>
-      <content:encoded><![CDATA[Category: Utilitários / Ferramentas da Barra de Menus<br/>App: Sheer<br/>Description: Traz a barra de menus transparente no estilo do macOS 26 para o macOS 15, deixando o papel de parede aparecer por trás dela.<br/>Open Source: https://github.com/AzurLiu/sheer<br/>Commit: Add Sheer to Menu Bar Tools (#4592)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f911ef56496c8db99e58db941bda38fd64da2cf3]]></content:encoded>
     </item>
   </channel>
 </rss>
