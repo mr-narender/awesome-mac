@@ -5,9 +5,113 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>根据中文列表整理的最近新增 macOS 应用。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 27 Nov 2026 12:30:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:53:21 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed-zh.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Shotbox</title>
+      <link>https://box.gatheon.com</link>
+      <guid isPermaLink="false">56a9c12f59f14a549257aa36b29fe84e6fb8d8c1:Shotbox</guid>
+      <pubDate>Sat, 28 Nov 2026 06:53:21 GMT</pubDate>
+      <category>设计和产品 / 截图工具</category>
+      <description>Category: 设计和产品 / 截图工具
+App: Shotbox
+Description: 菜单栏截图工具，截图后在本机识别图里的文字并自动起标题，之后凭图里的一个词就能搜回原图，支持滚动长截图。
+Website: https://box.gatheon.com
+Open Source: https://github.com/depthsky2016/shotbox
+Commit: Add Shotbox to Screenshot Tools (#5164)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56a9c12f59f14a549257aa36b29fe84e6fb8d8c1</description>
+      <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: Shotbox<br/>Description: 菜单栏截图工具，截图后在本机识别图里的文字并自动起标题，之后凭图里的一个词就能搜回原图，支持滚动长截图。<br/>Website: https://box.gatheon.com<br/>Open Source: https://github.com/depthsky2016/shotbox<br/>Commit: Add Shotbox to Screenshot Tools (#5164)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56a9c12f59f14a549257aa36b29fe84e6fb8d8c1]]></content:encoded>
+    </item>
+    <item>
+      <title>Rakazo</title>
+      <link>https://rakazo.com</link>
+      <guid isPermaLink="false">75577ab17c42cdfd02b5136b8bff6fd94fb19710:Rakazo</guid>
+      <pubDate>Sat, 28 Nov 2026 03:40:11 GMT</pubDate>
+      <category>AI 工具</category>
+      <description>Category: AI 工具
+App: Rakazo
+Description: 用于自托管 AI 智能体的开源应用，每个智能体都有自己的电脑、记忆和定时任务。
+Website: https://rakazo.com
+Open Source: https://github.com/elie222/rakazo
+Commit: Add Rakazo to the AI tools list (#5147)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/75577ab17c42cdfd02b5136b8bff6fd94fb19710</description>
+      <content:encoded><![CDATA[Category: AI 工具<br/>App: Rakazo<br/>Description: 用于自托管 AI 智能体的开源应用，每个智能体都有自己的电脑、记忆和定时任务。<br/>Website: https://rakazo.com<br/>Open Source: https://github.com/elie222/rakazo<br/>Commit: Add Rakazo to the AI tools list (#5147)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/75577ab17c42cdfd02b5136b8bff6fd94fb19710]]></content:encoded>
+    </item>
+    <item>
+      <title>CoPanda</title>
+      <link>https://www.copanda.app/</link>
+      <guid isPermaLink="false">ea1e223628d04a08e4bf94bd535ff6e0d0b646e6:CoPanda</guid>
+      <pubDate>Sat, 28 Nov 2026 03:15:04 GMT</pubDate>
+      <category>其它实用工具 / 剪贴板工具</category>
+      <description>Category: 其它实用工具 / 剪贴板工具
+App: CoPanda
+Description: 开源剪贴板管理器，提供可搜索的本地剪贴板历史，无需账号，无遥测。
+Website: https://www.copanda.app/
+Open Source: https://github.com/rgdevment/CopyPaste
+Commit: Add CoPanda to Clipboard Tools (#4518)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea1e223628d04a08e4bf94bd535ff6e0d0b646e6</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 剪贴板工具<br/>App: CoPanda<br/>Description: 开源剪贴板管理器，提供可搜索的本地剪贴板历史，无需账号，无遥测。<br/>Website: https://www.copanda.app/<br/>Open Source: https://github.com/rgdevment/CopyPaste<br/>Commit: Add CoPanda to Clipboard Tools (#4518)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea1e223628d04a08e4bf94bd535ff6e0d0b646e6]]></content:encoded>
+    </item>
+    <item>
+      <title>ordino</title>
+      <link>https://ordino-app.github.io/ordino/</link>
+      <guid isPermaLink="false">ecbac1709fd0b882683861549bb6c307463a7ccb:ordino</guid>
+      <pubDate>Sat, 28 Nov 2026 03:09:36 GMT</pubDate>
+      <category>其它实用工具 / 窗口管理</category>
+      <description>Category: 其它实用工具 / 窗口管理
+App: ordino
+Description: 一键整理显示器上所有窗口的菜单栏应用，布局会根据窗口数量和屏幕形状自动调整。
+Website: https://ordino-app.github.io/ordino/
+Open Source: https://github.com/ordino-app/ordino
+Commit: Add ordino to Window Management (#5143)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ecbac1709fd0b882683861549bb6c307463a7ccb</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: ordino<br/>Description: 一键整理显示器上所有窗口的菜单栏应用，布局会根据窗口数量和屏幕形状自动调整。<br/>Website: https://ordino-app.github.io/ordino/<br/>Open Source: https://github.com/ordino-app/ordino<br/>Commit: Add ordino to Window Management (#5143)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ecbac1709fd0b882683861549bb6c307463a7ccb]]></content:encoded>
+    </item>
+    <item>
+      <title>Seawall</title>
+      <link>https://seawall.work/?utm_source=awesome-mac&amp;utm_medium=listing</link>
+      <guid isPermaLink="false">f80aafed98c40dc3308155e36636d16491d4d57a:Seawall</guid>
+      <pubDate>Sat, 28 Nov 2026 03:05:09 GMT</pubDate>
+      <category>其它实用工具</category>
+      <description>Category: 其它实用工具
+App: Seawall
+Description: 菜单栏应用，可在设定时间前锁定分心网站和应用，提前退出需要等待。
+Website: https://seawall.work/?utm_source=awesome-mac&amp;utm_medium=listing
+Open Source: https://github.com/NikOneZ1/seawall
+Commit: Add Seawall to Productivity (#5139)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f80aafed98c40dc3308155e36636d16491d4d57a</description>
+      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: Seawall<br/>Description: 菜单栏应用，可在设定时间前锁定分心网站和应用，提前退出需要等待。<br/>Website: https://seawall.work/?utm_source=awesome-mac&amp;utm_medium=listing<br/>Open Source: https://github.com/NikOneZ1/seawall<br/>Commit: Add Seawall to Productivity (#5139)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f80aafed98c40dc3308155e36636d16491d4d57a]]></content:encoded>
+    </item>
+    <item>
+      <title>WinPlug</title>
+      <link>https://winplug.app/</link>
+      <guid isPermaLink="false">71f6992aed32fcb5dad5f0871d2a095242b1cbe5:WinPlug</guid>
+      <pubDate>Sat, 28 Nov 2026 02:16:17 GMT</pubDate>
+      <category>其它实用工具 / 窗口管理</category>
+      <description>Category: 其它实用工具 / 窗口管理
+App: WinPlug
+Description: 为从 Windows 转到 Mac 的用户打造的一体化应用，提供带窗口预览的 Windows 风格任务栏、按窗口切换的 Alt-Tab、截图工具和 Ctrl 快捷键。
+Website: https://winplug.app/
+Commit: Add WinPlug to Window Management (EN/ZH/JA/KO/PT) (#5133)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71f6992aed32fcb5dad5f0871d2a095242b1cbe5</description>
+      <content:encoded><![CDATA[Category: 其它实用工具 / 窗口管理<br/>App: WinPlug<br/>Description: 为从 Windows 转到 Mac 的用户打造的一体化应用，提供带窗口预览的 Windows 风格任务栏、按窗口切换的 Alt-Tab、截图工具和 Ctrl 快捷键。<br/>Website: https://winplug.app/<br/>Commit: Add WinPlug to Window Management (EN/ZH/JA/KO/PT) (#5133)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71f6992aed32fcb5dad5f0871d2a095242b1cbe5]]></content:encoded>
+    </item>
+    <item>
+      <title>Umbra</title>
+      <link>https://umbraeditor.com/</link>
+      <guid isPermaLink="false">d3b3c86e27b4ec038bd9daa283541276e1b59b99:Umbra</guid>
+      <pubDate>Sat, 28 Nov 2026 02:12:36 GMT</pubDate>
+      <category>开发者工具 / 编辑器</category>
+      <description>Category: 开发者工具 / 编辑器
+App: Umbra
+Description: 内置编程智能体和调试功能的原生 macOS 代码编辑器。
+Website: https://umbraeditor.com/
+Open Source: https://github.com/alex-cova/Penumbra
+Commit: Add Umbra to Text Editors (#5141)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d3b3c86e27b4ec038bd9daa283541276e1b59b99</description>
+      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Umbra<br/>Description: 内置编程智能体和调试功能的原生 macOS 代码编辑器。<br/>Website: https://umbraeditor.com/<br/>Open Source: https://github.com/alex-cova/Penumbra<br/>Commit: Add Umbra to Text Editors (#5141)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d3b3c86e27b4ec038bd9daa283541276e1b59b99]]></content:encoded>
+    </item>
     <item>
       <title>DropExe</title>
       <link>https://hollowbit.dev/dropexe/</link>
@@ -630,109 +734,6 @@ Open Source: https://github.com/vladsboev-web/TurboControl
 Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42</description>
       <content:encoded><![CDATA[Category: 其它实用工具 / 系统相关工具<br/>App: TurboControl<br/>Description: 适用于 Intel Mac 的轻量级菜单栏工具：一键切换 Intel Turbo Boost、风扇转速控制和实时 CPU/GPU 温度监控。<br/>Open Source: https://github.com/vladsboev-web/TurboControl<br/>Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42]]></content:encoded>
-    </item>
-    <item>
-      <title>Pokelet</title>
-      <link>https://smcnab1.github.io/pokelet/</link>
-      <guid isPermaLink="false">da61e05c04514792a659fd9ee3c1a0314081908a:Pokelet</guid>
-      <pubDate>Mon, 23 Nov 2026 03:03:04 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: Pokelet
-Description: 一款轻量有趣的 macOS 应用，通过动画角色、点击特效和音效让鼠标光标更生动。
-Website: https://smcnab1.github.io/pokelet/
-Open Source: https://github.com/smcnab1/pokelet
-Commit: Add Pokelet to Quality of Life Improvements (#4912)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/da61e05c04514792a659fd9ee3c1a0314081908a</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Pokelet<br/>Description: 一款轻量有趣的 macOS 应用，通过动画角色、点击特效和音效让鼠标光标更生动。<br/>Website: https://smcnab1.github.io/pokelet/<br/>Open Source: https://github.com/smcnab1/pokelet<br/>Commit: Add Pokelet to Quality of Life Improvements (#4912)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/da61e05c04514792a659fd9ee3c1a0314081908a]]></content:encoded>
-    </item>
-    <item>
-      <title>Traycer</title>
-      <link>https://traycer.ai</link>
-      <guid isPermaLink="false">fec8ce66e1067f7fdd05fb2ede3001200149562f:Traycer</guid>
-      <pubDate>Mon, 23 Nov 2026 02:41:15 GMT</pubDate>
-      <category>开发者工具 / 编辑器</category>
-      <description>Category: 开发者工具 / 编辑器
-App: Traycer
-Description: 开源桌面应用，可从同一份共享计划并行运行 22 个编程代理和模型提供商。
-Website: https://traycer.ai
-Open Source: https://github.com/traycerai/traycer
-Commit: Add Traycer (#4909)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fec8ce66e1067f7fdd05fb2ede3001200149562f</description>
-      <content:encoded><![CDATA[Category: 开发者工具 / 编辑器<br/>App: Traycer<br/>Description: 开源桌面应用，可从同一份共享计划并行运行 22 个编程代理和模型提供商。<br/>Website: https://traycer.ai<br/>Open Source: https://github.com/traycerai/traycer<br/>Commit: Add Traycer (#4909)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fec8ce66e1067f7fdd05fb2ede3001200149562f]]></content:encoded>
-    </item>
-    <item>
-      <title>Iris</title>
-      <link>https://harshwardhangalande.github.io/Iris/</link>
-      <guid isPermaLink="false">0d7cec1826a9adb595cfe89463541379b6866f21:Iris</guid>
-      <pubDate>Mon, 23 Nov 2026 02:20:10 GMT</pubDate>
-      <category>其它实用工具 / 菜单栏工具</category>
-      <description>Category: 其它实用工具 / 菜单栏工具
-App: Iris
-Description: 原生 macOS 20-20-20 护眼与休息提醒工具，支持液态毛玻璃界面、计划休息日程与触控板触觉反馈。
-Website: https://harshwardhangalande.github.io/Iris/
-Open Source: https://github.com/harshwardhangalande/Iris
-Commit: Add Iris to Menu Bar Tools (#4906)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d7cec1826a9adb595cfe89463541379b6866f21</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 菜单栏工具<br/>App: Iris<br/>Description: 原生 macOS 20-20-20 护眼与休息提醒工具，支持液态毛玻璃界面、计划休息日程与触控板触觉反馈。<br/>Website: https://harshwardhangalande.github.io/Iris/<br/>Open Source: https://github.com/harshwardhangalande/Iris<br/>Commit: Add Iris to Menu Bar Tools (#4906)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d7cec1826a9adb595cfe89463541379b6866f21]]></content:encoded>
-    </item>
-    <item>
-      <title>Hush</title>
-      <link>https://github.com/OgnjenAdzic28/hush</link>
-      <guid isPermaLink="false">9b8a9239d7101c2864fb4158f4608dce912bae8b:Hush</guid>
-      <pubDate>Mon, 23 Nov 2026 01:43:40 GMT</pubDate>
-      <category>AI 工具</category>
-      <description>Category: AI 工具
-App: Hush
-Description: 开源的 CLI 和 MCP 服务器，让 AI Agent 在后台操作任意 Mac 应用，每个动作约 178 毫秒，不抢焦点，也不移动你的鼠标指针。
-Open Source: https://github.com/OgnjenAdzic28/hush
-Commit: Add Hush to AI Tools (EN/ZH/JA/KO) (#4901)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9b8a9239d7101c2864fb4158f4608dce912bae8b</description>
-      <content:encoded><![CDATA[Category: AI 工具<br/>App: Hush<br/>Description: 开源的 CLI 和 MCP 服务器，让 AI Agent 在后台操作任意 Mac 应用，每个动作约 178 毫秒，不抢焦点，也不移动你的鼠标指针。<br/>Open Source: https://github.com/OgnjenAdzic28/hush<br/>Commit: Add Hush to AI Tools (EN/ZH/JA/KO) (#4901)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9b8a9239d7101c2864fb4158f4608dce912bae8b]]></content:encoded>
-    </item>
-    <item>
-      <title>TripleClick</title>
-      <link>https://github.com/wilu222/tripleclick</link>
-      <guid isPermaLink="false">e262ae15b83dda3d6e95d9ccadc54466d026a557:TripleClick</guid>
-      <pubDate>Sun, 22 Nov 2026 12:53:36 GMT</pubDate>
-      <category>其它实用工具</category>
-      <description>Category: 其它实用工具
-App: TripleClick
-Description: 开源菜单栏工具，用三指点按触控板触发鼠标中键点击，并支持中键拖动。
-Open Source: https://github.com/wilu222/tripleclick
-Commit: Add TripleClick to Productivity (#4883)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e262ae15b83dda3d6e95d9ccadc54466d026a557</description>
-      <content:encoded><![CDATA[Category: 其它实用工具<br/>App: TripleClick<br/>Description: 开源菜单栏工具，用三指点按触控板触发鼠标中键点击，并支持中键拖动。<br/>Open Source: https://github.com/wilu222/tripleclick<br/>Commit: Add TripleClick to Productivity (#4883)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e262ae15b83dda3d6e95d9ccadc54466d026a557]]></content:encoded>
-    </item>
-    <item>
-      <title>Pinstill（钉图）</title>
-      <link>https://pinstill.echovic.com/</link>
-      <guid isPermaLink="false">0542d7aaa969ebe83de8ba83842c2319e95e96af:Pinstill（钉图）</guid>
-      <pubDate>Sun, 22 Nov 2026 12:50:15 GMT</pubDate>
-      <category>设计和产品 / 截图工具</category>
-      <description>Category: 设计和产品 / 截图工具
-App: Pinstill（钉图）
-Description: 开源截图工具，在选区里就地标注，然后复制、保存，或把截图钉在桌面上。
-Website: https://pinstill.echovic.com/
-Open Source: https://github.com/echoVic/Pinstill
-Commit: Add Add Pinstill to Screenshot Tools (EN/ZH/JA/KO) (#4890)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0542d7aaa969ebe83de8ba83842c2319e95e96af</description>
-      <content:encoded><![CDATA[Category: 设计和产品 / 截图工具<br/>App: Pinstill（钉图）<br/>Description: 开源截图工具，在选区里就地标注，然后复制、保存，或把截图钉在桌面上。<br/>Website: https://pinstill.echovic.com/<br/>Open Source: https://github.com/echoVic/Pinstill<br/>Commit: Add Add Pinstill to Screenshot Tools (EN/ZH/JA/KO) (#4890)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0542d7aaa969ebe83de8ba83842c2319e95e96af]]></content:encoded>
-    </item>
-    <item>
-      <title>Cleanzo</title>
-      <link>https://cleanzo.echovic.com/</link>
-      <guid isPermaLink="false">5bc9a8481e806f307006567d6fde4348cb9649b1:Cleanzo</guid>
-      <pubDate>Sun, 22 Nov 2026 12:25:20 GMT</pubDate>
-      <category>其它实用工具 / 清理卸载</category>
-      <description>Category: 其它实用工具 / 清理卸载
-App: Cleanzo
-Description: 开源 Mac / Windows 清理工具，先看清系统与磁盘占用，确认后再清理缓存、大文件和久未改动的构建产物。
-Website: https://cleanzo.echovic.com/
-Open Source: https://github.com/echoVic/cleanzo
-Commit: Add Cleanzo to Cleanup and Uninstall (#4886)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5bc9a8481e806f307006567d6fde4348cb9649b1</description>
-      <content:encoded><![CDATA[Category: 其它实用工具 / 清理卸载<br/>App: Cleanzo<br/>Description: 开源 Mac / Windows 清理工具，先看清系统与磁盘占用，确认后再清理缓存、大文件和久未改动的构建产物。<br/>Website: https://cleanzo.echovic.com/<br/>Open Source: https://github.com/echoVic/cleanzo<br/>Commit: Add Cleanzo to Cleanup and Uninstall (#4886)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/5bc9a8481e806f307006567d6fde4348cb9649b1]]></content:encoded>
     </item>
   </channel>
 </rss>

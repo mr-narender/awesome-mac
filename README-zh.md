@@ -243,6 +243,7 @@ Awesome Mac
 * [Qt](https://www1.qt.io/cn/) - 跨平台 C++ 图形用户界面应用程序开发框架。
 * [TextMate](https://macromates.com) - 文本编辑器软件，与 BBedit 一起并称苹果机上的 emacs 和 vim。[![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate) ![Freeware][Freeware Icon]
 * [Tincta](https://codingfriends.github.io/Tincta/) - 一个免费的文本编辑器。![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/CodingFriends/Tincta) [![App Store][app-store Icon]](https://apps.apple.com/cn/app/tincta/id448340648?platform=mac)
+* [Umbra](https://umbraeditor.com/) - 内置编程智能体和调试功能的原生 macOS 代码编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/alex-cova/Penumbra) ![Freeware][Freeware Icon]
 * [Visual Studio Code](https://code.visualstudio.com/) - 微软推出的免费/开源编辑器，TypeScript 支持杠杠的，[VSCode常用插件](editor-plugin-zh.md#vscode-plugin)。[![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/viatsko/awesome-vscode#readme)
 * [VSCodium](https://vscodium.com/) - 社区驱动的 VS Code 自由开源发行版。 [![Open-Source Software][OSS Icon]](https://github.com/vscodium/vscodium) ![Freeware][Freeware Icon]
 * [Vim](http://www.vim.org/) - Vim 古老的终端中使用的编辑器，[Vim常用插件](editor-plugin-zh.md#vim-plugin)。[![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/mhinz/vim-galore#readme)
@@ -598,6 +599,7 @@ Awesome Mac
 * [Xnip](http://xnipapp.com/) - 免费好用的滚动截屏利器。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/xnip-handy-screenshot-app/id1221250572?platform=mac) ![Freeware][Freeware Icon]
 * [图几（Tuji）](https://tuji.app/) - 截图、标注并美化。[![App Store][app-store Icon]](https://apps.apple.com/cn/app/tuji/id6479216439?platform=mac) ![Freeware][Freeware Icon]
 * [截图(Jietu)](http://jietu.qq.com/) - 截图附带强大的标注功能，腾讯作品。![Freeware][Freeware Icon]
+* [Shotbox](https://box.gatheon.com) - 菜单栏截图工具，截图后在本机识别图里的文字并自动起标题，之后凭图里的一个词就能搜回原图，支持滚动长截图。 [![Open-Source Software][OSS Icon]](https://github.com/depthsky2016/shotbox) ![Freeware][Freeware Icon]
 
 ### 屏幕录制
 
@@ -751,6 +753,7 @@ Awesome Mac
 * [Lumilo](https://github.com/kotuke/lumilo) - 开源菜单栏应用，运行 Splash 或 llama.cpp 服务器，显示内存与生成速度，并从 Hugging Face 下载模型。 [![Open-Source Software][OSS Icon]](https://github.com/kotuke/lumilo) ![Freeware][Freeware Icon]
 * [Maestro](https://runmaestro.ai) - 采用规格驱动工作流的多 AI 编码代理协作工具。 [![Open-Source Software][OSS Icon]](https://github.com/pedramamini/Maestro)
 * [o8](https://o8.run) - 开源桌面应用，用于审查编码代理的工作，将未通过的改动退回修改，通过后合并。 [![Open-Source Software][OSS Icon]](https://github.com/o8-run/o8)
+* [Rakazo](https://rakazo.com) - 用于自托管 AI 智能体的开源应用，每个智能体都有自己的电脑、记忆和定时任务。 [![Open-Source Software][OSS Icon]](https://github.com/elie222/rakazo) ![Freeware][Freeware Icon]
 * [RecurseChat](https://recurse.chat) - 支持自定义工作流的本地优先 AI 聊天应用。
 * [Relay](https://github.com/ahmetcankacar54/relay) - 在多个账号之间切换 Claude 应用，在所有账号上保留 Claude Code 历史，并查看每个账号的 5 小时和每周限额。 [![Open-Source Software][OSS Icon]](https://github.com/ahmetcankacar54/relay) ![Freeware][Freeware Icon]
 * [MiniClaw](https://miniclaw.bot) - 具备记忆和自动化能力的本地优先个人 AI 代理。 ![Freeware][Freeware Icon]
@@ -1488,6 +1491,7 @@ Awesome Mac
 * [RightMenu Master](https://wangchujiang.com/rightmenu-master/) - 为 Finder 右键菜单增加更多常用操作。 [![App Store][app-store Icon]](https://apps.apple.com/app/rightmenu-master/6737160756?platform=mac)
 * [Rize](https://rize.io/) - 用 AI 自动追踪时间并帮助改善专注习惯。
 * [Scrollr](https://github.com/atuuuuuuu/Scrollr) - 开源菜单栏工具，只反转外接鼠标的滚动方向，触控板保持自然滚动，并可为每个鼠标单独开关。 [![Open-Source Software][OSS Icon]](https://github.com/atuuuuuuu/Scrollr) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Seawall](https://seawall.work/?utm_source=awesome-mac&utm_medium=listing) - 菜单栏应用，可在设定时间前锁定分心网站和应用，提前退出需要等待。 [![Open-Source Software][OSS Icon]](https://github.com/NikOneZ1/seawall) ![Native App][Native Icon]
 * [Seodisias](https://seodisias.com) - 用于扫描站点技术 SEO 问题的网站分析工具。 [![Freeware][Freeware Icon]](https://seodisias.com)
 * [Selectric](https://selectric.io/) - 在邮件、文档和聊天内容中进行本地搜索。
 * [SensibleSideButtons](http://sensible-side-buttons.archagon.net) - 让鼠标侧键在更多应用中支持前进后退。 [![Open-Source Software][OSS Icon]](https://github.com/archagon/sensible-side-buttons)
@@ -1540,6 +1544,7 @@ Awesome Mac
 * [ClipRecallBar](https://turhe123.github.io/clip-recall-bar/) - 键盘优先的剪贴板历史弹窗，边输入边筛选，一键粘贴。 [![Open-Source Software][OSS Icon]](https://github.com/turhe123/clip-recall-bar) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Clipy](https://clipy-app.com/) - 基于 ClipMenu 继续开发的强大的剪切板管理器。 [![Open-Source Software][OSS Icon]](https://github.com/Clipy/Clipy) ![Freeware][Freeware Icon]
 * [Clipy (跨端版)](https://github.com/JunWeiUp/Clipy) - 本地优先的跨平台剪贴板管理器，支持 macOS、Windows 与 Android 局域网加密同步、文件互传、Android 通知镜像及截图 OCR。 [![Open-Source Software][OSS Icon]](https://github.com/JunWeiUp/Clipy) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [CoPanda](https://www.copanda.app/) - 开源剪贴板管理器，提供可搜索的本地剪贴板历史，无需账号，无遥测。 [![Open-Source Software][OSS Icon]](https://github.com/rgdevment/CopyPaste) ![Freeware][Freeware Icon]
 * [Copi](https://github.com/s1ntoneli/Copi) - 一个安全的 macOS 剪贴板替代方案。[![Open-Source Software][OSS Icon]](https://github.com/s1ntoneli/Copi) ![Freeware][Freeware Icon]
 * [Copia](https://geragaraza.com/apps/copia/) - 剪贴板管理工具，保存每一次复制，可一次粘贴多项或逐条粘贴。 [![Open-Source Software][OSS Icon]](https://github.com/geragarazagh/copia) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CopyQ](https://hluk.github.io/CopyQ) - 高级功能剪贴板管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) ![Freeware][Freeware Icon]
@@ -1864,6 +1869,7 @@ Awesome Mac
 * [Nudge](https://nudge.run) - 键盘快捷键和拖拽手势窗口管理工具。[![Open-Source Software][OSS Icon]](https://github.com/mikusnuz/nudge) ![Freeware][Freeware Icon]
 * [Magnet](http://magnet.crowdcafe.com/) - 一个窗口管理器，可以保持工作空间的组织。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/id441258766?platform=mac)
 * [Open Contexts](https://opencontexts.app/) - 开源窗口切换器，提供常驻应用栏和可保存的窗口分组。 [![Open-Source Software][OSS Icon]](https://github.com/zshnb/open-contexts) ![Freeware][Freeware Icon]
+* [ordino](https://ordino-app.github.io/ordino/) - 一键整理显示器上所有窗口的菜单栏应用，布局会根据窗口数量和屏幕形状自动调整。 [![Open-Source Software][OSS Icon]](https://github.com/ordino-app/ordino) ![Freeware][Freeware Icon]
 * [Plonk](https://github.com/ostapondo/plonk) - 菜单栏窗口管理器，支持分区吸附、快捷键，以及可重新启动应用并把每个窗口放回原显示器的工作区；AI 助手也能通过 MCP 来驱动它。 [![Open-Source Software][OSS Icon]](https://github.com/ostapondo/plonk) ![Freeware][Freeware Icon]
 * [rcmd](https://lowtechguys.com/rcmd/) - 使用 <kbd>⌘ Right Command</kbd> 键根据名称切换应用程序。 [![App Store][app-store Icon]](https://apps.apple.com/cn/app/rcmd-app-switcher/id1596283165?platform=mac)
 * [Rectangle-app](https://github.com/rxhanson/Rectangle) - 基于 Spectacle 的窗口管理应用程序，使用键盘快捷键在 macOS 上移动和调整窗口大小。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rxhanson/Rectangle)
@@ -1883,6 +1889,7 @@ Awesome Mac
 * [Total Spaces](http://totalspaces.binaryage.com/) - 为工作区提供快捷键和空间总览的管理工具。
 * [Tungsten Edge 钨极](https://tungstenedge.app) - 以「窗口」为单位的底部任务条，替代系统 Dock：多窗口应用一窗口一张卡片，单窗口应用保持紧凑图标。 [![Open-Source Software][OSS Icon]](https://github.com/moonbai-studio/tungsten-edge) ![Freeware][Freeware Icon]
 * [WindowShade](https://windowshade.aaronlau.me/) - 双击标题栏，窗口就卷成停在原处的一条细栏，再双击展开；另有固定预览和画中画。 [![Open-Source Software][OSS Icon]](https://github.com/surfine/WindowShade) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [WinPlug](https://winplug.app/) - 为从 Windows 转到 Mac 的用户打造的一体化应用，提供带窗口预览的 Windows 风格任务栏、按窗口切换的 Alt-Tab、截图工具和 Ctrl 快捷键。
 * [yabai](https://github.com/koekeishiya/yabai) - 键盘驱动的平铺式窗口管理器。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/yabai/wiki)
 
 ### 密码管理

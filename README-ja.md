@@ -223,6 +223,7 @@ Awesome Mac
 * [SubEthaEdit](https://subethaedit.net/) - いつでもどこでもコーディング、ライティング、コラボレーションができる強力なエディタ！ [![Open-Source Software][OSS Icon]](https://github.com/subethaedit/SubEthaEdit)
 * [TextMate](https://macromates.com) - Appleのオペレーティングシステムに対するアプローチをテキストエディタの世界に持ち込んだエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate) ![Freeware][Freeware Icon]
 * [Tot](https://tot.rocks/) - Totはテキストを収集・編集するためのエレガントでシンプルな方法です。小さなテキストコンパニオン！ ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/tot/id1491071483?platform=mac)
+* [Umbra](https://umbraeditor.com/) - コーディングエージェントとデバッグ機能を内蔵したmacOSネイティブのコードエディタ。 [![Open-Source Software][OSS Icon]](https://github.com/alex-cova/Penumbra) ![Freeware][Freeware Icon]
 * [Vim](http://www.vim.org/) - 古くからあるターミナルベースのエディタ。一般的なプラグインについては[Vim Common Plugins](editor-plugin-ja.md#vim-plugin)をご覧ください。 [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/mhinz/vim-galore#readme)
 * [Vimr](http://vimr.org/) - OS X向けの洗練されたVim体験。 [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr/) ![Freeware][Freeware Icon]
 * [Windsurf](https://windsurf.com/) - エージェント型コーディング、オートコンプリート、MCPに対応したAIコードエディタ。 ![Freeware][Freeware Icon]
@@ -842,6 +843,7 @@ Awesome Mac
 * [Velinshot](https://github.com/Jacknelson6/Velinshot) - 注釈、カスタムフレーム、ローカルOCRに対応した無料のネイティブスクリーンショットエディター（Apple未公証のプレビュー版）。 [![Open-Source Software][OSS Icon]](https://github.com/Jacknelson6/Velinshot) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WellSnap](https://wellsnap.net/) - macOSとWindowsに対応した、矢印、番号付きコールアウト、隠した部分のピクセルを使わないぼかしを備えたオープンソースのスクリーンショットツール。 [![Open-Source Software][OSS Icon]](https://github.com/hashtriton/wellsnap) ![Freeware][Freeware Icon]
 * [Xnip](http://xnipapp.com/) - 便利なスクリーンショットアプリ。 [![App Store][app-store Icon]](https://apps.apple.com/app/xnip-handy-screenshot-app/id1221250572?platform=mac) ![Freeware][Freeware Icon]
+* [Shotbox](https://box.gatheon.com) - 撮ったスクリーンショットの文字を端末内で認識して自動でタイトルを付け、画像内の単語で後から検索できるメニューバーのスクリーンショットツール。スクロールキャプチャにも対応。 [![Open-Source Software][OSS Icon]](https://github.com/depthsky2016/shotbox) ![Freeware][Freeware Icon]
 
 ### 画面録画
 
@@ -971,6 +973,7 @@ Awesome Mac
 * [Grux](https://gruxai.com) - アクティブなウィンドウを読み取り、ローカルのメール・カレンダー・メモ・ファイルにアクセスできるメニューバーアシスタント。自分のAPIキーまたはローカルモデルで動作。 [![Open-Source Software][OSS Icon]](https://github.com/dotcomjack/grux) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Hush](https://github.com/OgnjenAdzic28/hush) - AIエージェントがあらゆるMacアプリをバックグラウンドで操作できるオープンソースのCLI兼MCPサーバー。1アクション約178ミリ秒で、フォーカスを奪わず、ポインタも動かさない。 [![Open-Source Software][OSS Icon]](https://github.com/OgnjenAdzic28/hush) ![Freeware][Freeware Icon]
 * [o8](https://o8.run) - コーディングエージェントの成果をレビューし、合格するまで差し戻し、合格後にマージするオープンソースのデスクトップアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/o8-run/o8)
+* [Rakazo](https://rakazo.com) - 各エージェントに専用のコンピューター、メモリ、スケジュールタスクを備えたセルフホスト型のオープンソースAIエージェントアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/elie222/rakazo) ![Freeware][Freeware Icon]
 * [RecurseChat](https://recurse.chat) - カスタマイズ可能なローカルファーストのAIチャットアプリ。
 * [Relay](https://github.com/ahmetcankacar54/relay) - Claudeアプリを複数のアカウント間で切り替え、すべてのアカウントでClaude Codeの履歴を保ち、各アカウントの5時間・週間の上限を表示。 [![Open-Source Software][OSS Icon]](https://github.com/ahmetcankacar54/relay) ![Freeware][Freeware Icon]
 * [Runtime](https://github.com/runtime-org/runtime) - AIタスクメイトでWebとオフィスツールをコントロール。
@@ -1465,6 +1468,7 @@ Awesome Mac
 * [ClipTools](https://macmost.com/cliptools) - コピー、ペースト、テキスト整形を手早くこなせるクリップボードツール集。 ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/cliptools/id1619348240?platform=mac)
 * [Clipy](https://clipy-app.com/) - ClipMenuをベースにしたmacOS用クリップボード拡張アプリ。 [![Open-Source Software][OSS Icon]](https://github.com/Clipy/Clipy) ![Freeware][Freeware Icon]
 * [Clipy (Cross-Platform)](https://github.com/JunWeiUp/Clipy) - macOS・Windows・Android 間の暗号化 LAN 同期、ファイル転送、Android 通知ミラーリング、スクリーンショット＆OCR を備えたローカルファーストのクリップボード管理ツール。 [![Open-Source Software][OSS Icon]](https://github.com/JunWeiUp/Clipy) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [CoPanda](https://www.copanda.app/) - 検索できるローカル履歴を備えた、アカウント不要でテレメトリなしのオープンソースのクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/rgdevment/CopyPaste) ![Freeware][Freeware Icon]
 * [Copia](https://geragaraza.com/apps/copia/) - すべてのコピーを保存し、複数をまとめて、または一つずつ貼り付けるクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/geragarazagh/copia) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CopyQ](https://hluk.github.io/CopyQ) - 高度な機能を備えたクリップボードマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) ![Freeware][Freeware Icon]
 * [Cue](https://cue.hridya.tech) - フォーカス中の入力欄を読み取り、メールアドレスや電話番号など、合う部分だけを貼り付けるクリップボード。 [![Open-Source Software][OSS Icon]](https://github.com/hridaya423/cue) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1833,6 +1837,7 @@ Awesome Mac
 * [Rize](https://rize.io/) - AIで時間を追跡し、集中習慣づくりを支援するツール。
 * [RightMenu Master](https://wangchujiang.com/rightmenu-master/) - Finderの右クリックメニューを拡張するツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/rightmenu-master/6737160756?platform=mac)
 * [Scrollr](https://github.com/atuuuuuuu/Scrollr) - 外付けマウスのスクロール方向だけを反転し、トラックパッドはナチュラルスクロールのまま保つオープンソースのメニューバーツール（マウスごとにオン/オフ可能）。 [![Open-Source Software][OSS Icon]](https://github.com/atuuuuuuu/Scrollr) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Seawall](https://seawall.work/?utm_source=awesome-mac&utm_medium=listing) - 設定した時刻まで注意をそらすサイトやアプリをロックし、途中で解除するには待機が必要なメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/NikOneZ1/seawall) ![Native App][Native Icon]
 * [Selectric](https://selectric.io/) - メール、書類、チャットを横断検索できるプライベート検索ツール。
 * [SensibleSideButtons](http://sensible-side-buttons.archagon.net) - マウスのサイドボタンでより多くのアプリの戻る/進むを操作できるツール。 [![Open-Source Software][OSS Icon]](https://github.com/archagon/sensible-side-buttons)
 * [skhd](https://github.com/koekeishiya/skhd) - macOS用のシンプルなホットキーデーモン。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/skhd)
@@ -1893,6 +1898,7 @@ Awesome Mac
 * [Nudge](https://nudge.run) - キーボードショートカットとドラッグジェスチャーでウィンドウを管理するツール。[![Open-Source Software][OSS Icon]](https://github.com/mikusnuz/nudge) ![Freeware][Freeware Icon]
 * [Omni](https://github.com/BarutSRB/OmniWM) - アニメーション付きのNiriおよびHyprlandにインスパイアされた公証済みタイリングウィンドウマネージャー。 [![Open-Source Software][OSS Icon]](https://github.com/BarutSRB/OmniWM) ![Freeware][Freeware Icon]
 * [Open Contexts](https://opencontexts.app/) - 常駐アプリバーと保存可能なウィンドウグループを備えたオープンソースのウィンドウ切り替えツール。 [![Open-Source Software][OSS Icon]](https://github.com/zshnb/open-contexts) ![Freeware][Freeware Icon]
+* [ordino](https://ordino-app.github.io/ordino/) - ワンキーでディスプレイ上のすべてのウィンドウを整列するメニューバーアプリ。ウィンドウ数と画面の形に合わせてレイアウトを選びます。 [![Open-Source Software][OSS Icon]](https://github.com/ordino-app/ordino) ![Freeware][Freeware Icon]
 * [Plonk](https://github.com/ostapondo/plonk) - スナップゾーン、ショートカット、アプリを再起動して各ウィンドウを元のディスプレイに戻すワークスペースを備えたメニューバー型ウィンドウマネージャー。MCP 経由で AI エージェントからも操作できます。 [![Open-Source Software][OSS Icon]](https://github.com/ostapondo/plonk) ![Freeware][Freeware Icon]
 * [rcmd](https://lowtechguys.com/rcmd/) - <kbd>⌘ 右Command</kbd>キーでアプリケーション名に基づいてアプリを切り替え。 [![App Store][app-store Icon]](https://apps.apple.com/us/app/rcmd-app-switcher/id1596283165?platform=mac)
 * [Rectangle-app](https://github.com/rxhanson/Rectangle) - RectangleはSpectacleをベースにSwiftで書かれたウィンドウ管理アプリ。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rxhanson/Rectangle)
@@ -1911,6 +1917,7 @@ Awesome Mac
 * [Topit](https://github.com/lihaoyun6/Topit) - 任意のウィンドウを画面の最前面に固定。 [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/Topit) ![Freeware][Freeware Icon]
 * [Total Spaces](http://totalspaces.binaryage.com/) - ワークスペースの切り替えや把握をしやすくする管理ツール。
 * [WindowShade](https://windowshade.aaronlau.me/en/) - タイトルバーをダブルクリックすると、ウィンドウがその場で細いバーに巻き上がります。ピン留めプレビューとピクチャ・イン・ピクチャにも対応。 [![Open-Source Software][OSS Icon]](https://github.com/surfine/WindowShade) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [WinPlug](https://winplug.app/) - Windowsから乗り換えた人向けに、ウィンドウプレビュー付きのWindows風タスクバー、ウィンドウ単位のAlt-Tab、スクリーンショットツール、Ctrlショートカットをひとつにまとめたアプリ。
 * [yabai](https://github.com/koekeishiya/yabai) - キーボード操作中心のタイル型ウィンドウマネージャー。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/yabai/wiki)
 
 ### パスワード管理

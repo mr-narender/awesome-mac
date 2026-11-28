@@ -5,9 +5,113 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 27 Nov 2026 12:30:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:53:21 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Shotbox</title>
+      <link>https://box.gatheon.com</link>
+      <guid isPermaLink="false">56a9c12f59f14a549257aa36b29fe84e6fb8d8c1:Shotbox</guid>
+      <pubDate>Sat, 28 Nov 2026 06:53:21 GMT</pubDate>
+      <category>Design and Product / Screenshot Tools</category>
+      <description>Category: Design and Product / Screenshot Tools
+App: Shotbox
+Description: Menu bar screenshot tool that reads the text in every capture on-device, titles it automatically and lets you find it later by any word in the image; includes scrolling capture.
+Website: https://box.gatheon.com
+Open Source: https://github.com/depthsky2016/shotbox
+Commit: Add Shotbox to Screenshot Tools (#5164)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56a9c12f59f14a549257aa36b29fe84e6fb8d8c1</description>
+      <content:encoded><![CDATA[Category: Design and Product / Screenshot Tools<br/>App: Shotbox<br/>Description: Menu bar screenshot tool that reads the text in every capture on-device, titles it automatically and lets you find it later by any word in the image; includes scrolling capture.<br/>Website: https://box.gatheon.com<br/>Open Source: https://github.com/depthsky2016/shotbox<br/>Commit: Add Shotbox to Screenshot Tools (#5164)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/56a9c12f59f14a549257aa36b29fe84e6fb8d8c1]]></content:encoded>
+    </item>
+    <item>
+      <title>Rakazo</title>
+      <link>https://rakazo.com</link>
+      <guid isPermaLink="false">75577ab17c42cdfd02b5136b8bff6fd94fb19710:Rakazo</guid>
+      <pubDate>Sat, 28 Nov 2026 03:40:11 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: Rakazo
+Description: Open-source app for running self-hosted AI agents with their own computers, memory, and scheduled tasks.
+Website: https://rakazo.com
+Open Source: https://github.com/elie222/rakazo
+Commit: Add Rakazo to the AI tools list (#5147)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/75577ab17c42cdfd02b5136b8bff6fd94fb19710</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Rakazo<br/>Description: Open-source app for running self-hosted AI agents with their own computers, memory, and scheduled tasks.<br/>Website: https://rakazo.com<br/>Open Source: https://github.com/elie222/rakazo<br/>Commit: Add Rakazo to the AI tools list (#5147)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/75577ab17c42cdfd02b5136b8bff6fd94fb19710]]></content:encoded>
+    </item>
+    <item>
+      <title>CoPanda</title>
+      <link>https://www.copanda.app/</link>
+      <guid isPermaLink="false">ea1e223628d04a08e4bf94bd535ff6e0d0b646e6:CoPanda</guid>
+      <pubDate>Sat, 28 Nov 2026 03:15:04 GMT</pubDate>
+      <category>Utilities / Clipboard Tools</category>
+      <description>Category: Utilities / Clipboard Tools
+App: CoPanda
+Description: Open-source clipboard manager with a searchable local history, no account and no telemetry.
+Website: https://www.copanda.app/
+Open Source: https://github.com/rgdevment/CopyPaste
+Commit: Add CoPanda to Clipboard Tools (#4518)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea1e223628d04a08e4bf94bd535ff6e0d0b646e6</description>
+      <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: CoPanda<br/>Description: Open-source clipboard manager with a searchable local history, no account and no telemetry.<br/>Website: https://www.copanda.app/<br/>Open Source: https://github.com/rgdevment/CopyPaste<br/>Commit: Add CoPanda to Clipboard Tools (#4518)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea1e223628d04a08e4bf94bd535ff6e0d0b646e6]]></content:encoded>
+    </item>
+    <item>
+      <title>ordino</title>
+      <link>https://ordino-app.github.io/ordino/</link>
+      <guid isPermaLink="false">ecbac1709fd0b882683861549bb6c307463a7ccb:ordino</guid>
+      <pubDate>Sat, 28 Nov 2026 03:09:36 GMT</pubDate>
+      <category>Utilities / Window Management</category>
+      <description>Category: Utilities / Window Management
+App: ordino
+Description: Menu bar app that arranges every window on the display with one keystroke, with layouts that adapt to the window count and screen shape.
+Website: https://ordino-app.github.io/ordino/
+Open Source: https://github.com/ordino-app/ordino
+Commit: Add ordino to Window Management (#5143)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ecbac1709fd0b882683861549bb6c307463a7ccb</description>
+      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: ordino<br/>Description: Menu bar app that arranges every window on the display with one keystroke, with layouts that adapt to the window count and screen shape.<br/>Website: https://ordino-app.github.io/ordino/<br/>Open Source: https://github.com/ordino-app/ordino<br/>Commit: Add ordino to Window Management (#5143)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ecbac1709fd0b882683861549bb6c307463a7ccb]]></content:encoded>
+    </item>
+    <item>
+      <title>Seawall</title>
+      <link>https://seawall.work/?utm_source=awesome-mac&amp;utm_medium=listing</link>
+      <guid isPermaLink="false">f80aafed98c40dc3308155e36636d16491d4d57a:Seawall</guid>
+      <pubDate>Sat, 28 Nov 2026 03:05:09 GMT</pubDate>
+      <category>Utilities / Productivity</category>
+      <description>Category: Utilities / Productivity
+App: Seawall
+Description: Menu bar app that locks distracting sites and apps until a set time, with a wait if you leave early.
+Website: https://seawall.work/?utm_source=awesome-mac&amp;utm_medium=listing
+Open Source: https://github.com/NikOneZ1/seawall
+Commit: Add Seawall to Productivity (#5139)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f80aafed98c40dc3308155e36636d16491d4d57a</description>
+      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: Seawall<br/>Description: Menu bar app that locks distracting sites and apps until a set time, with a wait if you leave early.<br/>Website: https://seawall.work/?utm_source=awesome-mac&amp;utm_medium=listing<br/>Open Source: https://github.com/NikOneZ1/seawall<br/>Commit: Add Seawall to Productivity (#5139)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/f80aafed98c40dc3308155e36636d16491d4d57a]]></content:encoded>
+    </item>
+    <item>
+      <title>WinPlug</title>
+      <link>https://winplug.app/</link>
+      <guid isPermaLink="false">71f6992aed32fcb5dad5f0871d2a095242b1cbe5:WinPlug</guid>
+      <pubDate>Sat, 28 Nov 2026 02:16:17 GMT</pubDate>
+      <category>Utilities / Window Management</category>
+      <description>Category: Utilities / Window Management
+App: WinPlug
+Description: Windows-style taskbar with window previews, Alt-Tab between windows, snipping tool and Ctrl shortcuts in one app for people switching from Windows.
+Website: https://winplug.app/
+Commit: Add WinPlug to Window Management (EN/ZH/JA/KO/PT) (#5133)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71f6992aed32fcb5dad5f0871d2a095242b1cbe5</description>
+      <content:encoded><![CDATA[Category: Utilities / Window Management<br/>App: WinPlug<br/>Description: Windows-style taskbar with window previews, Alt-Tab between windows, snipping tool and Ctrl shortcuts in one app for people switching from Windows.<br/>Website: https://winplug.app/<br/>Commit: Add WinPlug to Window Management (EN/ZH/JA/KO/PT) (#5133)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/71f6992aed32fcb5dad5f0871d2a095242b1cbe5]]></content:encoded>
+    </item>
+    <item>
+      <title>Umbra</title>
+      <link>https://umbraeditor.com/</link>
+      <guid isPermaLink="false">d3b3c86e27b4ec038bd9daa283541276e1b59b99:Umbra</guid>
+      <pubDate>Sat, 28 Nov 2026 02:12:36 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: Umbra
+Description: Native macOS code editor with a built-in coding agent and integrated debugging.
+Website: https://umbraeditor.com/
+Open Source: https://github.com/alex-cova/Penumbra
+Commit: Add Umbra to Text Editors (#5141)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d3b3c86e27b4ec038bd9daa283541276e1b59b99</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: Umbra<br/>Description: Native macOS code editor with a built-in coding agent and integrated debugging.<br/>Website: https://umbraeditor.com/<br/>Open Source: https://github.com/alex-cova/Penumbra<br/>Commit: Add Umbra to Text Editors (#5141)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d3b3c86e27b4ec038bd9daa283541276e1b59b99]]></content:encoded>
+    </item>
     <item>
       <title>DropExe</title>
       <link>https://hollowbit.dev/dropexe/</link>
@@ -631,107 +735,6 @@ Open Source: https://github.com/vladsboev-web/ContextRing
 Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42</description>
       <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: ContextRing<br/>Description: Native macOS floating context ring and menu bar token monitor for Google Antigravity 2.0, with local context breakdown and 24h/7d stats.<br/>Open Source: https://github.com/vladsboev-web/ContextRing<br/>Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42]]></content:encoded>
-    </item>
-    <item>
-      <title>SpatialAudio</title>
-      <link>https://github.com/vladsboev-web/SpatialAudio</link>
-      <guid isPermaLink="false">4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42:SpatialAudio</guid>
-      <pubDate>Mon, 23 Nov 2026 05:20:09 GMT</pubDate>
-      <category>Audio and Video Tools</category>
-      <description>Category: Audio and Video Tools
-App: SpatialAudio
-Description: System-wide Apple HRTFHQ spatial soundstage and speaker virtualization for any headphones in the menu bar.
-Open Source: https://github.com/vladsboev-web/SpatialAudio
-Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42</description>
-      <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: SpatialAudio<br/>Description: System-wide Apple HRTFHQ spatial soundstage and speaker virtualization for any headphones in the menu bar.<br/>Open Source: https://github.com/vladsboev-web/SpatialAudio<br/>Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42]]></content:encoded>
-    </item>
-    <item>
-      <title>TurboControl</title>
-      <link>https://github.com/vladsboev-web/TurboControl</link>
-      <guid isPermaLink="false">4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42:TurboControl</guid>
-      <pubDate>Mon, 23 Nov 2026 05:20:09 GMT</pubDate>
-      <category>Utilities / System Related Tools</category>
-      <description>Category: Utilities / System Related Tools
-App: TurboControl
-Description: Lightweight menu bar utility for Intel Macs: 1-click Intel Turbo Boost toggle, fan speed control, and live CPU/GPU thermal monitoring.
-Open Source: https://github.com/vladsboev-web/TurboControl
-Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42</description>
-      <content:encoded><![CDATA[Category: Utilities / System Related Tools<br/>App: TurboControl<br/>Description: Lightweight menu bar utility for Intel Macs: 1-click Intel Turbo Boost toggle, fan speed control, and live CPU/GPU thermal monitoring.<br/>Open Source: https://github.com/vladsboev-web/TurboControl<br/>Commit: Add ContextRing to Developer Utilities (EN/ZH/JA/KO) (#4913)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4b9bb3a5c39b9cb2955af3ef5d5fd624c5c5ff42]]></content:encoded>
-    </item>
-    <item>
-      <title>Pokelet</title>
-      <link>https://smcnab1.github.io/pokelet/</link>
-      <guid isPermaLink="false">da61e05c04514792a659fd9ee3c1a0314081908a:Pokelet</guid>
-      <pubDate>Mon, 23 Nov 2026 03:03:04 GMT</pubDate>
-      <category>Utilities / Quality of Life Improvements</category>
-      <description>Category: Utilities / Quality of Life Improvements
-App: Pokelet
-Description: A playful, lightweight macOS app that brings your cursor to life with animated characters, click effects and sounds.
-Website: https://smcnab1.github.io/pokelet/
-Open Source: https://github.com/smcnab1/pokelet
-Commit: Add Pokelet to Quality of Life Improvements (#4912)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/da61e05c04514792a659fd9ee3c1a0314081908a</description>
-      <content:encoded><![CDATA[Category: Utilities / Quality of Life Improvements<br/>App: Pokelet<br/>Description: A playful, lightweight macOS app that brings your cursor to life with animated characters, click effects and sounds.<br/>Website: https://smcnab1.github.io/pokelet/<br/>Open Source: https://github.com/smcnab1/pokelet<br/>Commit: Add Pokelet to Quality of Life Improvements (#4912)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/da61e05c04514792a659fd9ee3c1a0314081908a]]></content:encoded>
-    </item>
-    <item>
-      <title>Traycer</title>
-      <link>https://traycer.ai</link>
-      <guid isPermaLink="false">fec8ce66e1067f7fdd05fb2ede3001200149562f:Traycer</guid>
-      <pubDate>Mon, 23 Nov 2026 02:41:15 GMT</pubDate>
-      <category>Developer Tools / IDEs</category>
-      <description>Category: Developer Tools / IDEs
-App: Traycer
-Description: Open-source desktop app that runs 22 coding agents and model providers in parallel from one shared plan.
-Website: https://traycer.ai
-Open Source: https://github.com/traycerai/traycer
-Commit: Add Traycer (#4909)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fec8ce66e1067f7fdd05fb2ede3001200149562f</description>
-      <content:encoded><![CDATA[Category: Developer Tools / IDEs<br/>App: Traycer<br/>Description: Open-source desktop app that runs 22 coding agents and model providers in parallel from one shared plan.<br/>Website: https://traycer.ai<br/>Open Source: https://github.com/traycerai/traycer<br/>Commit: Add Traycer (#4909)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fec8ce66e1067f7fdd05fb2ede3001200149562f]]></content:encoded>
-    </item>
-    <item>
-      <title>Iris</title>
-      <link>https://harshwardhangalande.github.io/Iris/</link>
-      <guid isPermaLink="false">0d7cec1826a9adb595cfe89463541379b6866f21:Iris</guid>
-      <pubDate>Mon, 23 Nov 2026 02:20:10 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
-App: Iris
-Description: Native 20-20-20 rule eye-care &amp; break reminder with liquid glass UI, planned routines and Force Touch trackpad haptics.
-Website: https://harshwardhangalande.github.io/Iris/
-Open Source: https://github.com/harshwardhangalande/Iris
-Commit: Add Iris to Menu Bar Tools (#4906)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d7cec1826a9adb595cfe89463541379b6866f21</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Iris<br/>Description: Native 20-20-20 rule eye-care &amp; break reminder with liquid glass UI, planned routines and Force Touch trackpad haptics.<br/>Website: https://harshwardhangalande.github.io/Iris/<br/>Open Source: https://github.com/harshwardhangalande/Iris<br/>Commit: Add Iris to Menu Bar Tools (#4906)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d7cec1826a9adb595cfe89463541379b6866f21]]></content:encoded>
-    </item>
-    <item>
-      <title>Hush</title>
-      <link>https://github.com/OgnjenAdzic28/hush</link>
-      <guid isPermaLink="false">9b8a9239d7101c2864fb4158f4608dce912bae8b:Hush</guid>
-      <pubDate>Mon, 23 Nov 2026 01:43:40 GMT</pubDate>
-      <category>AI Tools</category>
-      <description>Category: AI Tools
-App: Hush
-Description: Open-source CLI and MCP server that lets AI agents drive any Mac app in the background at about 178 ms per action, without taking focus or moving your pointer.
-Open Source: https://github.com/OgnjenAdzic28/hush
-Commit: Add Hush to AI Tools (EN/ZH/JA/KO) (#4901)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9b8a9239d7101c2864fb4158f4608dce912bae8b</description>
-      <content:encoded><![CDATA[Category: AI Tools<br/>App: Hush<br/>Description: Open-source CLI and MCP server that lets AI agents drive any Mac app in the background at about 178 ms per action, without taking focus or moving your pointer.<br/>Open Source: https://github.com/OgnjenAdzic28/hush<br/>Commit: Add Hush to AI Tools (EN/ZH/JA/KO) (#4901)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9b8a9239d7101c2864fb4158f4608dce912bae8b]]></content:encoded>
-    </item>
-    <item>
-      <title>TripleClick</title>
-      <link>https://github.com/wilu222/tripleclick</link>
-      <guid isPermaLink="false">e262ae15b83dda3d6e95d9ccadc54466d026a557:TripleClick</guid>
-      <pubDate>Sun, 22 Nov 2026 12:53:36 GMT</pubDate>
-      <category>Utilities / Productivity</category>
-      <description>Category: Utilities / Productivity
-App: TripleClick
-Description: Open-source menu bar tool that turns a three-finger trackpad click into a middle click, with optional middle-drag.
-Open Source: https://github.com/wilu222/tripleclick
-Commit: Add TripleClick to Productivity (#4883)
-Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e262ae15b83dda3d6e95d9ccadc54466d026a557</description>
-      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: TripleClick<br/>Description: Open-source menu bar tool that turns a three-finger trackpad click into a middle click, with optional middle-drag.<br/>Open Source: https://github.com/wilu222/tripleclick<br/>Commit: Add TripleClick to Productivity (#4883)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/e262ae15b83dda3d6e95d9ccadc54466d026a557]]></content:encoded>
     </item>
   </channel>
 </rss>

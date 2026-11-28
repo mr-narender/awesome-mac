@@ -223,6 +223,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [SubEthaEdit](https://subethaedit.net/) - Powerful editor for writing, coding, and collaboration anytime, anywhere! [![Open-Source Software][OSS Icon]](https://github.com/subethaedit/SubEthaEdit)
 * [TextMate](https://macromates.com) - Editor that brings Apple's approach to operating systems into the world of text editors. [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate) ![Freeware][Freeware Icon]
 * [Tot](https://tot.rocks/) - Tot is an elegant, simple way to collect & edit text. It’s your tiny text companion! ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/tot/id1491071483?platform=mac)
+* [Umbra](https://umbraeditor.com/) - Native macOS code editor with a built-in coding agent and integrated debugging. [![Open-Source Software][OSS Icon]](https://github.com/alex-cova/Penumbra) ![Freeware][Freeware Icon]
 * [Vim](https://www.vim.org/) - An old terminal-based editor. For common plugins, check [Vim Common Plugins](editor-plugin-zh.md#vim-plugin). [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/mhinz/vim-galore#readme)
 * [Vimr](https://vimr.org/) - Refined Vim Experience for OS X. [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr/) ![Freeware][Freeware Icon]
 * [Windsurf](https://windsurf.com/) - AI code editor with agentic coding, autocomplete, and MCP support. ![Freeware][Freeware Icon]
@@ -842,6 +843,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Velinshot](https://github.com/Jacknelson6/Velinshot) - Free native screenshot editor with annotations, custom frames and local OCR (unnotarized preview). [![Open-Source Software][OSS Icon]](https://github.com/Jacknelson6/Velinshot) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WellSnap](https://wellsnap.net/) - Open-source screenshot tool for macOS and Windows with arrows, numbered callouts, and a blur that never uses the hidden pixels. [![Open-Source Software][OSS Icon]](https://github.com/hashtriton/wellsnap) ![Freeware][Freeware Icon]
 * [Xnip](https://xnipapp.com/) - Handy Screenshot App. [![App Store][app-store Icon]](https://apps.apple.com/app/xnip-handy-screenshot-app/id1221250572?platform=mac) ![Freeware][Freeware Icon]
+* [Shotbox](https://box.gatheon.com) - Menu bar screenshot tool that reads the text in every capture on-device, titles it automatically and lets you find it later by any word in the image; includes scrolling capture. [![Open-Source Software][OSS Icon]](https://github.com/depthsky2016/shotbox) ![Freeware][Freeware Icon]
 
 ### Screen Recording
 
@@ -971,6 +973,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Grux](https://gruxai.com) - Menu bar assistant that reads your active window and reaches local mail, calendar, notes, and files, using your own API key or a local model. [![Open-Source Software][OSS Icon]](https://github.com/dotcomjack/grux) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Hush](https://github.com/OgnjenAdzic28/hush) - Open-source CLI and MCP server that lets AI agents drive any Mac app in the background at about 178 ms per action, without taking focus or moving your pointer. [![Open-Source Software][OSS Icon]](https://github.com/OgnjenAdzic28/hush) ![Freeware][Freeware Icon]
 * [o8](https://o8.run) - Open-source desktop app that reviews coding agents' work, sends it back until it passes, and merges it. [![Open-Source Software][OSS Icon]](https://github.com/o8-run/o8)
+* [Rakazo](https://rakazo.com) - Open-source app for running self-hosted AI agents with their own computers, memory, and scheduled tasks. [![Open-Source Software][OSS Icon]](https://github.com/elie222/rakazo) ![Freeware][Freeware Icon]
 * [RecurseChat](https://recurse.chat) - Local-first AI chat app with customizable workflows.
 * [Relay](https://github.com/ahmetcankacar54/relay) - Switch the Claude app between accounts, keep Claude Code history on all of them, and see every account’s 5-hour and weekly limits. [![Open-Source Software][OSS Icon]](https://github.com/ahmetcankacar54/relay) ![Freeware][Freeware Icon]
 * [Runtime](https://github.com/runtime-org/runtime) - AI taskmate and take control of the web & your office tools
@@ -1474,6 +1477,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [ClipTools](https://macmost.com/cliptools) - Clipboard utility set for quick copy, paste, and text cleanup tasks. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/cliptools/id1619348240?platform=mac)
 * [Clipy](https://clipy-app.com/) - Clipy is a Clipboard extension app for macOS. Based on ClipMenu. [![Open-Source Software][OSS Icon]](https://github.com/Clipy/Clipy) ![Freeware][Freeware Icon]
 * [Clipy (Cross-Platform)](https://github.com/JunWeiUp/Clipy) - Local-first clipboard manager with encrypted LAN sync across macOS, Windows & Android, file transfer, Android notification mirroring, screenshots and OCR. [![Open-Source Software][OSS Icon]](https://github.com/JunWeiUp/Clipy) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [CoPanda](https://www.copanda.app/) - Open-source clipboard manager with a searchable local history, no account and no telemetry. [![Open-Source Software][OSS Icon]](https://github.com/rgdevment/CopyPaste) ![Freeware][Freeware Icon]
 * [Copia](https://geragaraza.com/apps/copia/) - Clipboard manager that keeps every copy and pastes several at once or one by one. [![Open-Source Software][OSS Icon]](https://github.com/geragarazagh/copia) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CopyQ](https://hluk.github.io/CopyQ) - Clipboard Manager with Advanced Features. [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) ![Freeware][Freeware Icon]
 * [Cue](https://cue.hridya.tech) - Clipboard that reads the focused field and pastes the part of your clip that fits, such as an email address or a phone number. [![Open-Source Software][OSS Icon]](https://github.com/hridaya423/cue) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1850,6 +1854,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Rize](https://rize.io/) - AI time tracker that helps you focus and build better work habits.
 * [RightMenu Master](https://wangchujiang.com/rightmenu-master/) - Add more useful actions to the Finder right-click menu. [![App Store][app-store Icon]](https://apps.apple.com/app/rightmenu-master/6737160756?platform=mac)
 * [Scrollr](https://github.com/atuuuuuuu/Scrollr) - Open-source menu bar tool that reverses scroll direction for external mice only, so the trackpad keeps natural scrolling, with an on/off switch per mouse. [![Open-Source Software][OSS Icon]](https://github.com/atuuuuuuu/Scrollr) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Seawall](https://seawall.work/?utm_source=awesome-mac&utm_medium=listing) - Menu bar app that locks distracting sites and apps until a set time, with a wait if you leave early. [![Open-Source Software][OSS Icon]](https://github.com/NikOneZ1/seawall) ![Native App][Native Icon]
 * [Selectric](https://selectric.io/) - Private search across email, documents, and chat apps.
 * [SensibleSideButtons](https://sensible-side-buttons.archagon.net) - Make mouse side buttons work for back and forward in more apps. [![Open-Source Software][OSS Icon]](https://github.com/archagon/sensible-side-buttons)
 * [skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/skhd)
@@ -1910,6 +1915,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Nudge](https://nudge.run) - Window manager with keyboard shortcuts and drag-to-edge snapping. [![Open-Source Software][OSS Icon]](https://github.com/mikusnuz/nudge) ![Freeware][Freeware Icon]
 * [Omni](https://github.com/BarutSRB/OmniWM) - Notorized Niri and Hyprland inspired tiling window manager with animations. [![Open-Source Software][OSS Icon]](https://github.com/BarutSRB/OmniWM) ![Freeware][Freeware Icon]
 * [Open Contexts](https://opencontexts.app/) - Open-source window switcher with a persistent app bar and saved window groups. [![Open-Source Software][OSS Icon]](https://github.com/zshnb/open-contexts) ![Freeware][Freeware Icon]
+* [ordino](https://ordino-app.github.io/ordino/) - Menu bar app that arranges every window on the display with one keystroke, with layouts that adapt to the window count and screen shape. [![Open-Source Software][OSS Icon]](https://github.com/ordino-app/ordino) ![Freeware][Freeware Icon]
 * [Plonk](https://github.com/ostapondo/plonk) - Menu bar window manager with snap zones, hotkeys, and saved workspaces that relaunch your apps and put every window back on its monitor; an AI agent can drive it over MCP. [![Open-Source Software][OSS Icon]](https://github.com/ostapondo/plonk) ![Freeware][Freeware Icon]
 * [rcmd](https://lowtechguys.com/rcmd/) - Use the <kbd>⌘ Right Command</kbd> key to switch applications based on their name. [![App Store][app-store Icon]](https://apps.apple.com/us/app/rcmd-app-switcher/id1596283165?platform=mac)
 * [Rectangle-app](https://github.com/rxhanson/Rectangle) - Rectangle is a window management app based on Spectacle, written in Swift. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rxhanson/Rectangle)
@@ -1930,6 +1936,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Total Spaces](https://totalspaces.binaryage.com/) - Workspace manager with hotkeys and spatial overview.
 * [Tungsten Edge](https://tungstenedge.app) - Per-window taskbar and Dock replacement: every open window gets its own labeled card, while single-window apps stay compact icons. [![Open-Source Software][OSS Icon]](https://github.com/moonbai-studio/tungsten-edge) ![Freeware][Freeware Icon]
 * [WindowShade](https://windowshade.aaronlau.me/en/) - Double-click a title bar and the window rolls up into a thin bar where it was; also pinned previews and Picture in Picture. [![Open-Source Software][OSS Icon]](https://github.com/surfine/WindowShade) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [WinPlug](https://winplug.app/) - Windows-style taskbar with window previews, Alt-Tab between windows, snipping tool and Ctrl shortcuts in one app for people switching from Windows.
 * [yabai](https://github.com/koekeishiya/yabai) - Keyboard-driven tiling window manager. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/yabai/wiki)
 
 ### Password Management

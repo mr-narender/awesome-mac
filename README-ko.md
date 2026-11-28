@@ -198,6 +198,7 @@ Awesome Mac
 * [SubEthaEdit](https://subethaedit.net/) - 쓰기, 코딩 및 협업을 위한 강력한 편집기. [![Open-Source Software][OSS Icon]](https://github.com/subethaedit/SubEthaEdit)
 * [TextMate](https://macromates.com) - 텍스트 편집기 세계에 Apple의 운영 체제 접근 방식을 도입한 편집기. [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate) ![Freeware][Freeware Icon]
 * [Tot](https://tot.rocks/) - 텍스트를 수집하고 편집하는 우아하고 간단한 방법. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/tot/id1491071483?platform=mac)
+* [Umbra](https://umbraeditor.com/) - 코딩 에이전트와 디버깅 기능을 내장한 macOS 네이티브 코드 편집기. [![Open-Source Software][OSS Icon]](https://github.com/alex-cova/Penumbra) ![Freeware][Freeware Icon]
 * [Vim](http://www.vim.org/) - 오래된 터미널 기반 편집기. [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/mhinz/vim-galore#readme)
 * [Vimr](http://vimr.org/) - OS X를 위해 정제된 Vim 경험. [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr/) ![Freeware][Freeware Icon]
 * [Zed](https://zed.dev/) - Atom과 Tree-sitter 제작자들이 만든 고성능 멀티플레이어 코드 편집기. [![Open-Source Software][OSS Icon]](https://github.com/zed-industries/zed) ![Freeware][Freeware Icon]
@@ -695,6 +696,7 @@ Awesome Mac
 * [Velinshot](https://github.com/Jacknelson6/Velinshot) - 주석, 사용자 지정 프레임, 로컬 OCR을 지원하는 무료 네이티브 스크린샷 편집기이며 Apple 공증 전 미리보기 버전입니다. [![Open-Source Software][OSS Icon]](https://github.com/Jacknelson6/Velinshot) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [WellSnap](https://wellsnap.net/) - macOS와 Windows를 지원하는 오픈 소스 스크린샷 도구로, 화살표, 번호 콜아웃, 가려진 픽셀을 사용하지 않는 블러를 제공합니다. [![Open-Source Software][OSS Icon]](https://github.com/hashtriton/wellsnap) ![Freeware][Freeware Icon]
 * [Xnip](http://xnipapp.com/) - 편리한 스크린샷 앱. ![Freeware][Freeware Icon]
+* [Shotbox](https://box.gatheon.com) - 캡처한 화면의 글자를 기기 안에서 인식해 자동으로 제목을 붙이고, 이미지 속 단어로 나중에 다시 찾을 수 있는 메뉴 막대 스크린샷 도구. 스크롤 캡처 지원. [![Open-Source Software][OSS Icon]](https://github.com/depthsky2016/shotbox) ![Freeware][Freeware Icon]
 
 ### 화면 녹화
 
@@ -811,6 +813,7 @@ Awesome Mac
 * [Lumilo](https://github.com/kotuke/lumilo) - Splash 또는 llama.cpp 서버를 실행하고 메모리와 생성 속도를 보여 주며 Hugging Face에서 모델을 내려받는 오픈 소스 메뉴 막대 앱. [![Open-Source Software][OSS Icon]](https://github.com/kotuke/lumilo) ![Freeware][Freeware Icon]
 * [Maestro](https://runmaestro.ai) - 명세 기반 워크플로로 여러 AI 코딩 에이전트를 협업시키는 도구. [![Open-Source Software][OSS Icon]](https://github.com/pedramamini/Maestro)
 * [o8](https://o8.run) - 코딩 에이전트의 작업을 리뷰하고, 통과할 때까지 되돌려 보낸 뒤 병합하는 오픈 소스 데스크톱 앱. [![Open-Source Software][OSS Icon]](https://github.com/o8-run/o8)
+* [Rakazo](https://rakazo.com) - 에이전트마다 전용 컴퓨터, 메모리, 예약 작업을 갖춘 셀프호스팅 AI 에이전트용 오픈 소스 앱. [![Open-Source Software][OSS Icon]](https://github.com/elie222/rakazo) ![Freeware][Freeware Icon]
 * [RecurseChat](https://recurse.chat) - 사용자화 가능한 로컬 우선 AI 채팅 앱.
 * [Relay](https://github.com/ahmetcankacar54/relay) - Claude 앱을 여러 계정 간에 전환하고, 모든 계정에서 Claude Code 기록을 유지하며, 각 계정의 5시간·주간 한도를 표시. [![Open-Source Software][OSS Icon]](https://github.com/ahmetcankacar54/relay) ![Freeware][Freeware Icon]
 * [Sesame](https://github.com/qiwei66/sesame) - Claude Code와 Codex가 만들어 준 대시보드, 보고서, 사이트, PR, 파일을 로컬에 모아 두고 몇 글자 입력하거나 한마디 말하면 다시 열어 주는 오픈 소스 앱. [![Open-Source Software][OSS Icon]](https://github.com/qiwei66/sesame) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1174,6 +1177,7 @@ Awesome Mac
 * [ClipTools](https://macmost.com/cliptools) - 복사, 붙여넣기, 텍스트 정리를 빠르게 처리하는 클립보드 유틸리티 모음. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/cliptools/id1619348240?platform=mac)
 * [Clipy](https://clipy-app.com/) - macOS용 클립보드 확장 프로그램. [![Open-Source Software][OSS Icon]](https://github.com/Clipy/Clipy) ![Freeware][Freeware Icon]
 * [Clipy (Cross-Platform)](https://github.com/JunWeiUp/Clipy) - macOS, Windows, Android 간 암호화된 LAN 동기화, 파일 전송, Android 알림 미러링, 스크린샷 및 OCR을 지원하는 로컬 우선 클립보드 관리자. [![Open-Source Software][OSS Icon]](https://github.com/JunWeiUp/Clipy) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [CoPanda](https://www.copanda.app/) - 검색 가능한 로컬 기록을 제공하며 계정과 원격 측정이 없는 오픈 소스 클립보드 관리자. [![Open-Source Software][OSS Icon]](https://github.com/rgdevment/CopyPaste) ![Freeware][Freeware Icon]
 * [Copia](https://geragaraza.com/apps/copia/) - 복사한 모든 항목을 보관하고 여러 항목을 한 번에 또는 하나씩 붙여넣는 클립보드 관리자. [![Open-Source Software][OSS Icon]](https://github.com/geragarazagh/copia) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Kurenai](https://lorder19.github.io/kurenai/) - 검색 가능한 클립보드 기록, 저장된 스니펫 목록, 복사한 항목을 ⌘V로 하나씩 붙여넣는 붙여넣기 대기열. 비밀번호는 저장하지 않으며 기록은 디스크에 암호화됩니다. [![Open-Source Software][OSS Icon]](https://github.com/Lorder19/kurenai) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Cue](https://cue.hridya.tech) - 포커스된 입력란을 읽고 이메일 주소나 전화번호처럼 맞는 부분만 붙여 넣는 클립보드. [![Open-Source Software][OSS Icon]](https://github.com/hridaya423/cue) ![Freeware][Freeware Icon] ![Native App][Native Icon]
@@ -1457,6 +1461,7 @@ Awesome Mac
 * [Rize](https://rize.io/) - AI로 시간을 추적하고 집중 습관 개선을 돕는 도구.
 * [Rustcast](https://rustcast.app) - 모드 전환, 빠른 앱 실행, 파일 검색, 클립보드 기록 등을 한곳에서 다루는 워크플로 도구. [![Open-Source Software][OSS Icon]](https://github.com/unsecretised/rustcast) ![Freeware][Freeware Icon]
 * [Scrollr](https://github.com/atuuuuuuu/Scrollr) - 외장 마우스의 스크롤 방향만 반전하고 트랙패드는 자연스러운 스크롤을 유지하는 오픈 소스 메뉴 막대 도구(마우스별 켜기/끄기 지원). [![Open-Source Software][OSS Icon]](https://github.com/atuuuuuuu/Scrollr) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Seawall](https://seawall.work/?utm_source=awesome-mac&utm_medium=listing) - 설정한 시간까지 방해되는 사이트와 앱을 잠그고, 일찍 해제하려면 대기가 필요한 메뉴 막대 앱. [![Open-Source Software][OSS Icon]](https://github.com/NikOneZ1/seawall) ![Native App][Native Icon]
 * [Seodisias](https://seodisias.com) - 사이트의 기술 SEO 문제를 찾아주는 분석 도구. [![Freeware][Freeware Icon]](https://seodisias.com)
 * [Selectric](https://selectric.io/) - 메일, 문서, 채팅을 로컬에서 검색하는 도구.
 * [SensibleSideButtons](http://sensible-side-buttons.archagon.net) - 더 많은 앱에서 마우스 옆 버튼으로 뒤로/앞으로 가기를 쓰게 해주는 도구. [![Open-Source Software][OSS Icon]](https://github.com/archagon/sensible-side-buttons)
@@ -1500,6 +1505,7 @@ Awesome Mac
 * [Moom](http://manytricks.com/moom/) - 창 이동, 크기 조절, 배치 저장을 쉽게 해주는 도구.
 * [Nudge](https://nudge.run) - 키보드 단축키와 드래그 제스처로 창을 관리하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/mikusnuz/nudge) ![Freeware][Freeware Icon]
 * [Open Contexts](https://opencontexts.app/) - 상시 표시되는 앱 바와 저장 가능한 창 그룹을 제공하는 오픈 소스 창 전환 도구. [![Open-Source Software][OSS Icon]](https://github.com/zshnb/open-contexts) ![Freeware][Freeware Icon]
+* [ordino](https://ordino-app.github.io/ordino/) - 단축키 하나로 디스플레이의 모든 창을 정렬하는 메뉴 막대 앱으로, 창 개수와 화면 형태에 맞춰 레이아웃을 고릅니다. [![Open-Source Software][OSS Icon]](https://github.com/ordino-app/ordino) ![Freeware][Freeware Icon]
 * [Plonk](https://github.com/ostapondo/plonk) - 스냅 영역, 단축키, 앱을 다시 실행해 각 창을 원래 디스플레이로 되돌리는 워크스페이스를 갖춘 메뉴 바 창 관리자. MCP를 통해 AI 에이전트도 조작할 수 있습니다. [![Open-Source Software][OSS Icon]](https://github.com/ostapondo/plonk) ![Freeware][Freeware Icon]
 * [Rectangle](https://rectangleapp.com/) - 단축키 기반 창 위치 조절. [![Open-Source Software][OSS Icon]](https://github.com/rxhanson/Rectangle) ![Freeware][Freeware Icon]
 * [ShortcutCycle](https://shortcutcycle.vercel.app/) - 상황별로 묶은 앱 그룹을 단축키 하나로 전환하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/xcv58/ShortcutCycle) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/shortcutcycle/id6758281578?platform=mac)
@@ -1513,6 +1519,7 @@ Awesome Mac
 * [Tiles](https://freemacsoft.net/tiles/) - 화면 가장자리, 단축키, 메뉴 막대로 창을 정렬하는 도구. ![Freeware][Freeware Icon]
 * [Total Spaces](http://totalspaces.binaryage.com/) - 작업 공간 전환과 배치를 위한 단축키를 제공하는 도구.
 * [WindowShade](https://windowshade.aaronlau.me/en/) - 제목 표시줄을 두 번 클릭하면 창이 그 자리에서 얇은 막대로 말려 올라갑니다. 고정 미리보기와 화면 속 화면도 지원합니다. [![Open-Source Software][OSS Icon]](https://github.com/surfine/WindowShade) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [WinPlug](https://winplug.app/) - Windows에서 넘어온 사용자를 위해 창 미리보기가 있는 Windows 스타일 작업 표시줄, 창 단위 Alt-Tab, 캡처 도구, Ctrl 단축키를 하나로 모은 앱.
 * [yabai](https://github.com/koekeishiya/yabai) - 키보드 중심의 타일링 창 관리자. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/yabai/wiki)
 
 ### 비밀번호 관리
